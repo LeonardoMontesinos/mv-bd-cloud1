@@ -1,0 +1,92 @@
+### CONFIGURACIÓN NFS ENTRE MV DB Y MV APP
+
+==========================================
+### PARTE 1 — EN LA MV DB (Servidor NFS)
+==========================================
+
+# 1. Instalar el servidor NFS
+sudo apt-get update
+sudo apt-get install -y nfs-kernel-server
+
+# 2. Crear la carpeta a compartir (usando tu carpeta del proyecto)
+sudo mkdir -p /home/ubuntu/cine_databases/data
+
+# 3. Asignar permisos amplios (para evitar errores de acceso)
+sudo chown -R nobody:nogroup /home/ubuntu/cine_databases/data
+sudo chmod 777 /home/ubuntu/cine_databases/data
+
+# 4. Configurar exportación NFS
+# Reemplaza IP_PRIVADA/16 por el rango de tu red interna
+echo '/home/ubuntu/cine_databases/data IP_PRIVADA/16(rw,sync,no_subtree_check)' | sudo tee /etc/exports
+
+# 5. Aplicar los cambios y verificar que NFS esté activo
+sudo exportfs -ra
+sudo systemctl enable --now nfs-kernel-server
+
+# 6. Verificar que el servicio escuche en el puerto 2049
+sudo ss -lntp | grep 2049
+
+# Resultado esperado:
+# tcp   LISTEN 0 64 0.0.0.0:2049  ...  users:(("rpc.nfsd",pid=xxxx,...))
+
+CHange IP_PRIVADA in sudo nano /etc/exports
+If Private Ip from MV change
+==========================================
+### PARTE 2 — EN LA MV APP (Cliente NFS)
+==========================================
+
+# 1. Instalar cliente NFS
+sudo apt-get update
+sudo apt-get install -y nfs-common
+
+# 2. Crear el punto de montaje local
+sudo mkdir -p /mnt/theaters
+
+# 3. Montar manualmente el recurso compartido (usa la IP real de la MV DB)
+sudo mount -t nfs -o vers=4.2,proto=tcp IP_PRIVADA:/home/ubuntu/cine_databases/data /mnt/theaters
+
+# 4. Verificar que se montó correctamente
+mount | grep theaters
+
+# Resultado esperado:
+# IP_PRIVADA:/home/ubuntu/cine_databases/data on /mnt/theaters type nfs4 (rw,vers=4.2,proto=tcp)
+
+# 5. Verificar acceso al archivo SQLite
+ls -l /mnt/theaters
+
+# Resultado esperado:
+# -rw-r--r-- 1 ubuntu ubuntu 24576 Oct 6 09:45 theaters.db
+
+# 6. (Opcional) Ver tablas con SQLite directamente
+sqlite3 /mnt/theaters/theaters.db ".tables"
+
+# Resultado esperado:
+# cinemas   salas
+
+==========================================
+### MONTAR AUTOMÁTICAMENTE AL INICIAR (Opcional)
+==========================================
+
+# 1. Editar el archivo /etc/fstab
+sudo nano /etc/fstab
+
+# 2. Agregar esta línea al final:
+172.31.24.15:/home/ubuntu/cine_databases/data  /mnt/theaters  nfs  defaults,vers=4.2,proto=tcp  0  0
+
+# 3. Guardar y probar
+sudo mount -a
+
+# Si no hay errores, el NFS se montará automáticamente al reiniciar.
+
+==========================================
+### VERIFICACIÓN FINAL
+==========================================
+
+# Desde la MV APP:
+ls -l /mnt/theaters/theaters.db
+sqlite3 /mnt/theaters/theaters.db ".tables"
+
+# Desde la MV DB:
+sudo exportfs -v
+
+# Ambas máquinas deben ver el mismo archivo físico.
