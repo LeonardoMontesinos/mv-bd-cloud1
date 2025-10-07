@@ -1,4 +1,4 @@
-### CONFIGURACIÓN NFS ENTRE MV DB Y MV APP
+### CONFIGURACIÓN NFS ENTRE MV DB Y MV APP PARA SQLITE
 
 ==========================================
 ### PARTE 1 — EN LA MV DB (Servidor NFS)
