@@ -1,0 +1,17 @@
+# Archivos y carpetas a ignorar
+environment/
+*.log
+*.tmp
+*.bak
+*.parquet
+*.db
+__pycache__/
+*.sqlite
+*.pyc
+
+# Archivos de entorno y Docker
+.env
+*.pid
+.DS_Store
+docker-compose.override.yml
+EOF

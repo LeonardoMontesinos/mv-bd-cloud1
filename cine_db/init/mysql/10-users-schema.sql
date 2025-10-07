@@ -1,0 +1,27 @@
+SET NAMES utf8mb4;
+
+CREATE TABLE IF NOT EXISTS users (
+  id            CHAR(36) NOT NULL PRIMARY KEY DEFAULT (UUID()),
+  email         VARCHAR(320) NOT NULL UNIQUE,
+  password_hash VARCHAR(255) NOT NULL,
+  phone_number  VARCHAR(32),
+  first_name    VARCHAR(100) NOT NULL,
+  surname       VARCHAR(100) NOT NULL,
+  is_active     TINYINT(1) NOT NULL DEFAULT 1,
+  created_at    TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  updated_at    TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE INDEX idx_users_surname_firstname ON users(surname, first_name);
+
+DELIMITER $$
+CREATE TRIGGER users_bu_updated_at
+BEFORE UPDATE ON users
+FOR EACH ROW
+BEGIN
+  SET NEW.updated_at = CURRENT_TIMESTAMP;
+END$$
+DELIMITER ;
+
+GRANT SELECT, INSERT, UPDATE, DELETE ON usersdb.* TO 'usersuser'@'%';
+FLUSH PRIVILEGES;

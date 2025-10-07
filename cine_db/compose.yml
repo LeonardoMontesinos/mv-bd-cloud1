@@ -1,0 +1,141 @@
+services:
+  # ---------- PostgreSQL MOVIES ----------
+  postgres_movies:
+    image: postgres:16
+    container_name: postgres_movies
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: moviesdb
+      TZ: America/Lima
+    ports:
+      - "15432:5432"
+    volumes:
+      - movies_data:/var/lib/postgresql/data
+      - ./init/postgres/10-movies-init.sql:/docker-entrypoint-initdb.d/10-movies-init.sql:ro
+      - ../data/movies:/data/movies:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d moviesdb"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  # ---------- MySQL USERS ----------
+  mysql_users:
+    image: mysql:8.0
+    container_name: mysql_users
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: "rootpass"
+      MYSQL_DATABASE: "usersdb"
+      MYSQL_USER: "usersuser"
+      MYSQL_PASSWORD: "userspass"
+      TZ: America/Lima
+    command:
+      - --secure-file-priv=/var/lib/mysql-files
+      - --local-infile=0
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_0900_ai_ci
+    ports:
+      - "3307:3306"
+    volumes:
+      - users_data:/var/lib/mysql
+      - ./init/mysql/10-users-schema.sql:/docker-entrypoint-initdb.d/10-users-schema.sql:ro
+      - ./init/mysql/20-users-load.sql:/docker-entrypoint-initdb.d/20-users-load.sql:ro
+      - ../data/users:/var/lib/mysql-files:rw
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-prootpass"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  # ---------- MongoDB BOOKINGS ----------
+  mongo_bookings:
+    image: mongo:7
+    container_name: mongo_bookings
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_DATABASE: bookingsdb
+      TZ: America/Lima
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+      - ./init/mongo/10-mongo-init.js:/docker-entrypoint-initdb.d/10-mongo-init.js:ro
+      - ../data/bookings:/data/bookings:rw
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand({ ping: 1 })"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  # Importador de bookings (ejecuta una vez)
+  bookings_import:
+    image: mongo:7
+    depends_on:
+      mongo_bookings:
+        condition: service_healthy
+    volumes:
+      - ../data/bookings:/data/bookings:rw
+    entrypoint:
+      - /bin/sh
+      - -lc
+      - |
+        set -eu
+        DB=bookingsdb
+        CNT=0
+        for f in /data/bookings/*.ndjson; do
+          [ -e "$f" ] || continue
+          CNT=1
+          echo ">> Importando $f"
+          mongoimport --host mongo_bookings --port 27017 --db "$DB" --collection bookings \
+            --type json --file "$f" --numInsertionWorkers 4
+        done
+        if [ "$CNT" -eq 0 ]; then
+          echo ">> No hay *.ndjson en /data/bookings. Nada que importar."
+        fi
+
+  # ---------- SQLite THEATERS (DB en /srv/theaters, CSVs desde ../data/theaters) ----------
+  sqlite_theaters:
+    image: keinos/sqlite3:latest
+    container_name: sqlite_theaters
+    restart: unless-stopped
+    user: "1000:1000"
+    volumes:
+      - /srv/theaters:/db:rw
+      - ./init/sqlite/10-theaters-schema.sql:/init/10-theaters-schema.sql:ro
+      - ./init/sqlite/20-theaters-load.sql:/init/20-theaters-load.sql:ro
+      - ../data/theaters:/theaters_data:rw
+    entrypoint:
+      - /bin/sh
+      - -lc
+      - |
+        set -eu
+        DB=/db/theaters.db
+        MARK=/db/.import_done
+        if [ ! -f "$DB" ]; then
+          echo ">> creando DB y aplicando schema"
+          sqlite3 "$DB" ".read /init/10-theaters-schema.sql"
+        fi
+        if [ ! -f "$MARK" ]; then
+          if [ -f /theaters_data/cinemas.csv ] || [ -f /theaters_data/salas.csv ]; then
+            echo ">> importando CSVs de /theaters_data"
+            sqlite3 "$DB" ".read /init/20-theaters-load.sql"
+            touch "$MARK"
+            echo ">> importación marcada en $MARK"
+          else
+            echo ">> No hay CSVs en /theaters_data. Saltando import."
+          fi
+        fi
+        tail -f /dev/null
+    healthcheck:
+      test: ["CMD-SHELL", "sqlite3 /db/theaters.db 'SELECT 1;' >/dev/null 2>&1"]
+      interval: 10s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  movies_data:
+  users_data:
+  mongo_data:

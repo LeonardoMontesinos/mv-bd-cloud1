@@ -1,0 +1,501 @@
+id,nombre,genero,descripcion,tiempo,restriccion_edad,is_premiere
+1,Laberinto,Ciencia Ficción,América visto bastante etapa llevar resultados zonas.,140,+13,False
+2,La Silencioso Héroe: Resurrección,Ciencia Ficción,Vuelta estas p productos.,131,+18,False
+3,La Eterno Océano,Ciencia Ficción,Paciente cabo libertad meses unidos. Centros negro aire necesidad bien todas asimismo derecho.,126,,True
+4,El Dorados Océano,Terror,Cuarto atención casos fueron social pocos.,97,+18,True
+5,La Azul Héroe,Comedia,Habrá energía alrededor siglo. Puesto fin imágenes había sea máximo.,100,+18,True
+6,Invierno,Acción,Verdad han medio relaciones peso.,123,+13,False
+7,Laberinto del Bosque,Romance,Relaciones médico mismos. Fondo amigo militar cuestión teoría pudo estructura.,96,,True
+8,La Último Tren,Acción,Media juego tenía claro profesional formación. Valores antes m universidad familia.,111,ATP,True
+9,Océano,Terror,Nombre verdad teatro quienes claro comunidad forma.,95,ATP,False
+10,El Dorados Laberinto,Drama,Esa finalmente pronto mientras razón.,108,+18,False
+11,Perdido Promesa,Terror,González vez social consecuencia.,98,+16,True
+12,Recuerdo de Medianoche,Aventura,Días llegado luz mismo demasiado pero.,127,+16,False
+13,Eterno Camino,Aventura,Demás estamos u cualquier producción.,120,+13,False
+14,La Silencioso Tren,Terror,S nombre palabra victoria josé conjunto.,107,+18,False
+15,Tren: III,Drama,Un particular importancia donde negro razones.,127,,True
+16,Último Sueño,Drama,Cuanto por siete. Varios práctica toda junto.,121,+18,False
+17,Valiente Códigos,Drama,Niños pasa palabra libros propio plaza.,112,,False
+18,El Azul Héroe,Aventura,Nombre razón base sido.,119,+18,False
+19,Sueño,Aventura,Jóvenes mismo nuevos necesario vida este. Varias pocos miguel deben fueron servicio.,127,,False
+20,La Valiente Tren: II,Ciencia Ficción,Padre vio ocasión distintas general opinión.,139,+18,False
+21,Eterno Susurro,Drama,Especialmente comercio compañía mal trata muchos.,122,,False
+22,El Misterioso Isla: Resurrección,Aventura,Temas hijos intereses aunque.,118,+13,True
+23,Susurro: III,Ciencia Ficción,Serán nombre ahora serán creación méxico. Resultados ejército don hacia.,113,,True
+24,Destino del Sur,Aventura,Banco casi mañana evitar. Seguir habían ella industria aumento fueron trabajadores políticos.,129,+18,True
+25,Destino,Animación,Puedo río éxito también plaza palabras fin. Saber solución alta este memoria pero.,101,+18,False
+26,El Dorados Océano: Resurrección,Aventura,Grande sean pensar volver.,129,+16,False
+27,Susurro de los Andes,Aventura,Mirada tendrá volver esfuerzo estar sueño.,123,+13,True
+28,Invierno,Comedia,Medidas tres quién destino. O sólo madrid comenzó fondo vuelta.,113,,False
+29,El Azul Héroe,Aventura,Llamado problemas entrada reunión.,123,+16,True
+30,Códigos del Desierto,Animación,Camino apenas san amigo administración falta un. Su mundo serán toda últimos.,99,ATP,False
+31,El Azul Héroe: Resurrección,Comedia,Haber sería si noche edad hacia madrid se. Autoridades dado viejo cierto cuales duda decisión.,99,,True
+32,La Secreto Tren,Aventura,París nueva cara fiscal.,131,ATP,False
+33,Planeta,Romance,Control piel congreso van vez otros la democracia. Idea señor formas d.,104,+16,False
+34,La Eterno Susurro,Acción,Metros algunos quiere entrada volver hasta. Amor porque algo industria llegó.,129,+18,True
+35,Eterno Susurro,Acción,Noviembre tal buscar actividad. Dejó y única casos.,134,ATP,False
+36,Tren del Pacífico,Animación,Casi medio hoy méxico.,92,,True
+37,La Prohibido Laberinto,Comedia,Unos civil adelante cuadro productos medidas sola. Solución dólares van.,111,+16,True
+38,Recuerdo del Sur,Acción,Viene realizar españoles tiempo pequeña seguro minutos. Política especialmente cerca ellas.,125,+13,True
+39,Secreto Camino,Animación,Ese supuesto tan congreso vio. Estar existen ii muestra mujer conocer del.,98,,True
+40,Planeta,Comedia,Vez plazo entonces san gobierno. Adelante otro artículo administración decisión mitad artículo.,98,ATP,False
+41,El Dorados Héroe,Aventura,Forma comenzó después parte costa.,131,+16,False
+42,Héroe del Bosque,Ciencia Ficción,Fue llegó volvió noviembre.,140,+18,False
+43,La Invisible Susurro,Animación,Siquiera ejemplo deseo título. Quién resto hubo pronto.,101,ATP,False
+44,Dorados Frontera,Comedia,Viejo padre buena quienes quién. Sabe c tribunal tienen dado ir.,106,+18,False
+45,La Oscuro Recuerdo,Comedia,Quería personas i del propios jóvenes.,97,,False
+46,Azul Camino,Animación,Camino claro partidos c bueno.,97,+18,False
+47,Azul Tren,Terror,Países varias técnica diversas nunca.,103,,False
+48,Isla,Acción,Político idea mejores alguna ministerio siguientes encuentro.,115,+18,False
+49,El Último Recuerdo,Comedia,Vez diversas eso sangre.,99,,True
+50,Isla de Lima,Aventura,Línea hasta tema economía abril.,137,ATP,False
+51,La Dorados Susurro,Animación,Parece campo encuentro. Octubre torno práctica.,103,,True
+52,Prohibido Héroe,Terror,Sí palabras deseo profesional otros pasa período.,96,+13,False
+53,Invisible Recuerdo,Ciencia Ficción,Particular paz resultado.,130,ATP,False
+54,Recuerdo del Norte,Ciencia Ficción,Las rodríguez horas principales carta.,122,ATP,False
+55,El Perdido Códigos,Drama,Tengo marco hasta tipos ambiente necesidad le hicieron. Tener vez mil.,122,,False
+56,Tren,Aventura,Segundo amor europa pueblo mantener fuerza. Práctica color actividades siendo qué parece ambiente.,124,+18,True
+57,Oscuro Camino,Drama,Septiembre través dijo asimismo has tendrá volver.,129,+18,False
+58,Laberinto,Comedia,Tiene ocasiones voz jorge uno obstante toma. Encuentra origen tengo casi.,108,+18,False
+59,La Eterno Planeta,Acción,Empresas juego cabeza hermano. Ocasiones hombre nombre ahí.,113,ATP,False
+60,El Dorados Tren,Comedia,Escuela contenido costa vuelve difícil pesetas qué. Vivir aspectos papel color menor yo.,109,+13,False
+61,El Azul Códigos,Comedia,Plaza serán volvió pueblo. Juicio modelo alguien ni.,107,ATP,False
+62,Sueño,Comedia,Encuentra he es buenos carta.,105,,False
+63,La Misterioso Océano,Drama,Ley luego sala necesidad.,114,+18,False
+64,El Dorados Océano,Terror,El dar características segundo sala todavía consejo toda.,101,+18,False
+65,El Silencioso Destino,Terror,Señora sabe dios san aquí.,104,,False
+66,El Oscuro Recuerdo,Romance,Tiempos comunicación momentos teoría. Bueno campo cabeza unión además has estoy aquellos.,110,+16,False
+67,El Perdido Destino,Terror,Única deben nuevas silencio hace costa.,106,+18,False
+68,Valiente Laberinto: Resurrección,Ciencia Ficción,Asimismo psoe pp para noche noche fútbol historia.,128,,True
+69,Planeta,Animación,Estar parís pasó corte carne. Características santiago secretario primera blanca.,92,+18,False
+70,Destino del Norte: Final,Ciencia Ficción,Salud año campaña favor voluntad ciencia principios diez. Falta tras amigo especialmente me amor estos alto.,126,+18,False
+71,El Perdido Recuerdo: III,Animación,Tipo hubiera acciones creo programas. Cabeza este favor curso hacerlo.,96,+16,False
+72,Planeta del Sur,Animación,Aire derechos tipos color sectores mi.,102,ATP,True
+73,La Oscuro Destino,Ciencia Ficción,Blanca espera argentina realidad produce cargo.,126,,True
+74,Códigos del Sur,Ciencia Ficción,Blanca próximo torno distintos. Atención doctor ya s cámara asimismo podemos.,138,+13,False
+75,Misterioso Promesa,Animación,Respuesta importante siempre algún.,88,+18,False
+76,Destino,Drama,Noviembre sentido estamos pocos donde mayores mesa.,120,+13,False
+77,El Azul Camino,Comedia,Primeros siguientes anterior lenguaje producto. Tan fernando respuesta reunión larga lópez hijos.,102,+13,True
+78,Último Camino,Drama,Sociales tratamiento fuentes presencia sangre.,117,,True
+79,La Dorados Sueño,Aventura,Tales sí quiere cámara distintos puesto s. Medio tema que próximo diez hubo joven ocho.,109,ATP,True
+80,Invisible Destino,Aventura,Amigo fuentes manera llevar lugar mucha asociación.,118,,False
+81,Oscuro Isla,Romance,Común visita suerte pasa popular.,101,,False
+82,La Misterioso Promesa,Terror,Sector medidas momento libertad nuestras haber.,102,,False
+83,Azul Susurro,Aventura,Casos época corte distintas trabajo junio.,126,,False
+84,Códigos,Comedia,Uno cabeza destino equipo ministro negro aire. Cultura haber llamado amor cabeza.,109,+16,False
+85,La Dorados Camino,Terror,Marcha están segundo proyectos tres queda baja.,97,+18,False
+86,Misterioso Isla,Acción,Orden casa b iglesia llega desde muestra.,109,+18,False
+87,El Azul Camino: El Regreso,Ciencia Ficción,Serán flores proyecto menor comunicación. Junio armas guerra al popular embargo tú vino.,136,+13,False
+88,Frontera del Bosque,Drama,Santiago esos conjunto guerra juego desde.,133,+13,False
+89,Planeta del Pacífico: Renacimiento,Ciencia Ficción,Estados necesario suerte dijo.,131,+18,False
+90,La Rojo Isla,Romance,Armas carácter serán trabajadores superior. Pueden lugar centro poco cabeza.,100,+16,False
+91,La Secreto Códigos,Romance,Función república sabe pocos presidente experiencia américa. Habla comenzó españoles situación medio.,100,,False
+92,Sueño,Comedia,Unas distintos espacio solo país expresión.,108,+18,False
+93,Héroe de los Andes,Comedia,Expresión demás poder reunión supuesto niño.,109,,True
+94,La Último Planeta,Animación,Principales problema m profesional actitud edad necesidad. Alguien distintas primer estar caso favor madrid reunión.,101,ATP,False
+95,El Prohibido Laberinto,Acción,Nos superior principales ser b.,136,+18,False
+96,El Último Frontera,Comedia,Cómo ambos carrera todos ha tiempos carlos.,111,+16,False
+97,Laberinto,Acción,Vio médico hora san.,127,ATP,True
+98,Frontera del Pacífico,Terror,Banco comenzó movimiento aquella.,95,ATP,False
+99,Silencioso Océano: Resurrección,Comedia,Sur puesto mesa asociación. A poco alrededor libre según larga.,98,+16,False
+100,Recuerdo,Terror,Fernando comisión formas derecha cama.,105,+16,False
+101,El Valiente Sueño,Acción,Europa mantener salir. Ese construcción diferencia pudo cabeza esas cuba.,118,+13,False
+102,Rojo Recuerdo,Terror,Debido imágenes toma problema no.,95,,False
+103,Secreto Invierno: Resurrección,Terror,Informe santa piel familia exterior ii. Zona señora mar.,99,+18,False
+104,Océano del Norte,Romance,Tierra muy efecto cara gonzález. Propuesta solución cual otra paciente elecciones pone papel.,111,,False
+105,El Dorados Tren,Drama,Uso político te peor unos tener meses.,119,+16,False
+106,Promesa,Ciencia Ficción,Puesto hospital misma mejores prensa r resulta.,116,ATP,True
+107,Tren,Comedia,Paz victoria sur violencia igual.,108,+13,False
+108,Susurro,Acción,Podrá te decisión humano pp tipo área. Jamás afirmó principios tiene razón sabe acuerdo.,126,,False
+109,El Dorados Sueño,Acción,Club dinero libros ser pasa encuentran. Siendo militar energía vida peor poner.,120,+18,True
+110,Laberinto,Acción,Importancia torno puesto naturaleza seguir seguir. Sabe podemos consejo metros partido tipo haciendo alrededor.,119,+13,False
+111,El Dorados Promesa,Drama,Viene cinco no unas. Manos aquí tú siguiente.,122,ATP,False
+112,La Valiente Isla,Drama,Luis trata sin profesional su. Mayores aunque nuestros fácil propio.,105,+18,False
+113,Planeta de los Andes,Animación,Esas sido presente empresas. Éxito armas amor ninguna.,91,+16,True
+114,La Valiente Invierno,Drama,Ahí obstante sólo son.,116,+16,True
+115,Isla de Medianoche,Comedia,Explicó armas ciudad relaciones última. Sueño millones armas base conocer nombre barcelona ministerio.,111,,False
+116,Héroe de Lima,Comedia,Quien superior orden mejor imágenes nacional va debe.,109,ATP,True
+117,El Eterno Tren,Acción,Necesidad diciembre ese tener. Cuba ella personas riesgo.,126,+16,False
+118,Camino del Sur: El Regreso,Drama,Mitad junio adelante público julio papel oficial. Forma día interior alto.,117,,True
+119,Silencioso Promesa,Comedia,Partidos volver momentos ahí. Primeros deja el ii éste.,106,+13,False
+120,El Silencioso Héroe: III,Terror,Materia hija joven rey nueva metros. Medidas grande ciento vuelta.,100,+16,False
+121,Océano,Acción,Condiciones asimismo mejor cuatro soy toma.,114,,False
+122,El Azul Camino,Romance,Autoridades ocasión elecciones llegó zona pueda j.,102,ATP,True
+123,Prohibido Planeta,Romance,Vista norte desde civil flores siguiente. Todos les victoria.,118,,False
+124,Códigos del Pacífico,Animación,Somos octubre primeras resultados. Distintos veces felipe buen autoridades conocer.,94,+18,True
+125,Océano de Medianoche,Romance,Objetivo existe hechos quien nacional. Hora precisamente palabras.,109,+16,True
+126,Tren de los Andes,Acción,Unidad ante partidos salida verdad.,118,,False
+127,Secreto Destino,Aventura,Vida verdad pudo productos sabía cuerpo cualquier. Ministro ambos corazón unas hacen población.,125,+13,False
+128,Héroe del Sur,Comedia,Niño francia rodríguez aquella semanas televisión. Tipos justicia diez hacen tanto aquellas único país.,101,+13,False
+129,Héroe,Ciencia Ficción,Ciencia francisco he.,120,ATP,False
+130,La Invisible Destino,Romance,Resto hombres democracia posible usted. Fuego quien estados.,107,+18,False
+131,Planeta del Desierto,Ciencia Ficción,Dejó voz podría asunto sé. Principales equipo un que.,133,,True
+132,Sueño,Romance,Cuarto lejos manera alto mismo deben. Solución metros parte imágenes república local riesgo.,106,ATP,False
+133,Planeta,Aventura,Usted desarrollo llegó presencia. Puesto unión desarrollo mayores haya manuel.,135,ATP,False
+134,Laberinto,Ciencia Ficción,Ejemplo somos peor julio común gracias. Que lópez final c grado favor efecto.,129,+13,False
+135,La Dorados Destino,Comedia,Casa pública propuesta llega lucha.,105,,True
+136,Tren,Romance,Problema resto después época personal voz libro. Hay camino nuestra pueblo.,110,+13,False
+137,Valiente Héroe,Drama,Va actual ir función méxico. Mirada aún muchos van demás fútbol sabía.,110,+13,False
+138,La Invisible Tren,Terror,Concepto vino resulta escuela negro manos. Señora operación tan cuba.,100,,False
+139,Tren,Aventura,Nuestras entre fondo peso cierta plaza actitud tú.,131,+13,False
+140,Tren del Bosque,Terror,Intereses tenían una proceso. Contrario voy fin viene.,99,,False
+141,Tren de los Andes,Aventura,Total desarrollo condiciones carlos dentro.,111,+16,False
+142,La Oscuro Sueño: Final,Drama,Electoral participación pues parís película él. Asociación nombre esos electoral cámara hemos diferencia cine.,116,+16,False
+143,Destino de Medianoche: El Regreso,Terror,Vuelve próximo igual gran consejo.,100,+13,False
+144,El Secreto Camino,Drama,Control ya va cuatro da bastante algo. He estaba habían diferencia propia compañía.,118,+16,False
+145,El Rojo Héroe,Comedia,General casi posibilidad objetivo. París llegar menor he fuego son.,111,+18,True
+146,La Oscuro Recuerdo,Acción,Queda había abril origen pocos. Ellas padres común militares democracia veces.,132,,False
+147,Sueño del Bosque,Drama,Sino hospital cada puedo pudo nosotros.,131,+13,True
+148,El Silencioso Tren,Romance,Éxito produce teatro entrar. Algunas luz dar le control cuadro hermano.,97,ATP,True
+149,Susurro,Ciencia Ficción,Esta ve condiciones fondo ninguna. Club trabajo vamos democracia profesional.,115,+16,False
+150,Perdido Tren,Ciencia Ficción,Curso operación barcelona durante haber.,134,ATP,True
+151,El Dorados Promesa,Romance,Prueba derecha través historia gran hablar. Una voluntad banco estas persona esto nos estaba.,104,+16,False
+152,Susurro del Bosque,Animación,Paciente ve sentido presente diversos jóvenes. Sistemas antonio unión aquí semana.,90,ATP,False
+153,La Eterno Planeta,Acción,Meses mundo nuestra este estilo.,119,,True
+154,La Invisible Tren: Renacimiento,Acción,Metros principios ello control banco. Pese donde sala marzo proyecto juicio te j.,127,ATP,False
+155,Rojo Destino,Drama,Quien mismos mujer. Minutos actual producción debe junio.,131,+16,True
+156,Último Promesa,Romance,Medidas tras caso cerca momentos conseguir.,103,,False
+157,Camino del Desierto,Comedia,Gracias puerta ellos. Reunión derecha ni.,100,+13,True
+158,La Oscuro Promesa,Ciencia Ficción,Tan tratamiento dar nuevos color.,142,,True
+159,Dorados Invierno,Drama,Lenguaje tal instituto semana especialmente juan vuelta.,116,+16,False
+160,Oscuro Promesa,Aventura,Porque sigue europea música hemos. Ante vez atrás todo.,128,ATP,True
+161,Promesa del Sur: Resurrección,Aventura,Ministerio algunas se elementos.,114,,True
+162,La Misterioso Tren,Drama,Generales hora soy lejos campo has madre diferencia.,122,+18,True
+163,El Último Camino,Ciencia Ficción,Permite i ocasión área explicó. Miguel interior participación primeras autoridades parís vamos hacia.,116,ATP,True
+164,Promesa de los Andes,Animación,Santiago interés era dijo. Viene análisis vista ésta fuerzas menos últimos.,103,+13,False
+165,Planeta del Bosque,Animación,Dicho tienen sino.,97,+18,False
+166,Sueño del Sur: III,Comedia,Materia radio unas efecto espacio.,101,,False
+167,Invisible Océano,Ciencia Ficción,Ex aquellos favor nunca los políticas real. Calidad siete i presencia señor salud.,121,,True
+168,El Prohibido Laberinto,Comedia,Cuenta gracias cambios algo carta.,109,,False
+169,Camino,Drama,Amor miguel ambos teatro.,117,ATP,False
+170,Silencioso Sueño: II,Comedia,Tenía importante plan éxito crisis.,110,,False
+171,Océano: III,Acción,Cara cabo e muestra.,126,+18,True
+172,Eterno Sueño,Drama,González ayuda tendrá objetivo sociales quien obra. Visto país política parte nuestras especialmente empresa plaza.,135,+18,False
+173,Secreto Tren,Animación,Visita sería centros quiero enero conjunto buen juan.,99,+13,True
+174,Sueño de los Andes,Animación,Domingo bueno debido aparece teatro supuesto producción orden. Desarrollo cine diario casa los expresión natural.,104,+18,True
+175,Sueño,Ciencia Ficción,Aspecto salud menor deja música.,145,+16,False
+176,El Perdido Héroe,Acción,Dicen estructura acción gobierno. Organización centros adelante españa.,123,+13,False
+177,Sueño,Drama,Son rafael cuyo varias ejemplo sin.,124,,True
+178,Dorados Laberinto,Comedia,Posible puerta propia políticos.,102,ATP,True
+179,La Último Planeta,Terror,Sino constitución octubre partido conseguir.,103,+13,False
+180,Perdido Recuerdo: El Regreso,Acción,Claro día horas. Apoyo investigación trata horas dicho conseguir.,122,ATP,False
+181,Océano,Aventura,Tales había ambos anterior existencia.,125,,False
+182,Susurro,Comedia,Mí aumento propios industria términos expresión. Niños hicieron vamos persona otros cultural servicios j.,111,,False
+183,Frontera,Animación,Lugar josé vía presente producción comisión situación. Santiago torno rosa máximo información tema.,93,+13,False
+184,Invierno: II,Animación,Países humanos otra posibilidad televisión hijo viene.,95,+18,False
+185,Oscuro Frontera: Resurrección,Aventura,Con costa exterior tuvo tarde casa relación. Dolor minutos pregunta participación.,127,+18,False
+186,Oscuro Invierno: Final,Drama,Proyectos actividades ese pesetas análisis este debe cuba.,114,+13,True
+187,El Secreto Códigos,Drama,Cinco presidente supuesto tiene. Música fue perdido parte consecuencia nombre.,130,,False
+188,La Silencioso Promesa,Terror,Actividad dentro lenguaje palabra características. Principio relación nombre población único hacia concepto.,94,+13,True
+189,Invisible Planeta,Romance,I resulta voy hermano.,116,+13,False
+190,El Dorados Promesa,Romance,Régimen toda visto concepto quién. La grado mil derechos.,112,ATP,False
+191,Promesa del Desierto,Comedia,Anterior estados siguientes hemos. Mujer rosa máximo busca p constitución mayor.,109,+16,True
+192,La Secreto Invierno,Drama,Unas políticas segundo parecía tenemos durante.,132,,False
+193,Susurro,Comedia,Ahora metros servicios cultura partir. Primeras mi existe sido.,105,+18,False
+194,La Azul Sueño,Acción,Cierta riesgo color garcía hicieron trabajar. Hijos buen cabeza asociación un objetivo.,129,+16,False
+195,La Misterioso Recuerdo,Animación,Campaña noche vez alto sobre.,101,+18,False
+196,Rojo Planeta,Comedia,Tribunal norte veces mayores. Grupo hoy algún ciencia ir metros.,103,+13,False
+197,La Azul Invierno: II,Ciencia Ficción,Voy asimismo comenzó quería.,133,ATP,False
+198,El Prohibido Tren,Ciencia Ficción,Noviembre animales número técnica. Peor partido san.,127,+13,False
+199,Tren del Bosque: II,Romance,López estado para algún muchos.,111,ATP,True
+200,El Perdido Camino,Terror,Viaje tierra edad.,101,ATP,False
+201,Camino del Bosque,Comedia,Otro consecuencia hijo común partido estados común. Sobre debe música asunto.,109,+16,False
+202,Dorados Héroe,Romance,Cuando ahí si. A modo anterior gobierno campaña gracias pronto siquiera.,116,ATP,False
+203,Océano,Animación,Ojos vino fernando medios sala acuerdo.,87,+16,True
+204,La Oscuro Laberinto,Romance,Grandes su equipo hijos palabras peso hacen niños.,107,+13,False
+205,Isla del Norte,Romance,Ésta principales dos niños.,106,+18,True
+206,La Dorados Sueño,Animación,Suficiente cargo solamente hijos francisco españoles miguel. Desarrollo vio buena debía momentos pronto adelante total.,99,,False
+207,Laberinto del Bosque,Drama,Especie primeros violencia razón. Especialmente llegar muchas llevar algunos cuba pensar.,115,ATP,False
+208,Destino de Medianoche,Romance,Esa yo d modelo marco. Barcelona ex voy supuesto sin.,107,ATP,False
+209,La Invisible Invierno,Drama,Llegó fútbol electoral comisión oro peso papel. Piel tu importante tenía explicó trabajo.,112,+16,False
+210,Tren,Animación,Policía iglesia así calle lejos llega capacidad.,100,+13,False
+211,El Invisible Océano,Comedia,Ha servicio quiero decía donde. Volvió podemos sí mayores lugar gobierno viejo negro.,109,ATP,False
+212,Valiente Frontera,Romance,Conjunto señaló puerta juan primeras saber ese gran. Razón cuando mediante estructura palabras estaba.,112,,False
+213,Invierno,Terror,Sueño libertad diferentes hombre creo mucha.,106,+16,False
+214,Invisible Recuerdo,Aventura,Carta lo obras saber otro figura.,121,+13,True
+215,Invierno,Romance,Hace noche equipo agua justicia.,97,,True
+216,Sueño,Acción,Objetivo puedo teoría produce quien. Interés blanca san que grande calle estuvo.,119,+16,False
+217,Océano,Aventura,Derecha nuestras don e. América puedo llega.,122,,False
+218,Promesa: Final,Aventura,N sola artículo relaciones tenían movimiento universidad. Cuestión sentido realizar días obras da sólo ojos.,133,,True
+219,Héroe,Ciencia Ficción,Puerta papel fondo imagen aparece. Mejor viejo violencia instituciones rafael.,132,+16,True
+220,La Perdido Códigos: III,Ciencia Ficción,Posible tú participación juez debía tenido. Algunas español acto favor unas.,125,+18,True
+221,La Silencioso Héroe,Ciencia Ficción,Cuba mayo corte dirección instituciones desarrollo.,123,ATP,True
+222,El Silencioso Isla,Ciencia Ficción,Santa fuerzas esto además antonio creación hemos. Amigo intereses banco arte decisión seguro expresión.,135,,False
+223,La Último Códigos,Romance,Españoles hay posible tu problema. Puntos sería presenta p.,106,+18,False
+224,Códigos,Aventura,Salud hecho nuestros militares república diferencia.,138,+18,False
+225,Invierno,Animación,Cama encontrar interior reunión permite. Forma alrededor vino humana sector plazo.,104,+13,False
+226,El Azul Sueño,Terror,Dos va ya agua.,101,+13,True
+227,El Perdido Laberinto,Drama,Pero acciones puerto haber.,121,ATP,False
+228,Eterno Frontera,Ciencia Ficción,Además formación hechos diario hasta c hizo.,129,+18,True
+229,El Secreto Sueño,Romance,Esto lleva economía madre atención. Solamente crisis ellas pacientes esto asociación período.,104,,False
+230,La Oscuro Tren,Drama,Cambios debe solo.,107,+16,True
+231,Valiente Camino,Romance,Conseguir marco vivir parece historia constitución. Ve lejos medidas buen propios.,105,ATP,False
+232,Dorados Frontera,Terror,Fueron club vivir volvió. Vez público reforma parece.,103,ATP,True
+233,Sueño,Ciencia Ficción,Autor dolor puso apoyo real. Rosa entrar obstante.,132,+16,False
+234,La Valiente Laberinto,Ciencia Ficción,Hubiera sido operación vez semana lópez autoridades pesar.,125,+16,False
+235,Sueño,Romance,Juego casi propuesta libro. Pp nos control enero teatro tema construcción.,110,+13,False
+236,Recuerdo del Pacífico,Terror,Años dicho américa formación problemas.,97,+13,False
+237,Invierno,Acción,Vía demás televisión tú tendrá época interior datos. Hablar lucha obras tribunal.,130,+16,False
+238,La Perdido Isla,Comedia,Tarde revolución que propia derecho después. Cine mar cerca creación.,105,+18,False
+239,Sueño del Pacífico,Animación,Especie día g todas.,99,+13,False
+240,La Secreto Destino,Aventura,Rosa jóvenes para iglesia. N mil sistemas caso dijo siendo pueda.,129,ATP,False
+241,Tren,Animación,Especie deja pueda imágenes ejemplo unidad durante. Lejos miembros mayor todas.,100,+16,False
+242,Héroe,Aventura,Casos dentro por podemos llega producción.,120,+13,True
+243,Camino de los Andes,Drama,Sol cuerpo pone victoria. Peso reforma figura pocos militar.,133,,True
+244,Planeta,Acción,Desde bastante s cargo no premio. O viaje diversas octubre c junio cual.,134,ATP,True
+245,Planeta,Terror,Dos he comunicación necesidad.,96,ATP,False
+246,La Misterioso Recuerdo,Acción,Ante misma niño supuesto hemos siguientes serie. Sectores él cuba pp.,125,+16,False
+247,Tren de Lima,Ciencia Ficción,Militares dirección blanca lugar. Largo es entonces marzo.,133,ATP,False
+248,Frontera,Comedia,Señora fuerte dicho abril.,105,ATP,True
+249,La Valiente Laberinto,Animación,Paso cuestión realizar libertad diario adelante.,88,+18,False
+250,Promesa de Lima: El Regreso,Acción,Sido cámara lejos objetivo seguir máximo.,136,,True
+251,Valiente Héroe,Aventura,Podrá modo pablo social producto sol.,117,,False
+252,La Invisible Planeta,Drama,Izquierda habrá dios. Cabo sentido sur presente entonces tener.,123,+13,True
+253,Secreto Frontera,Aventura,Especial aumento próximo.,118,+18,False
+254,La Rojo Tren,Aventura,Paz política estudio revolución. Son elecciones constitución conocimiento persona color.,117,+13,False
+255,La Misterioso Promesa,Aventura,Energía cosas ese propuesta queda obstante. Libre europa cuales siete.,128,ATP,False
+256,La Valiente Laberinto: Resurrección,Comedia,Organización cantidad nada nacional mira común jefe capacidad.,108,,False
+257,La Secreto Promesa,Ciencia Ficción,Deben creo efectos r fuerzas. Especie edad dejar eran otros mantener propuesta.,126,,True
+258,La Secreto Invierno: El Regreso,Ciencia Ficción,También entrar arriba claro. Artículo necesidad sentido personas.,128,+18,False
+259,El Secreto Frontera,Ciencia Ficción,Lleva película radio.,131,+18,False
+260,Valiente Laberinto,Drama,Del nos qué próximo ellas hermano. López persona dios ello congreso.,124,+13,True
+261,Secreto Isla,Animación,Primer contrario hacen respuesta comisión casi.,98,,True
+262,Valiente Sueño,Aventura,Orden social saber g palabra título. En c supuesto ningún principios derechos programas.,124,ATP,True
+263,La Perdido Destino,Romance,Mucha organización mi recursos sangre. Proyectos ningún menor político mira era hora.,110,,True
+264,Prohibido Promesa,Romance,Reunión fernando sabía demasiado. Principios riesgo suficiente trata.,103,,True
+265,Planeta de los Andes,Drama,Tiempos semanas local aparece principio señaló ni.,129,,False
+266,La Secreto Frontera,Acción,Ii serie padre fin algo mismos hubo.,128,ATP,False
+267,Isla de los Andes,Animación,Lo van pocos ante lenguaje medidas.,95,ATP,False
+268,Último Susurro,Comedia,Sabe paso ir realizar francia momentos. Manos aquellas música deja crecimiento.,111,+13,True
+269,Isla: Resurrección,Aventura,Cómo cuatro demás frente. Equipo nueva aire deseo resto.,135,+13,True
+270,Eterno Destino,Romance,Vivir políticos conseguir él asociación aspectos.,114,,False
+271,Planeta del Sur,Acción,Juan hemos llegar forma mismos dónde.,110,+13,False
+272,Códigos,Romance,Ayer atención mano centros manuel.,113,+16,True
+273,Secreto Camino,Aventura,Hospital entre para muestra. Pensar nuevas lado origen verdad.,129,,False
+274,Destino,Terror,Región cara trabajo punto aun trabajadores serán. Quedó paso ningún hombres.,99,+16,False
+275,El Silencioso Susurro,Animación,Vida operación aquel educación. Aspectos sobre función tenido con hechos.,98,+13,False
+276,Camino de Lima: Resurrección,Drama,Policía plaza casi cine siete llegó ésta. Ni estilo buenos propuesta voy fue.,136,+13,True
+277,Laberinto: Final,Acción,Igual resto estudios corazón esta fuerza.,133,,False
+278,Prohibido Invierno,Ciencia Ficción,Casa trabajo campaña solamente perdido tanto. Españoles sector acuerdo.,137,,True
+279,Rojo Códigos,Aventura,Llama mitad militar media volver.,131,+13,False
+280,Códigos,Romance,Finalmente nuevos cama ella pablo precio. Sociales una debía vez.,107,,False
+281,El Dorados Océano,Acción,Económica española población lejos tal carne. Sigue aquel aquí haya entrar llegado encuentran.,119,ATP,False
+282,La Silencioso Invierno,Ciencia Ficción,Y ii obra podría. Afirmó fuera conocer.,129,+13,True
+283,El Invisible Recuerdo,Terror,Términos violencia tiene políticos barcelona desarrollo. Mis lleva vida lenguaje joven al.,94,+16,True
+284,El Rojo Sueño,Drama,Cargo desarrollo cultural sabía. Joven josé ayuda sistemas g.,135,+18,False
+285,La Perdido Susurro,Animación,Trabajadores cara nacional especie.,96,+16,False
+286,Planeta: II,Ciencia Ficción,Porque b menor modelo. Será están mercado allí están realizar.,133,+13,False
+287,El Silencioso Héroe,Ciencia Ficción,Unos suelo razones. Cultura jamás llegado pudo efectos van luego.,129,,True
+288,La Misterioso Destino,Acción,Proyecto desde aquellos dónde.,113,+13,False
+289,Prohibido Sueño: Resurrección,Acción,Mayo ministerio función volvió hacerlo varias. Participación hijos también nueva habían estuvo momento.,127,+18,True
+290,Susurro,Comedia,Menor ocasiones aquellos militar lugar.,107,+16,True
+291,El Secreto Sueño,Acción,Medio cosa habrá pregunta.,117,+18,False
+292,La Perdido Invierno,Terror,Espacio mira pero escuela vuelta tiene julio.,99,+18,False
+293,La Silencioso Océano,Romance,Mejores hay caso origen los media armas modelo.,106,ATP,False
+294,Sueño de Medianoche: Resurrección,Aventura,Como ocasiones hacerlo formas pesetas europa.,122,+13,False
+295,Promesa del Bosque,Aventura,Grandes ésta uno veces máximo.,130,,False
+296,Susurro del Norte,Terror,Ocho industria dice. Hacen nunca puesto etc.,105,+16,False
+297,Susurro de Lima,Animación,Serán ha formación lenguaje temas pueda.,102,+16,False
+298,Recuerdo,Animación,Ante condiciones padres tener público equipo era hermano. Hay tenemos nada libro oficial ésta norte.,100,+16,False
+299,Camino del Sur,Aventura,Decisión efecto cuestión papel.,137,,False
+300,Misterioso Invierno,Aventura,Mucho través embargo exterior dejó.,134,+18,False
+301,Destino de los Andes,Terror,Explicó cada hija cuba real popular.,105,+18,True
+302,Susurro,Animación,Características antes deseo días mano está año. Cuyo dicen pie estructura tener minutos.,93,+16,True
+303,El Azul Invierno,Animación,Tres función alto también mayo tarde tu. Contrario deseo ayer una cantidad última miguel ocho.,101,+13,False
+304,Perdido Destino,Aventura,Manuel cambios participación paz grado.,122,,False
+305,Destino del Bosque,Comedia,Modo obra dejar dinero siete desarrollo saber. Origen deben partido ciudad pedro julio ayuda obra.,111,ATP,True
+306,Prohibido Océano,Romance,Sangre semanas podemos particular c mesa río.,104,+16,False
+307,Recuerdo del Pacífico,Drama,Ir llevar algunos nuestras palabras debido. Da través papel ministerio.,125,,False
+308,El Prohibido Destino,Comedia,Cultura cuarto ejemplo madre consecuencia deja. Muchas pública nuestra alguna superior durante partidos sino.,111,,False
+309,Frontera del Sur: II,Acción,Dolor es flores psoe busca. Momentos pocos movimiento.,121,ATP,False
+310,La Azul Laberinto,Romance,Contrario esto congreso. Nuestros río poner yo obstante santiago verdad sin.,104,ATP,True
+311,Isla,Romance,Prueba actividades sido llega. Duda salir producción se.,105,,False
+312,La Perdido Planeta: II,Ciencia Ficción,Democracia llegado su cuestión posible materia ser quienes.,133,ATP,True
+313,Valiente Océano,Drama,Plan pesar defensa gente técnica mirada un. Al alguien aspecto central especialmente elementos unas.,104,+18,False
+314,La Prohibido Frontera,Comedia,Resultados decisión nuestro carlos seguir fácil libre. Libros razón cierta.,104,+18,False
+315,La Invisible Códigos,Acción,Otro escuela interés imposible lleva relación.,128,,True
+316,Prohibido Promesa,Acción,Suficiente pocos ley contrario capital alrededor. Deja industria maría verdad.,122,ATP,True
+317,La Misterioso Camino,Acción,Y violencia propios mejores. Presenta mujer conseguir gobierno derechos este.,113,,False
+318,La Último Camino,Romance,Líder izquierda película más esta grupo.,101,+16,False
+319,Promesa de Lima,Terror,Destino demasiado poco el conocer español encuentra toda. Objeto servicios mucho.,93,,True
+320,Dorados Susurro,Terror,Humanos igual nivel mesa estaban.,101,+13,True
+321,Isla: El Regreso,Aventura,Cual políticos atrás aspecto las.,112,+13,True
+322,Laberinto del Pacífico,Terror,Evitar llevar finalmente fuerzas.,104,+13,False
+323,La Oscuro Tren,Terror,Radio siguiente sangre medidas policía.,103,+16,True
+324,Rojo Héroe,Terror,Importantes voluntad objeto con propio atrás rodríguez.,103,+13,False
+325,Sueño,Romance,Vida dijo conseguir rodríguez. Hora educación superior viene dos juez.,108,+13,False
+326,Invierno de Medianoche: Renacimiento,Terror,Juez cuenta aunque proyecto ambos sabe sociedad fueron.,100,+13,True
+327,La Dorados Destino,Aventura,Pasado paciente alta modo asociación plazo carrera.,123,,True
+328,La Misterioso Códigos,Aventura,Diez mil nacional políticos función peor mismo.,122,ATP,False
+329,Recuerdo,Romance,Aunque llevar revolución hubiera realidad. Algo quienes lejos entrar ante encuentran sino.,102,+18,True
+330,Isla,Animación,Programa vuelve año falta varios largo través. Respuesta tanto nosotros garcía sistema sol mientras.,103,ATP,False
+331,La Prohibido Camino,Romance,Quedó primeras supuesto este gente necesario. Como contenido medio.,108,+16,False
+332,Camino del Sur: Final,Comedia,Qué resultado francisco josé mar. Adelante política ley salud aspectos común.,109,,True
+333,Último Destino,Animación,Atrás puso sino lugar sigue fuera acto.,95,ATP,False
+334,La Valiente Frontera,Ciencia Ficción,Comenzó las felipe vamos.,139,ATP,False
+335,Océano,Ciencia Ficción,Hemos miembros fondo supuesto pequeña secretario tipo. M bueno compañía base tiempos.,124,+13,False
+336,Oscuro Códigos: Resurrección,Comedia,Incluso dijo viejo.,98,+16,False
+337,Susurro del Norte,Comedia,Mal idea constitución quienes puntos doctor precio.,108,,False
+338,Azul Laberinto,Animación,Día va cierto industria señora lópez conocimiento garcía.,100,+13,False
+339,Frontera del Pacífico,Romance,Hijos hacia nadie.,118,ATP,False
+340,El Último Susurro: Resurrección,Animación,Algunos tomar políticos dirección de.,101,,False
+341,Frontera,Romance,Santa club unión quería estas muy. Menos ese dicho tribunal hablar.,101,+18,False
+342,La Invisible Promesa,Comedia,Largo era cuales. Próximo pacientes pp cosa parte últimos apenas.,102,ATP,False
+343,Dorados Frontera,Terror,Nuevas dejó mucho mesa. Dolor existe a nada peor.,102,,False
+344,Susurro de Lima: El Regreso,Aventura,Pudo hubiera bajo.,110,,False
+345,Oscuro Planeta,Comedia,Movimiento pequeña luis difícil. Señora deben piel máximo llega alto.,101,,False
+346,La Rojo Invierno,Ciencia Ficción,Trabajadores e podía superior.,125,,False
+347,Azul Héroe,Comedia,Camino razones jorge cómo hija posición tengo.,100,,False
+348,Oscuro Camino,Aventura,Socialista favor san mis médico acuerdo. Cuando ni operación.,130,+18,True
+349,El Invisible Océano,Comedia,Producto niño debe marcha mujer hijo haya. Bastante creo tu haber.,106,,True
+350,Laberinto,Animación,Riesgo miguel partido fuera televisión. Instituto decisión trabajar medidas siguientes norte dirección.,106,+18,False
+351,La Último Promesa: III,Acción,Problema fernando cada mercado resulta niños pablo.,116,+16,False
+352,La Rojo Planeta,Animación,Peor aumento chile chile edad.,100,+16,False
+353,Héroe,Acción,Pensar españa crecimiento comenzó negro estas.,122,ATP,False
+354,Invierno del Norte,Ciencia Ficción,Esas área problemas segundo. Noche francisco proyectos ciudad junio chile estos público.,130,+16,True
+355,El Valiente Héroe,Aventura,Ayuda tener misma precio justicia. Haciendo todo riesgo animales.,120,,True
+356,Valiente Destino: Final,Terror,Años además produce.,100,+13,True
+357,El Prohibido Isla,Ciencia Ficción,Pues muchas políticos alto sur.,133,+13,False
+358,El Azul Océano: Final,Drama,Diferentes pone tener bastante este realizar.,122,,False
+359,La Dorados Tren,Acción,Otro j diario así televisión cualquier estilo.,118,,True
+360,Prohibido Promesa: III,Comedia,Nosotros luis servicio.,101,,False
+361,Sueño: II,Acción,Habla cara estas tan ahora región. Estas hora lópez todos nosotros miembros.,121,,True
+362,La Invisible Destino,Aventura,Viejo juego partir juan social partidos piel.,126,,True
+363,Laberinto del Pacífico: III,Romance,Modo tenido entrada bueno.,102,,False
+364,La Prohibido Invierno,Acción,Has llegado justicia. Causa sin siete pues doctor.,114,ATP,False
+365,Silencioso Camino,Comedia,Tenemos supuesto tendrá.,105,+18,False
+366,El Valiente Laberinto,Ciencia Ficción,Historia personas libre nunca productos iglesia.,131,+18,True
+367,Dorados Héroe,Animación,Padre iglesia mar fin presente gran ahora recuerdo. Humana soy entre enfermedad junto etapa.,97,+16,True
+368,El Dorados Promesa,Drama,Podemos sectores pesar vía mejor español semana. Diario tres maría ahora.,124,,True
+369,Frontera del Desierto: Renacimiento,Terror,Sola cuba cuadro servicios compañía sabía acción.,100,+16,True
+370,La Misterioso Océano,Terror,Peor sino ella mucho pudo militar fuerzas.,102,,False
+371,Silencioso Destino,Animación,Hizo perdido tampoco unos. Él nunca enero cuatro.,100,,True
+372,Recuerdo,Romance,Diferentes flores principales usted trabajo norte lo.,110,,True
+373,Isla del Norte,Drama,Participación garcía sí qué tierra medios menor.,125,ATP,False
+374,La Prohibido Héroe: El Regreso,Comedia,Salida relación alrededor nada sector.,106,,False
+375,La Eterno Sueño: III,Terror,Reforma partido se algún medios la campo.,105,+16,False
+376,Sueño del Desierto,Comedia,Adelante recuerdo fácil función acción padre permite.,98,,False
+377,Frontera,Aventura,Norte energía le otro viejo haber muchos. Pudo forma solamente sala respuesta aquellas gran.,122,+13,False
+378,El Prohibido Invierno,Romance,República nuestro voz tú. Nunca tampoco televisión cara.,108,+18,True
+379,El Invisible Códigos,Comedia,Reforma oposición mayor fernando estas jamás evitar.,96,ATP,False
+380,La Dorados Susurro,Drama,Para diversos hicieron e. Dejó economía u nacional chile razón.,136,+16,False
+381,Susurro del Sur,Comedia,América diversas mira quienes diciembre. Vio universidad lucha cuyo.,100,ATP,False
+382,Frontera,Aventura,Mujeres dejó españoles única sus plan.,126,,False
+383,La Azul Isla,Acción,Contrario afirmó méxico pueblo europa.,133,,False
+384,La Azul Camino,Terror,Rosa mundial único recuerdo ayer propios.,98,,True
+385,Misterioso Invierno,Terror,Octubre razón recursos unos niños análisis solo instituciones.,104,+18,True
+386,Tren,Ciencia Ficción,Un familia este instituciones consumo flores centros.,144,,True
+387,Sueño del Pacífico,Drama,Tenían cuales unidad propia nuevos josé su.,135,+16,False
+388,Invierno,Comedia,Aquellos voz nosotros militar. Lejos solución consejo c.,103,+13,False
+389,Isla,Drama,Superior común rafael aire iba américa.,103,+18,True
+390,Planeta del Pacífico,Aventura,Estaba medida título.,122,,False
+391,La Azul Susurro,Romance,Comenzó eran hacen espera quiere principal.,110,+18,False
+392,Último Laberinto,Drama,Finalmente esa primero podría necesario reforma precios todo.,115,+13,False
+393,Isla,Romance,Supuesto relaciones les producto origen exterior.,110,,False
+394,El Silencioso Destino: Resurrección,Aventura,Grado dar conjunto.,123,+13,False
+395,El Valiente Océano,Acción,Rey tierra parte creo crisis al.,131,+13,False
+396,La Invisible Frontera,Comedia,Minutos nada partido. Mismo lado así mirada obstante técnica.,104,,False
+397,El Invisible Océano,Animación,Siempre pues ii todo dijo libertad. Movimiento historia esto cuatro unas acciones cabo.,100,ATP,False
+398,Azul Invierno,Drama,Obras pasa intereses. Año ésta paso.,126,+13,False
+399,Sueño,Terror,Consecuencia santa texto presenta. Nuestras productos otro actividades siendo m.,98,+16,True
+400,Valiente Camino,Animación,Medios semana pensar resulta ellos modelo función. Vivir mujeres pp desarrollo problema son.,93,,False
+401,El Prohibido Códigos,Ciencia Ficción,Igual ideas etc tener existe actitud cine comercio.,136,,True
+402,Susurro,Acción,Abril sé fuentes.,124,+13,False
+403,Promesa del Bosque: II,Acción,Otros juez grupos distintos amigo nombre nadie. Voluntad posible origen durante barcelona vez tenemos.,127,+13,True
+404,Silencioso Susurro: III,Acción,Se defensa ministro momento orden español baja. Nosotros carrera alta intereses.,126,,True
+405,Prohibido Invierno,Drama,Programa suelo del opinión tarde próximo quizá. Sol fuerzas manos.,115,+13,False
+406,Perdido Susurro,Acción,Mismos encuentran comunidad visita aunque nuestra pregunta. Última tiempos pasó resultado intereses.,136,ATP,True
+407,Susurro de los Andes,Terror,Allí asunto duda nuevos. Enero españoles especial nos aire izquierda gran.,99,,False
+408,Camino del Bosque,Terror,Entrada origen elementos te algo derechos estos ciento. Área se consumo ciento cambios.,102,+13,True
+409,La Dorados Destino,Aventura,Objeto justicia bueno español deja hacía.,124,+13,True
+410,La Secreto Camino: Renacimiento,Romance,Este profesional años informe falta creación.,105,ATP,False
+411,Laberinto,Comedia,Trabajadores internacional santa ambos mayoría.,104,+18,False
+412,Camino: III,Comedia,Presenta curso posible tu eso hechos hermano próximo.,104,+18,False
+413,Frontera del Bosque,Romance,Señaló voz dinero señor asunto.,104,+13,False
+414,La Silencioso Susurro,Animación,Mucho mira alta posibilidades también. Tú público soy ver cuatro contenido.,97,+13,True
+415,El Azul Océano,Acción,Rafael buenos minutos partes razones realidad.,128,+13,True
+416,El Perdido Océano,Animación,Amigo minutos riesgo diversas. Varias pequeña te fecha pacientes análisis amigo.,105,+18,False
+417,El Prohibido Sueño,Drama,Todavía propia mañana puntos joven.,123,+18,True
+418,El Eterno Recuerdo,Romance,Bajo antonio algunas camino popular todavía silencio materia.,108,+16,True
+419,Tren del Desierto,Animación,Rafael términos pasó juicio.,100,+13,False
+420,El Prohibido Promesa,Drama,Resultados hasta al blanca ésta. Dirección n pacientes siquiera.,118,+13,True
+421,El Valiente Tren: El Regreso,Animación,Cual tenido fondo frente muestra mujeres tarde claro.,89,ATP,False
+422,Invierno,Terror,Público especial modo contra. Acto dado santa estilo tiene película.,100,+18,False
+423,Dorados Promesa,Romance,Debe solución debido s.,104,+16,True
+424,Recuerdo,Aventura,Aire dicen rafael queda vuelve.,129,ATP,True
+425,El Silencioso Códigos,Comedia,Respecto manuel niño.,114,,False
+426,El Perdido Camino,Ciencia Ficción,Esta primeras importante tras partidos quería todos especialmente. Presidente n habla capital elecciones obstante proceso pensar.,126,ATP,True
+427,Recuerdo,Terror,Autor han ellas cuba marzo presidente. Muerte josé consecuencia presente muerto d.,101,+18,False
+428,Océano: Renacimiento,Terror,Grupos origen nosotros miguel mil república demasiado.,104,,False
+429,El Perdido Códigos,Romance,Produce les términos años volvió general.,100,ATP,True
+430,La Oscuro Camino,Ciencia Ficción,Agua podemos suerte sino nos.,129,,True
+431,Tren,Ciencia Ficción,Psoe meses martín sobre miedo ver incluso estudio. Destino poder producción posible social.,122,,False
+432,Sueño,Acción,Acerca nuestras número miguel paso cómo. Unas está no.,122,ATP,False
+433,Recuerdo del Sur,Aventura,Capital ese entrar.,129,+16,False
+434,Último Invierno,Aventura,Libre soy diferencia cualquier figura serán.,113,+18,True
+435,Misterioso Promesa: El Regreso,Aventura,Productos manera línea c prueba casos cuando.,115,+18,False
+436,El Eterno Isla,Ciencia Ficción,País posibilidades hace hoy sectores dijo fuego española. Junto país su hacerlo bajo hombres i.,141,,True
+437,El Eterno Recuerdo,Terror,Sido costa éxito vuelta. Ocho real desde evitar sueño.,100,ATP,False
+438,Códigos,Ciencia Ficción,Cabeza españa congreso p proyecto sol viaje hombre. Políticos sé única proyecto muchas centro.,116,ATP,False
+439,Invierno del Norte,Terror,Poder enfermedad quiero.,93,,False
+440,Silencioso Océano,Comedia,Francisco b mientras varios. Blanca ambos algunas cuestión solamente.,111,,False
+441,El Misterioso Camino: II,Animación,Vamos esto ella muerte llegó mismo.,96,,False
+442,El Valiente Camino,Acción,Saber iba mucho alguien podemos aquí. Siendo especie eran acuerdo tres quien ambiente yo.,127,+16,False
+443,Camino del Sur: Renacimiento,Animación,Considera población cada quién año destino qué. Todas expresión humano campo difícil equipo.,97,ATP,False
+444,Valiente Códigos: Renacimiento,Aventura,Libertad teoría proyectos derecha.,117,+13,True
+445,El Último Camino,Acción,Humana haber capital línea.,135,,False
+446,Invierno,Ciencia Ficción,Centros pues a. Figura comisión segunda viaje área muerte porque necesidad.,124,,True
+447,La Rojo Laberinto,Romance,Sea cómo reunión e posible supuesto pudo pueden.,103,+13,False
+448,La Último Frontera: Resurrección,Romance,Pregunta cierto grupo hicieron todas los.,109,ATP,False
+449,La Eterno Códigos,Drama,Nueva éste unas actual palabras han. Exterior cual general.,119,,False
+450,Invisible Océano,Drama,Conjunto cuando dijo tierra ver casa momento.,115,ATP,True
+451,La Rojo Promesa,Drama,Libre cuestión siempre deja toma mirada iba zonas.,118,,True
+452,La Eterno Isla,Ciencia Ficción,R según este cine ayuda acciones. Santa tanto agua centro ante sus.,140,+16,False
+453,La Invisible Tren,Aventura,Mucho otro atrás entrar día ayer necesidad.,123,ATP,False
+454,Sueño,Animación,Contrario blanco respuesta.,100,+13,False
+455,La Prohibido Laberinto: El Regreso,Aventura,Valores importantes llama nueva centros vuelve.,121,+16,False
+456,Isla de Lima,Animación,Sector en sea trata plan desde.,99,,False
+457,La Oscuro Frontera: II,Ciencia Ficción,Vivir centros sí efectos u. Única tras cerca.,132,+16,True
+458,El Prohibido Héroe,Acción,Primeros toda cual mismo médico crisis importante campo. Cantidad tenía victoria siguientes.,128,+13,False
+459,Planeta,Acción,Varias gobierno dejó humano fecha ésta qué primera. Hemos pronto mañana da solución.,121,ATP,True
+460,Tren,Animación,Van dejar oposición diversas seis les falta deja. Donde falta marzo derechos hacía nuestra.,87,+18,True
+461,El Eterno Laberinto,Ciencia Ficción,Manos negro mujer juez blanca aunque. López siglo prueba aquel mirada manera.,111,ATP,False
+462,La Último Planeta,Terror,Debe posibilidades texto minutos mujeres medios pesetas.,106,,False
+463,El Valiente Camino,Romance,Semanas buenos posibilidad alrededor partes.,109,+16,True
+464,El Silencioso Promesa,Romance,Humano carrera vez mediante toma vuelve punto tarde.,108,+16,False
+465,Planeta de Medianoche,Ciencia Ficción,Relación según algunas. Sólo juez camino precisamente dado pie m.,114,+16,False
+466,El Secreto Océano,Aventura,Tu puerto sus violencia. Cosa entre humana otras.,117,,False
+467,Sueño del Norte: Final,Terror,Sociedad pasado habían. Felipe quienes afirmó nuestros hubiera la norte razón.,97,+16,True
+468,La Dorados Frontera,Acción,Resto fácil dentro campaña europa. Orden debe proceso madrid mitad.,119,+13,True
+469,Prohibido Promesa,Aventura,Líder españa voz jorge cambios santa técnica.,121,+13,False
+470,Planeta,Comedia,Van aunque contra finalmente muerto puso estudio. Hicieron habrá asociación está.,101,,True
+471,El Oscuro Promesa: III,Romance,Con podía quedó hacer condiciones deja.,107,,False
+472,El Misterioso Sueño,Terror,Real bueno norte luis número m. Miembros explicó médico jamás.,96,,False
+473,Oscuro Recuerdo,Animación,Ex manos sido garcía san.,105,+13,False
+474,Océano: El Regreso,Acción,Asimismo cabeza r. Autor algo como humana.,122,ATP,False
+475,La Invisible Sueño,Drama,Ellos mujer mano vuelve.,117,+16,False
+476,El Invisible Océano,Terror,Edad m demás llegó. Algunos camino fuerte nadie punto capaz plaza.,94,,False
+477,El Misterioso Recuerdo,Terror,Director necesidad américa tipo análisis. Blanca temas propia primera parte apenas.,98,ATP,True
+478,Rojo Laberinto,Aventura,Dijo grado alto recursos propios hombres.,126,+13,False
+479,El Secreto Frontera,Animación,Importante nombre capaz necesidad relación personal. Hubo palabras hicieron nuevos.,90,+18,False
+480,Misterioso Destino,Terror,Sido pregunta ministerio administración las tomar.,97,+18,False
+481,Promesa,Comedia,Cámara se gracias tu. Derecha aún dejar internacional haciendo paso necesidad.,113,+13,True
+482,La Prohibido Promesa,Animación,Haya serie aparece fuerte unos derecha adelante cuyo. Visita teatro civil profesional niveles mes.,89,+18,True
+483,El Secreto Isla,Aventura,Animales mayores mayor pública s carácter. Pueden personas popular bueno soy.,117,,False
+484,El Último Invierno: Resurrección,Acción,Violencia humana razones especialmente paciente día. Haber investigación para miedo miedo haya como posición.,122,+18,False
+485,Invierno,Drama,Cómo decir algunas llegado llamado horas capaz norte.,118,+16,False
+486,El Último Códigos,Terror,Cargo realidad comisión.,96,+16,False
+487,Último Laberinto,Terror,Radio norte creo haciendo.,96,ATP,False
+488,Frontera,Acción,Elecciones u haciendo son sin humanos nuevas.,114,+18,False
+489,Camino del Norte,Romance,Datos vía caso sigue. Papel puerta semana fuentes.,107,,True
+490,Invisible Códigos,Comedia,Hija deseo no caso lenguaje. Actual práctica encima hablar aspectos estaba efectos d.,108,+13,False
+491,Valiente Laberinto,Ciencia Ficción,Director niño defensa política antes militares encima. López ley hacia durante.,120,,False
+492,La Prohibido Frontera,Acción,Dejó autoridades como paciente tipo campaña. Miedo área resto encuentro día empresas características uno.,120,,False
+493,La Oscuro Océano,Terror,Diversos hijo san expresión nivel b informe programa.,93,ATP,False
+494,Recuerdo del Sur,Acción,Trata sé mí.,132,+13,False
+495,Héroe del Norte,Drama,Saber ha debía. Animales recursos había.,119,,False
+496,El Prohibido Tren,Acción,Menos enero república semanas seguir zona fuego. Política mientras hospital unos ese viene.,123,+16,False
+497,El Eterno Promesa,Comedia,Estar también poco le estudio mil.,100,ATP,False
+498,Último Océano,Acción,Sí unidos estos civil mis.,135,+13,False
+499,Eterno Laberinto,Acción,Ir imagen fácil padre fuerzas mirada usted mí.,128,+16,False
+500,Héroe de los Andes,Drama,Tenemos silencio causa. Claro san propia uno muchas silencio.,119,+13,True

@@ -1,0 +1,2235 @@
+id,nombre,ciudad,distrito,nro_salas
+1,Cine Promociones Sanz y asociados S.L.N.E,Melilla,Ville,11
+2,Cine Banca Privada AX S.L.N.E,Valencia,Ville,10
+3,Cine Camila Puig Macías S.L.N.E,Valencia,Ville,11
+4,Cine Aragonés y Linares S.L.L.,Valladolid,Ville,9
+5,Cine Comercializadora del Levante S.Coop.,Pontevedra,Ville,9
+6,Cine Zaragoza y Mancebo S.A.T.,Madrid,Ville,11
+7,Cine Hotel Ibéricos S.L.,Segovia,Ville,12
+8,Cine Hermanos Luna S.A.T.,Murcia,Ville,6
+9,Cine Castañeda y Galán S.L.,Ciudad,Ville,6
+10,Cine Restauración del Mediterráneo S.A.,Girona,Ville,8
+11,Cine Grupo Cuevas S.L.N.E,Valencia,Ville,12
+12,Cine Alberola y Sola S.A.,Navarra,Ville,8
+13,Cine Inversiones del Norte S.L.,Baleares,Ville,10
+14,Cine Donato Ibáñez Gibert S.A.,Cáceres,Ville,12
+15,Cine Roldán y Lastra S.L.,Lugo,Ville,12
+16,Cine Restauración Miró S.A.,Cantabria,Ville,12
+17,Cine Comercializadora IX S.Coop.,Guadalajara,Ville,7
+18,Cine Transportes Navarro & Asociados S.A.,Pontevedra,Ville,9
+19,Cine Hermanos Rosselló S.L.N.E,La Coruña,Ville,7
+20,Cine Comercializadora Ayala S.L.,Valencia,Ville,6
+21,Cine Desarrollo Casanova S.Coop.,Las Palmas,Ville,6
+22,Cine Banca Privada Gibert y asociados S.C.P,Albacete,Ville,7
+23,Cine Primitiva Godoy Morcillo S.L.,Granada,Ville,6
+24,Cine Zabala y Borrego S.Com.,Ávila,Ville,6
+25,Cine Grupo Casanova S.Coop.,Cáceres,Ville,11
+26,Cine Transportes Losa & Asociados S.C.P,Zamora,Ville,6
+27,Cine Inversiones Ferrer & Asociados S.Coop.,Murcia,Ville,10
+28,Cine Manufacturas Naranjo y asociados S.L.,Badajoz,Ville,6
+29,Cine Distribuciones Escobar & Asociados S.L.,Cáceres,Ville,10
+30,Cine Farmaceútica Rodriguez S.L.,La Rioja,Ville,9
+31,Cine Desarrollo Pinilla y asociados S.Com.,Zamora,Ville,8
+32,Cine Compañía Pedro y asociados S.L.,Guadalajara,Ville,7
+33,Cine Múgica y Ferrer S.A.,León,Ville,6
+34,Cine Comercializadora del Mediterráneo S.A.U,Ourense,Ville,10
+35,Cine Hermanos Arranz S.A.,Granada,Ville,10
+36,Cine Palacios y Ruiz S.L.U.,Valencia,Ville,10
+37,Cine Suministros KLVM S.C.P,Álava,Ville,8
+38,Cine Requena y asociados S.L.N.E,Cádiz,Ville,7
+39,Cine José Luis Cuesta Boix S.A.,Baleares,Ville,6
+40,Cine Redondo y Acero S.Com.,Almería,Ville,12
+41,Cine Hnos Gárate S.A.T.,Soria,Ville,8
+42,Cine Hotel Castrillo S.L.,Córdoba,Ville,9
+43,Cine Restauración FYYP S.L.L.,Cantabria,Ville,8
+44,Cine Ramírez y asociados S.A.,Las Palmas,Ville,12
+45,Cine Supermercados del Noroeste S.A.T.,Salamanca,Ville,8
+46,Cine Fábrica STNY S.A.U,Santa Cruz de Tenerife,Ville,10
+47,Cine Suministros Barco S.L.,Málaga,Ville,6
+48,Cine Prada y Peral S.Com.,Baleares,Ville,10
+49,Cine Ariel Leon Suárez S.A.,Valladolid,Ville,8
+50,Cine Vélez & Asociados S.Coop.,La Rioja,Ville,8
+51,Cine Esparza y Mena S.Coop.,Guadalajara,Ville,6
+52,Cine Alimentación DW S.L.N.E,Navarra,Ville,6
+53,Cine Maza & Asociados S.A.,Asturias,Ville,9
+54,Cine Logística GO S.A.U,Huesca,Ville,7
+55,Cine Soluciones Integrales S.L.N.E,Toledo,Ville,9
+56,Cine Talleres Zabaleta S.L.,Cantabria,Ville,10
+57,Cine Fábrica Arranz S.L.,Ciudad,Ville,12
+58,Cine Llanos y Iñiguez S.L.L.,Ceuta,Ville,7
+59,Cine Chucho Carreras Calderón S.L.,Huesca,Ville,8
+60,Cine Tecnologías Cantero y asociados S.L.,León,Ville,8
+61,Cine Goñi y Lago S.L.L.,La Coruña,Ville,8
+62,Cine Naranjo & Asociados S.L.L.,Almería,Ville,8
+63,Cine Comercializadora UKI S.Coop.,Santa Cruz de Tenerife,Ville,11
+64,Cine Consultoría Correa & Asociados S.L.N.E,Toledo,Ville,8
+65,Cine Puente y asociados S.A.,Pontevedra,Ville,10
+66,Cine Inversiones Barceló & Asociados S.Com.,Burgos,Ville,9
+67,Cine Infraestructuras XU S.Com.,Alicante,Ville,12
+68,Cine Manufacturas KC S.Com.,Tarragona,Ville,9
+69,Cine Minería Bernal y asociados S.A.,Asturias,Ville,10
+70,Cine Finanzas RPPP S.Coop.,Álava,Ville,8
+71,Cine Diego y asociados S.Com.,Cuenca,Ville,9
+72,Cine Supermercados LKRG S.Coop.,Asturias,Ville,12
+73,Cine Barreda y asociados S.A.D,Granada,Ville,11
+74,Cine Gómez y Larrea S.Com.,Badajoz,Ville,6
+75,Cine Adelia Corral Cueto S.Com.,Ciudad,Ville,8
+76,Cine Domínguez y Ferrán S.A.T.,Salamanca,Ville,10
+77,Cine Comercializadora Inteligentes S.A.,Guadalajara,Ville,7
+78,Cine Compañía Internacionales S.L.,Baleares,Ville,12
+79,Cine Compañía Globales S.L.,La Rioja,Ville,6
+80,Cine Morera y Sacristán S.L.N.E,Murcia,Ville,9
+81,Cine Perera y Mariño S.L.N.E,Ávila,Ville,6
+82,Cine Servicios DVB S.L.,Asturias,Ville,11
+83,Cine Consultoría LOL S.L.,Cádiz,Ville,9
+84,Cine Melero y Benavides S.L.L.,Lugo,Ville,7
+85,Cine Octavia Jover Crespi S.L.,Cádiz,Ville,11
+86,Cine Arteaga y asociados S.L.,Murcia,Ville,10
+87,Cine Banca Privada Inteligentes S.L.,Asturias,Ville,12
+88,Cine Calatayud & Asociados S.Com.,Jaén,Ville,9
+89,Cine Ascensión Noguera Ojeda S.Com.,Toledo,Ville,12
+90,Cine Baeza y Amigó S.Com.,Burgos,Ville,12
+91,Cine Compañía Barrena S.L.N.E,Castellón,Ville,9
+92,Cine Nayara Escolano Palacios S.A.,Almería,Ville,7
+93,Cine Hermanos Almagro S.Coop.,Toledo,Ville,7
+94,Cine Inversiones Barriga y asociados S.Coop.,Málaga,Ville,11
+95,Cine Farmaceútica Espada y asociados S.L.L.,Almería,Ville,10
+96,Cine Instalaciones Alarcón & Asociados S.L.N.E,Lugo,Ville,10
+97,Cine Suministros Narváez y asociados S.L.,Palencia,Ville,10
+98,Cine Pazos & Asociados S.Com.,Sevilla,Ville,9
+99,Cine Grupo Clavero S.A.,Cantabria,Ville,7
+100,Cine Gabaldón y asociados S.Coop.,Castellón,Ville,10
+101,Cine Carlito Lozano Farré S.L.,Girona,Ville,8
+102,Cine Valenciano y Roig S.Com.,Tarragona,Ville,9
+103,Cine Grupo Roselló S.L.,Madrid,Ville,10
+104,Cine Finanzas BMKA S.A.,Almería,Ville,8
+105,Cine Hermanos Fiol S.L.,Guipúzcoa,Ville,7
+106,Cine Familia Ibarra S.L.,Lleida,Ville,7
+107,Cine Ugarte y Peinado S.Com.,Cantabria,Ville,11
+108,Cine Armas & Asociados S.L.,Córdoba,Ville,7
+109,Cine Minería Española S.A.U,Huelva,Ville,8
+110,Cine Comercializadora Bernad y asociados S.Coop.,Asturias,Ville,12
+111,Cine Promociones Iberia S.L.,Castellón,Ville,12
+112,Cine Logística Tejada y asociados S.A.,Murcia,Ville,11
+113,Cine Inversiones Cobos S.A.,Alicante,Ville,11
+114,Cine Leal y Checa S.Com.,Cádiz,Ville,8
+115,Cine Diaz y Jove S.Coop.,Salamanca,Ville,11
+116,Cine Alfonso y asociados S.L.N.E,Valladolid,Ville,8
+117,Cine Sanabria y Niño S.A.,Las Palmas,Ville,12
+118,Cine Gonzalo Cabezas Coello S.L.U.,Huelva,Ville,11
+119,Cine Compañía SJF S.L.L.,Badajoz,Ville,12
+120,Cine Lucena y Báez S.C.P,Teruel,Ville,10
+121,Cine Suministros FDL S.C.P,Guadalajara,Ville,6
+122,Cine Edmundo Roselló Sáez S.Com.,Lleida,Ville,11
+123,Cine Comercial del Levante S.L.,León,Ville,12
+124,Cine Hermanos Doménech S.C.P,Jaén,Ville,11
+125,Cine Gámez & Asociados S.A.,Albacete,Ville,7
+126,Cine Banca Privada Mas S.Com.,Baleares,Ville,8
+127,Cine Infraestructuras Fuente & Asociados S.L.,Ávila,Ville,9
+128,Cine Avilés y Portillo S.Com.,Cuenca,Ville,11
+129,Cine Inversiones Valdés y asociados S.A.,Badajoz,Ville,9
+130,Cine Alimentación Lerma y asociados S.L.,Guadalajara,Ville,6
+131,Cine Valenzuela y asociados S.Com.,Toledo,Ville,11
+132,Cine Instalaciones Inteligentes S.Com.,Burgos,Ville,12
+133,Cine Construcción KPFQ S.Com.,Cáceres,Ville,10
+134,Cine Despacho Pellicer S.Coop.,Castellón,Ville,8
+135,Cine Soluciones Viñas S.Com.,Tarragona,Ville,7
+136,Cine Inversiones Globales S.Coop.,Álava,Ville,6
+137,Cine Farmaceútica DC S.A.,Huesca,Ville,12
+138,Cine Carmona y Iglesia S.L.U.,Soria,Ville,10
+139,Cine Farmaceútica Iberia S.Coop.,Huesca,Ville,10
+140,Cine Jose Antonio Díez Maza S.L.L.,Tarragona,Ville,11
+141,Cine Hotel Cabello y asociados S.C.P,Las Palmas,Ville,6
+142,Cine Banco Globales S.Com.,La Coruña,Ville,8
+143,Cine Ismael Busquets Coloma S.L.,Cantabria,Ville,10
+144,Cine Ágata Cano Prado S.C.P,Zaragoza,Ville,6
+145,Cine Grupo Ferrán S.C.P,Badajoz,Ville,8
+146,Cine Logística Barral & Asociados S.A.D,Zamora,Ville,12
+147,Cine Comercial Castellana S.Com.,Girona,Ville,7
+148,Cine Segura & Asociados S.Com.,Almería,Ville,6
+149,Cine Hnos Valenzuela S.L.,Zamora,Ville,12
+150,Cine Infraestructuras Acevedo & Asociados S.L.N.E,Badajoz,Ville,6
+151,Cine Farmaceútica Guardiola y asociados S.L.N.E,Murcia,Ville,6
+152,Cine Banco del Sur S.Coop.,La Rioja,Ville,8
+153,Cine Banco Española S.Com.,Santa Cruz de Tenerife,Ville,8
+154,Cine Grupo Angulo S.A.,Valladolid,Ville,6
+155,Cine Farmaceútica Sarabia S.A.D,Ceuta,Ville,10
+156,Cine Cerdá y Escobar S.L.,Granada,Ville,11
+157,Cine Manufacturas Blanca S.A.,Cantabria,Ville,12
+158,Cine Acevedo & Asociados S.Com.,Valencia,Ville,8
+159,Cine Morillo y Plana S.L.N.E,Guipúzcoa,Ville,10
+160,Cine Desarrollo del Noroeste S.A.,Álava,Ville,8
+161,Cine Patricio Zapata Rincón S.C.P,Huelva,Ville,7
+162,Cine Estrella Escobar Bermúdez S.Com.,Huesca,Ville,8
+163,Cine Tecnologías Casas y asociados S.A.,Guadalajara,Ville,11
+164,Cine Hnos Ramos S.A.T.,Valladolid,Ville,12
+165,Cine Odalis Collado Cuéllar S.Com.,Cuenca,Ville,10
+166,Cine Hnos Peña S.A.,Ourense,Ville,7
+167,Cine Mateo y Borrego S.L.N.E,Salamanca,Ville,9
+168,Cine Compañía Abellán S.A.,Vizcaya,Ville,9
+169,Cine Familia Bilbao S.L.L.,Huelva,Ville,10
+170,Cine Pombo y Llamas S.L.,Asturias,Ville,7
+171,Cine Alcalde y asociados S.A.,Teruel,Ville,8
+172,Cine Banca Privada Lucena & Asociados S.Coop.,Teruel,Ville,8
+173,Cine Comercializadora YXS S.Com.,Baleares,Ville,11
+174,Cine Garcia y Vaquero S.L.,Ceuta,Ville,8
+175,Cine Apolinar Pascual Arnal S.L.,Burgos,Ville,11
+176,Cine Comercializadora Angulo S.L.,Almería,Ville,8
+177,Cine Tecnologías Salazar S.Com.,Burgos,Ville,6
+178,Cine Transportes Duque S.Com.,Huesca,Ville,10
+179,Cine Finanzas RJV S.L.N.E,Cáceres,Ville,12
+180,Cine Consultoría PA S.Com.,Segovia,Ville,9
+181,Cine Benavent y Riera S.Com.,Asturias,Ville,7
+182,Cine Olga Sarmiento Vergara S.Com.,Jaén,Ville,6
+183,Cine Minería Español & Asociados S.C.P,Melilla,Ville,6
+184,Cine Banco UTFB S.Com.,Almería,Ville,10
+185,Cine Desarrollo MFUN S.L.,Ourense,Ville,7
+186,Cine Isidro Tejada Sarabia S.L.,Zamora,Ville,6
+187,Cine Iris Téllez Larrea S.L.L.,Madrid,Ville,9
+188,Cine Hermanos Frutos S.L.,Córdoba,Ville,12
+189,Cine Finanzas Huguet & Asociados S.L.,Cádiz,Ville,9
+190,Cine Hermanos Sevilla S.L.U.,Cádiz,Ville,10
+191,Cine Banca Privada Alcántara S.A.,Huelva,Ville,10
+192,Cine Julio César Avilés Pou S.L.,Girona,Ville,10
+193,Cine Valenciano y Alarcón S.Coop.,Sevilla,Ville,9
+194,Cine Cañizares y Álamo S.Coop.,Guadalajara,Ville,9
+195,Cine Camacho y Larrea S.C.P,Cáceres,Ville,10
+196,Cine Asunción Gil Mercader S.L.,Navarra,Ville,12
+197,Cine Carlos & Asociados S.L.N.E,Santa Cruz de Tenerife,Ville,11
+198,Cine Grupo Leon S.A.,Barcelona,Ville,12
+199,Cine Banco Briones y asociados S.A.,Ávila,Ville,12
+200,Cine Compañía Costa S.Com.,Pontevedra,Ville,6
+201,Cine Javier Pedrero Garrido S.A.T.,Murcia,Ville,9
+202,Cine Jennifer Paz Mas S.Coop.,Ourense,Ville,10
+203,Cine Consultoría Miranda & Asociados S.Coop.,Cáceres,Ville,9
+204,Cine Instalaciones Bermúdez & Asociados S.Com.,Valladolid,Ville,7
+205,Cine Rico Cueto Amador S.Com.,Badajoz,Ville,12
+206,Cine Recio & Asociados S.L.,Barcelona,Ville,7
+207,Cine Grupo Mendoza S.Coop.,Lugo,Ville,8
+208,Cine Ale Solano Molina S.Com.,Cantabria,Ville,6
+209,Cine Rubén Arce Perales S.A.,Ciudad,Ville,9
+210,Cine Infraestructuras HURD S.A.,Baleares,Ville,7
+211,Cine Toribio Carrasco Escudero S.L.,Huelva,Ville,8
+212,Cine Caridad Gascón Barroso S.A.T.,Granada,Ville,9
+213,Cine Anguita y Estévez S.Com.,Córdoba,Ville,8
+214,Cine Hnos Alemán S.L.N.E,La Rioja,Ville,10
+215,Cine Puerta y asociados S.Coop.,Ceuta,Ville,9
+216,Cine Hnos Batlle S.C.P,Murcia,Ville,7
+217,Cine Compañía Pozo S.A.,Almería,Ville,7
+218,Cine Instalaciones Gual y asociados S.L.N.E,La Rioja,Ville,6
+219,Cine Martorell & Asociados S.L.N.E,Asturias,Ville,9
+220,Cine Despacho OBFX S.C.P,Burgos,Ville,12
+221,Cine Hermanos Naranjo S.L.L.,Baleares,Ville,7
+222,Cine Familia León S.L.,Cuenca,Ville,7
+223,Cine Castell y Polo S.Coop.,Baleares,Ville,11
+224,Cine Fábrica Córdoba & Asociados S.A.T.,Cantabria,Ville,7
+225,Cine Coello & Asociados S.L.N.E,Santa Cruz de Tenerife,Ville,9
+226,Cine Minería Montserrat y asociados S.Com.,Baleares,Ville,10
+227,Cine Talleres Colomer S.L.,Alicante,Ville,6
+228,Cine Edmundo Fuster Manzanares S.L.,La Rioja,Ville,9
+229,Cine Pomares & Asociados S.L.,Vizcaya,Ville,11
+230,Cine Alimentación Ibéricos S.Com.,Badajoz,Ville,7
+231,Cine Banco YTFG S.L.N.E,Zamora,Ville,6
+232,Cine Distribuciones Internacionales S.L.N.E,Jaén,Ville,9
+233,Cine Pérez & Asociados S.Com.,Teruel,Ville,7
+234,Cine Santos Valls Atienza S.L.,Palencia,Ville,9
+235,Cine Palmer y asociados S.Com.,Pontevedra,Ville,10
+236,Cine Comercializadora Avanzadas S.Coop.,Cádiz,Ville,10
+237,Cine Transportes Gálvez y asociados S.L.N.E,Girona,Ville,10
+238,Cine Hermanos Rodríguez S.C.P,La Coruña,Ville,9
+239,Cine Guijarro y Castells S.L.N.E,Guadalajara,Ville,6
+240,Cine Rocamora y asociados S.Com.,Zamora,Ville,11
+241,Cine Transportes del Mediterráneo S.L.N.E,Lleida,Ville,10
+242,Cine Despacho PYCQ S.C.P,Granada,Ville,9
+243,Cine Pombo y Quiroga S.A.T.,Segovia,Ville,11
+244,Cine Carlito Mayo Luque S.Com.,Valladolid,Ville,6
+245,Cine Damián Bermúdez Tolosa S.C.P,Melilla,Ville,8
+246,Cine Fábrica HFFA S.A.T.,Sevilla,Ville,6
+247,Cine Banca Privada Hidalgo S.Coop.,Ceuta,Ville,11
+248,Cine Chaparro y Figueroa S.A.,Lugo,Ville,12
+249,Cine Soluciones QJT S.L.N.E,Huelva,Ville,12
+250,Cine Victor Salom Tormo S.Coop.,Ceuta,Ville,11
+251,Cine Hotel TO S.L.,Vizcaya,Ville,6
+252,Cine Palomino y Sotelo S.L.N.E,La Coruña,Ville,7
+253,Cine Zurita y Samper S.Coop.,Córdoba,Ville,12
+254,Cine Inmobiliaria Rodrigo y asociados S.L.N.E,Castellón,Ville,8
+255,Cine Soluciones Font & Asociados S.A.,Castellón,Ville,12
+256,Cine Supermercados Ariza & Asociados S.L.U.,Cádiz,Ville,10
+257,Cine Yago Montenegro Anguita S.C.P,Ciudad,Ville,12
+258,Cine Manufacturas DLFB S.Coop.,Navarra,Ville,9
+259,Cine Cortina y Canals S.L.N.E,Lleida,Ville,12
+260,Cine Banca Privada Iberia S.L.,Zaragoza,Ville,12
+261,Cine Hnos Lago S.A.,Valladolid,Ville,8
+262,Cine Inversiones ISDV S.L.,León,Ville,6
+263,Cine Inmobiliaria Blazquez y asociados S.Com.,Ciudad,Ville,7
+264,Cine Tomás Aguilera Pou S.A.,Barcelona,Ville,6
+265,Cine Construcción Pinilla S.Com.,Palencia,Ville,10
+266,Cine Lozano y Abascal S.A.,Pontevedra,Ville,8
+267,Cine Compañía Española S.Com.,Ciudad,Ville,9
+268,Cine Hnos Cabrero S.L.,Almería,Ville,8
+269,Cine Consultoría del Noroeste S.Coop.,Cuenca,Ville,9
+270,Cine Ernesto Lumbreras Guillén S.L.N.E,Zaragoza,Ville,6
+271,Cine Modesto Balaguer Cobos S.L.L.,Alicante,Ville,6
+272,Cine Grupo Boix S.L.L.,Huelva,Ville,8
+273,Cine Suministros Almazán S.L.,Huelva,Ville,9
+274,Cine Goicoechea y Paz S.L.,Teruel,Ville,10
+275,Cine Restauración Llorente S.L.,Palencia,Ville,6
+276,Cine Andrade y asociados S.L.L.,La Coruña,Ville,10
+277,Cine Inmobiliaria Cañellas y asociados S.A.,Cuenca,Ville,12
+278,Cine Adadia y Palma S.C.P,Ceuta,Ville,7
+279,Cine Hermanos Marí S.L.N.E,Palencia,Ville,8
+280,Cine Banca Privada JCI S.L.L.,Zamora,Ville,11
+281,Cine Distribuciones del Mediterráneo S.L.,Teruel,Ville,12
+282,Cine Luisa Larrañaga Estévez S.Coop.,La Coruña,Ville,8
+283,Cine Supermercados del Norte S.Coop.,La Coruña,Ville,9
+284,Cine Grupo Pablo S.A.T.,Zaragoza,Ville,11
+285,Cine Inmobiliaria Saavedra & Asociados S.A.,Badajoz,Ville,6
+286,Cine Instalaciones UC S.Coop.,Albacete,Ville,12
+287,Cine Cecilio Nieto Cabanillas S.L.,Cuenca,Ville,7
+288,Cine Supermercados Moles & Asociados S.Com.,León,Ville,7
+289,Cine Familia Rico S.L.N.E,Lugo,Ville,11
+290,Cine Manufacturas GDF S.A.,Valladolid,Ville,9
+291,Cine Hermanos Alsina S.L.N.E,Melilla,Ville,9
+292,Cine Riera y Berenguer S.L.,Lleida,Ville,10
+293,Cine Compañía LEOY S.A.,Granada,Ville,8
+294,Cine Fábrica Palma S.L.N.E,Córdoba,Ville,12
+295,Cine Comercial Globales S.A.,Albacete,Ville,7
+296,Cine Infraestructuras Internacionales S.L.,Almería,Ville,9
+297,Cine Loida Exposito Segarra S.Com.,La Rioja,Ville,8
+298,Cine Servicios del Noroeste S.Coop.,Melilla,Ville,9
+299,Cine Mariscal y Arellano S.Com.,Lugo,Ville,9
+300,Cine Talleres Tamarit y asociados S.A.,Cantabria,Ville,8
+301,Cine Comercial FLKD S.L.,Santa Cruz de Tenerife,Ville,12
+302,Cine Áurea Vidal Conesa S.L.,La Coruña,Ville,6
+303,Cine Manufacturas AL S.L.,Las Palmas,Ville,9
+304,Cine Cintia Cantón Cisneros S.Com.,Huesca,Ville,12
+305,Cine Soluciones Vilalta y asociados S.L.,Málaga,Ville,11
+306,Cine Castelló y Serna S.A.,Albacete,Ville,12
+307,Cine Instalaciones Fuentes S.Coop.,Zaragoza,Ville,11
+308,Cine Promociones Integrales S.L.,Ourense,Ville,9
+309,Cine Agudo y asociados S.A.,Lleida,Ville,7
+310,Cine Zaira Campillo Segura S.A.U,Las Palmas,Ville,10
+311,Cine Hermanos Arcos S.Coop.,Baleares,Ville,9
+312,Cine Grupo Andrés S.Coop.,Guipúzcoa,Ville,10
+313,Cine Finanzas Cadenas S.L.N.E,Alicante,Ville,12
+314,Cine Piñol y Fuente S.Coop.,Pontevedra,Ville,12
+315,Cine Restauración QVT S.Coop.,Valencia,Ville,8
+316,Cine Inversiones Ibérica S.Com.,Cantabria,Ville,10
+317,Cine Blanca y Araujo S.L.,Ciudad,Ville,9
+318,Cine Casandra Villalobos Valderrama S.A.,Teruel,Ville,10
+319,Cine Familia Prado S.Com.,Cáceres,Ville,9
+320,Cine Hermanos Badía S.L.N.E,León,Ville,10
+321,Cine Consultoría Uría y asociados S.L.,Baleares,Ville,11
+322,Cine Hnos Benavente S.L.N.E,Guadalajara,Ville,11
+323,Cine Soluciones NNBU S.Coop.,Lugo,Ville,8
+324,Cine Logística Baños S.L.L.,Cádiz,Ville,8
+325,Cine Dalmau y asociados S.L.,Teruel,Ville,12
+326,Cine Comercializadora Española S.L.N.E,Albacete,Ville,12
+327,Cine Familia Galiano S.A.,Almería,Ville,7
+328,Cine Finanzas Linares S.L.L.,Lleida,Ville,10
+329,Cine Restauración Iborra & Asociados S.A.,Castellón,Ville,11
+330,Cine Roura & Asociados S.A.,Ávila,Ville,12
+331,Cine Carranza y Nadal S.A.,Melilla,Ville,7
+332,Cine Restauración Roca S.L.U.,Valladolid,Ville,12
+333,Cine Alemany y Tejera S.L.,Segovia,Ville,6
+334,Cine Restauración MGK S.A.,Zaragoza,Ville,6
+335,Cine Comercial Inteligentes S.C.P,Barcelona,Ville,12
+336,Cine Hermanos Calderón S.A.D,Jaén,Ville,11
+337,Cine Tiburcio Cepeda Cuenca S.Coop.,Salamanca,Ville,7
+338,Cine Restauración Madrid S.L.N.E,Tarragona,Ville,10
+339,Cine Ildefonso Iglesias Lledó S.A.,Jaén,Ville,12
+340,Cine Infraestructuras UJWX S.L.,Ceuta,Ville,8
+341,Cine Maribel Armas Figuerola S.Coop.,Ourense,Ville,8
+342,Cine Grupo Gámez S.A.,Ceuta,Ville,11
+343,Cine Estela Acero Carmona S.L.,Badajoz,Ville,9
+344,Cine Inversiones Revilla y asociados S.L.L.,Toledo,Ville,9
+345,Cine Eliseo Figueras Barceló S.L.,Segovia,Ville,12
+346,Cine Supermercados Sanmartín S.L.L.,La Rioja,Ville,11
+347,Cine Glauco Carreras Polo S.L.N.E,Cádiz,Ville,8
+348,Cine Figuerola y Merino S.L.,Santa Cruz de Tenerife,Ville,11
+349,Cine Alimentación UVCM S.L.N.E,Murcia,Ville,9
+350,Cine Leon y Vazquez S.L.N.E,Zaragoza,Ville,12
+351,Cine Alberdi y asociados S.L.N.E,Huesca,Ville,7
+352,Cine Instalaciones Jurado y asociados S.A.,León,Ville,10
+353,Cine Ruano y Morante S.A.,Santa Cruz de Tenerife,Ville,8
+354,Cine Jimena Hervás Paredes S.Coop.,Pontevedra,Ville,10
+355,Cine Logística EBDB S.Coop.,Baleares,Ville,9
+356,Cine Inversiones del Levante S.C.P,Teruel,Ville,6
+357,Cine Garay y Vila S.Com.,Albacete,Ville,8
+358,Cine Rolando Salamanca Sarabia S.L.,Málaga,Ville,8
+359,Cine Tecnologías VN S.L.,Almería,Ville,6
+360,Cine Zabala & Asociados S.A.,Ourense,Ville,8
+361,Cine Banca Privada Inteligentes S.L.N.E,Navarra,Ville,6
+362,Cine Promociones HX S.Com.,Álava,Ville,7
+363,Cine Mora y asociados S.Com.,Toledo,Ville,7
+364,Cine Petrona Hervás Cañete S.A.U,Las Palmas,Ville,6
+365,Cine Mendizábal y Cánovas S.L.U.,Cáceres,Ville,6
+366,Cine Consultoría Castellana S.A.,Baleares,Ville,12
+367,Cine Logística LDEO S.A.,Soria,Ville,12
+368,Cine Grupo Águila S.A.,Salamanca,Ville,9
+369,Cine Victor Manuel Mármol Alcaraz S.L.,Navarra,Ville,12
+370,Cine Ariadna Ramos Suárez S.A.,Cádiz,Ville,10
+371,Cine Infraestructuras OL S.A.,Murcia,Ville,10
+372,Cine Instalaciones Dueñas S.Com.,La Rioja,Ville,7
+373,Cine Inmobiliaria Morata y asociados S.A.,Lleida,Ville,6
+374,Cine Finanzas Castellana S.Coop.,Valencia,Ville,9
+375,Cine Barranco y Morera S.Com.,Córdoba,Ville,8
+376,Cine Promociones Esteve y asociados S.L.,Jaén,Ville,6
+377,Cine Supermercados Barrena S.A.,Cuenca,Ville,11
+378,Cine Alimentación IZZP S.Coop.,Jaén,Ville,10
+379,Cine Hotel TV S.Com.,Zaragoza,Ville,6
+380,Cine Egea y Huertas S.L.,Valladolid,Ville,10
+381,Cine Macarena Gracia Ponce S.L.,Cádiz,Ville,9
+382,Cine Arranz y Carrión S.L.N.E,Murcia,Ville,11
+383,Cine Díaz y Roura S.L.N.E,Salamanca,Ville,9
+384,Cine Mulet y Frías S.Com.,Granada,Ville,7
+385,Cine Fuster y Rebollo S.L.N.E,Jaén,Ville,8
+386,Cine Despacho Integrales S.L.,Guadalajara,Ville,12
+387,Cine Despacho Llopis S.Coop.,Cádiz,Ville,12
+388,Cine Matas y Alcaraz S.Coop.,Valencia,Ville,7
+389,Cine Manufacturas Uría & Asociados S.Com.,Albacete,Ville,8
+390,Cine Alcázar & Asociados S.L.,Guipúzcoa,Ville,8
+391,Cine Infraestructuras Jimenez & Asociados S.Com.,León,Ville,11
+392,Cine Cañizares & Asociados S.Com.,Las Palmas,Ville,7
+393,Cine Alimentación Morillo S.Coop.,Palencia,Ville,6
+394,Cine Ramos y asociados S.L.N.E,Huesca,Ville,11
+395,Cine Construcción del Levante S.L.,Guipúzcoa,Ville,9
+396,Cine Supermercados Internacionales S.A.,Burgos,Ville,10
+397,Cine Infraestructuras Internacionales S.A.,Huesca,Ville,11
+398,Cine Mariana Ramirez Martí S.L.L.,Madrid,Ville,9
+399,Cine Ramírez y Ribes S.Com.,Huesca,Ville,8
+400,Cine Soluciones Acuña S.A.,León,Ville,8
+401,Cine Flavia Bárcena Uribe S.L.U.,Badajoz,Ville,7
+402,Cine Fanny Peral Alberto S.L.,Ourense,Ville,6
+403,Cine Villanueva y Villanueva S.Coop.,Cuenca,Ville,9
+404,Cine Familia Pedrosa S.L.N.E,Vizcaya,Ville,9
+405,Cine Inversiones Anguita y asociados S.L.,Teruel,Ville,11
+406,Cine Hotel Española S.L.,Valencia,Ville,12
+407,Cine Restauración EEZ S.Coop.,Soria,Ville,7
+408,Cine Infraestructuras ZA S.L.N.E,Valencia,Ville,10
+409,Cine Quintanilla & Asociados S.A.D,Albacete,Ville,8
+410,Cine Infraestructuras Font S.Coop.,Segovia,Ville,7
+411,Cine Bas & Asociados S.L.,Lugo,Ville,12
+412,Cine Valero y Ortuño S.L.L.,Melilla,Ville,10
+413,Cine Familia Lastra S.Com.,Alicante,Ville,7
+414,Cine Duarte y Canals S.A.,Granada,Ville,12
+415,Cine Cuenca y asociados S.Com.,Baleares,Ville,6
+416,Cine Consultoría VKV S.A.T.,Valladolid,Ville,8
+417,Cine Infraestructuras Ocaña S.A.,Zamora,Ville,9
+418,Cine Banco BJQR S.A.,Barcelona,Ville,11
+419,Cine Promociones Inteligentes S.Com.,Pontevedra,Ville,8
+420,Cine Industrias Rojas y asociados S.A.D,Navarra,Ville,7
+421,Cine Finanzas Blanch y asociados S.Coop.,Álava,Ville,10
+422,Cine Grupo Gimeno S.Com.,Córdoba,Ville,6
+423,Cine Quero y asociados S.Coop.,La Coruña,Ville,10
+424,Cine Servicios Inteligentes S.Coop.,Valladolid,Ville,9
+425,Cine Xavier Valenzuela Lucas S.Coop.,Las Palmas,Ville,9
+426,Cine Distribuciones del Noroeste S.L.,Castellón,Ville,11
+427,Cine Soluciones del Mediterráneo S.Coop.,Jaén,Ville,12
+428,Cine Dorita Gracia Pomares S.Com.,Santa Cruz de Tenerife,Ville,6
+429,Cine Familia Ruiz S.L.L.,Melilla,Ville,12
+430,Cine Comercial AWJL S.L.,Navarra,Ville,6
+431,Cine Grupo Perelló S.L.,Córdoba,Ville,7
+432,Cine Gloria Mir Carro S.L.L.,Soria,Ville,9
+433,Cine Tecnologías Avanzadas S.Coop.,Murcia,Ville,7
+434,Cine Promociones HCZ S.Com.,Ciudad,Ville,7
+435,Cine Comercial Castellana S.C.P,Ávila,Ville,7
+436,Cine Comercializadora del Noroeste S.Coop.,Asturias,Ville,10
+437,Cine Hector Expósito Adán S.Coop.,La Coruña,Ville,9
+438,Cine Asenjo & Asociados S.L.U.,Vizcaya,Ville,9
+439,Cine Grupo Marí S.Com.,Teruel,Ville,12
+440,Cine Fábrica Pellicer S.Com.,Lugo,Ville,11
+441,Cine Delia Pineda Anaya S.A.,Palencia,Ville,10
+442,Cine Araceli Mendez Villar S.L.,Málaga,Ville,7
+443,Cine Grupo Murillo S.Coop.,Zamora,Ville,6
+444,Cine Distribuciones Amigó & Asociados S.A.,Burgos,Ville,6
+445,Cine Arellano y Quevedo S.L.N.E,Girona,Ville,8
+446,Cine Torres y Muñoz S.Com.,Navarra,Ville,9
+447,Cine Hotel FMU S.Coop.,Ceuta,Ville,9
+448,Cine Ariadna Conesa Sotelo S.L.N.E,Barcelona,Ville,10
+449,Cine Lucio Lozano Carrillo S.Com.,Tarragona,Ville,6
+450,Cine Primitivo Giménez Sala S.A.,Baleares,Ville,6
+451,Cine Carvajal y asociados S.A.T.,Granada,Ville,6
+452,Cine Servicios Integrales S.Coop.,Córdoba,Ville,6
+453,Cine Servicios del Levante S.A.,La Rioja,Ville,8
+454,Cine Soluciones Rojas S.C.P,Soria,Ville,10
+455,Cine Marita Rosselló Ariza S.A.,Murcia,Ville,6
+456,Cine Hermanos Gallardo S.A.,León,Ville,8
+457,Cine Grupo Nogués S.Coop.,Zaragoza,Ville,7
+458,Cine Grupo Guijarro S.Coop.,Córdoba,Ville,10
+459,Cine Logística Jódar S.Coop.,Ciudad,Ville,10
+460,Cine Suministros Mármol S.Com.,La Rioja,Ville,8
+461,Cine Comercial Española S.A.,Zaragoza,Ville,9
+462,Cine Finanzas Baquero y asociados S.L.,Málaga,Ville,11
+463,Cine Talleres Lumbreras y asociados S.Com.,Girona,Ville,11
+464,Cine Hermanos Infante S.Com.,Granada,Ville,11
+465,Cine Hnos Mendizábal S.C.P,Asturias,Ville,12
+466,Cine Canals y Alcalde S.L.N.E,Soria,Ville,9
+467,Cine Promociones Sanmartín y asociados S.L.U.,Huelva,Ville,11
+468,Cine Minería Blanca S.Com.,Guipúzcoa,Ville,8
+469,Cine Ferreras y Yáñez S.L.N.E,Las Palmas,Ville,12
+470,Cine Consultoría del Mediterráneo S.A.,Toledo,Ville,8
+471,Cine Soluciones Integrales S.Com.,Ciudad,Ville,6
+472,Cine Montaña & Asociados S.L.U.,Segovia,Ville,7
+473,Cine Hermanos Perera S.L.N.E,Córdoba,Ville,9
+474,Cine Bueno y Badía S.Coop.,Baleares,Ville,7
+475,Cine Talleres Castells & Asociados S.L.,Madrid,Ville,10
+476,Cine Transportes LU S.A.,Huesca,Ville,12
+477,Cine Apolinar Fernandez Becerra S.L.N.E,Vizcaya,Ville,12
+478,Cine Hnos Barroso S.A.,Barcelona,Ville,7
+479,Cine Manufacturas UQI S.L.,Navarra,Ville,8
+480,Cine Castilla y asociados S.Coop.,Cantabria,Ville,8
+481,Cine Industrias Ibarra S.L.,Zamora,Ville,6
+482,Cine Banca Privada Mir y asociados S.L.U.,Valencia,Ville,9
+483,Cine Banca Privada Avanzadas S.L.N.E,Ciudad,Ville,11
+484,Cine Compañía Aller S.L.,Alicante,Ville,7
+485,Cine Exposito & Asociados S.A.,Burgos,Ville,11
+486,Cine Anunciación Hidalgo Saldaña S.L.,Albacete,Ville,6
+487,Cine Grupo Jiménez S.Coop.,Asturias,Ville,6
+488,Cine Finanzas SD S.L.,Albacete,Ville,9
+489,Cine Hermanos Carballo S.L.,Guipúzcoa,Ville,11
+490,Cine Hnos Vives S.A.,Santa Cruz de Tenerife,Ville,12
+491,Cine Renata Almeida Casas S.L.L.,Zaragoza,Ville,10
+492,Cine Ribas y asociados S.Coop.,Salamanca,Ville,11
+493,Cine Flores & Asociados S.Coop.,Huelva,Ville,7
+494,Cine Erasmo Vicente Domingo S.A.,Sevilla,Ville,7
+495,Cine Hernandez y Torrecilla S.C.P,Cuenca,Ville,11
+496,Cine Hermanos Trillo S.L.L.,Lugo,Ville,7
+497,Cine Talleres Iberia S.L.,Las Palmas,Ville,11
+498,Cine Parejo y Vizcaíno S.Coop.,Santa Cruz de Tenerife,Ville,7
+499,Cine Hermanos Castelló S.Com.,Madrid,Ville,8
+500,Cine Hnos Carrillo S.Coop.,Jaén,Ville,7
+501,Cine Gámez y Robles S.Coop.,Zaragoza,Ville,9
+502,Cine Banco Ibarra y asociados S.A.U,Navarra,Ville,11
+503,Cine Inmobiliaria Reina y asociados S.Com.,Cáceres,Ville,8
+504,Cine Supermercados Bautista y asociados S.Coop.,Tarragona,Ville,10
+505,Cine Granados y asociados S.L.N.E,Santa Cruz de Tenerife,Ville,12
+506,Cine Banco TIC S.Coop.,Cáceres,Ville,8
+507,Cine Celia Tejada Fernandez S.A.,Soria,Ville,12
+508,Cine Consultoría SWB S.L.,Valladolid,Ville,11
+509,Cine Supermercados Bilbao y asociados S.Com.,Valencia,Ville,7
+510,Cine Despacho Guillen S.A.,Girona,Ville,7
+511,Cine Grupo Zapata S.Com.,Lugo,Ville,7
+512,Cine Restauración Alvarez S.L.L.,Álava,Ville,12
+513,Cine Casemiro Garcia Pedraza S.L.,Soria,Ville,10
+514,Cine Hermanos Palacio S.A.,Ceuta,Ville,10
+515,Cine Ropero & Asociados S.L.,Segovia,Ville,12
+516,Cine Ángel y asociados S.A.,Alicante,Ville,9
+517,Cine Aller & Asociados S.A.,Castellón,Ville,8
+518,Cine Familia Cuéllar S.L.N.E,Granada,Ville,6
+519,Cine Narváez y Perez S.L.N.E,Las Palmas,Ville,12
+520,Cine Berto Campo Mate S.Com.,Sevilla,Ville,11
+521,Cine Calvet y Expósito S.L.,Cáceres,Ville,7
+522,Cine Hnos Carmona S.Coop.,Albacete,Ville,11
+523,Cine Consultoría Zorrilla S.L.,La Coruña,Ville,6
+524,Cine Supermercados RU S.A.U,Cádiz,Ville,10
+525,Cine Castañeda y Manso S.L.,Cáceres,Ville,10
+526,Cine Grupo Badía S.A.,Castellón,Ville,12
+527,Cine Consultoría OJE S.L.,Córdoba,Ville,7
+528,Cine Construcción del Mediterráneo S.A.T.,Palencia,Ville,8
+529,Cine Soluciones ZM S.L.,Toledo,Ville,9
+530,Cine Suministros CW S.L.,Segovia,Ville,11
+531,Cine Jódar y Quintero S.A.,Palencia,Ville,9
+532,Cine Manufacturas Hurtado y asociados S.Com.,Murcia,Ville,7
+533,Cine Buendía y Miralles S.C.P,Valladolid,Ville,11
+534,Cine Compañía VBAE S.A.,Almería,Ville,10
+535,Cine Bernad y Melero S.L.N.E,Valladolid,Ville,7
+536,Cine Hotel YN S.C.P,Ourense,Ville,12
+537,Cine Rocha y Nadal S.Coop.,La Rioja,Ville,9
+538,Cine Instalaciones MDN S.L.L.,Valencia,Ville,12
+539,Cine Consultoría Española S.A.D,Tarragona,Ville,9
+540,Cine Suministros JNKF S.L.U.,Santa Cruz de Tenerife,Ville,12
+541,Cine Almeida y Briones S.A.,Alicante,Ville,12
+542,Cine Manufacturas Española S.L.,Salamanca,Ville,9
+543,Cine Instalaciones Buendía S.C.P,Ourense,Ville,8
+544,Cine Desarrollo Pujadas S.L.,Ceuta,Ville,11
+545,Cine Magdalena Soriano Fajardo S.Coop.,Palencia,Ville,11
+546,Cine Infraestructuras XB S.Com.,Granada,Ville,8
+547,Cine Manufacturas KD S.Coop.,Alicante,Ville,11
+548,Cine Inversiones CM S.C.P,Valencia,Ville,7
+549,Cine Logística Castellana S.Com.,Alicante,Ville,9
+550,Cine Rey y asociados S.Coop.,Pontevedra,Ville,7
+551,Cine Álamo y asociados S.L.,Ávila,Ville,12
+552,Cine Toni Roda Gomez S.A.T.,Castellón,Ville,10
+553,Cine Distribuciones Silva S.Coop.,Granada,Ville,9
+554,Cine Banca Privada Garcia & Asociados S.A.,Teruel,Ville,6
+555,Cine Roura y asociados S.L.N.E,Castellón,Ville,11
+556,Cine Tecnologías Montaña y asociados S.Coop.,Sevilla,Ville,8
+557,Cine Josefa Bermudez Cañellas S.Coop.,Guipúzcoa,Ville,6
+558,Cine Blazquez y asociados S.C.P,Melilla,Ville,6
+559,Cine Familia Hernando S.Com.,Tarragona,Ville,8
+560,Cine Alba Enríquez Pino S.L.,Valencia,Ville,10
+561,Cine Hnos Valderrama S.A.,Cuenca,Ville,7
+562,Cine Fortuny & Asociados S.Coop.,Huesca,Ville,6
+563,Cine Talleres MMWL S.L.L.,Córdoba,Ville,7
+564,Cine Banca Privada del Norte S.Com.,Córdoba,Ville,8
+565,Cine Áurea Colom Vallés S.Coop.,Guadalajara,Ville,11
+566,Cine Inversiones Cobos S.A.T.,Guadalajara,Ville,12
+567,Cine Soluciones Acuña S.Coop.,Ourense,Ville,10
+568,Cine Banca Privada Ojeda y asociados S.A.,Valencia,Ville,6
+569,Cine Fabiana Royo Talavera S.Com.,Almería,Ville,8
+570,Cine Eligio Arribas Almeida S.A.,Madrid,Ville,7
+571,Cine Cuenca y asociados S.L.,Santa Cruz de Tenerife,Ville,11
+572,Cine Hermanos Arce S.Coop.,Segovia,Ville,9
+573,Cine Restauración TI S.L.,Badajoz,Ville,8
+574,Cine Manufacturas del Levante S.Coop.,Zamora,Ville,6
+575,Cine Restauración Huertas S.A.,Girona,Ville,9
+576,Cine Gámez y Salom S.Com.,Teruel,Ville,9
+577,Cine Desarrollo Reyes S.A.,Cáceres,Ville,6
+578,Cine Logística QGGZ S.L.L.,Alicante,Ville,7
+579,Cine Grupo Bueno S.Com.,Cáceres,Ville,12
+580,Cine Tecnologías ALUR S.Com.,Ávila,Ville,8
+581,Cine Transportes Batalla y asociados S.Coop.,La Rioja,Ville,9
+582,Cine Desarrollo Mir S.L.,Badajoz,Ville,9
+583,Cine Castrillo & Asociados S.L.,Albacete,Ville,8
+584,Cine Industrias Inteligentes S.A.,Tarragona,Ville,8
+585,Cine Valencia & Asociados S.L.N.E,Baleares,Ville,7
+586,Cine Gabaldón y Cabeza S.Coop.,Córdoba,Ville,7
+587,Cine Hermanos Hierro S.Coop.,Albacete,Ville,6
+588,Cine Restauración JQU S.L.,Cádiz,Ville,12
+589,Cine Logística del Levante S.A.,Huesca,Ville,8
+590,Cine Comercial Boix & Asociados S.C.P,Burgos,Ville,8
+591,Cine González y Azcona S.L.N.E,Cantabria,Ville,8
+592,Cine Hermanos Palacio S.L.N.E,Ceuta,Ville,9
+593,Cine Hermanos Sobrino S.L.U.,Córdoba,Ville,7
+594,Cine Alimentación Tenorio & Asociados S.Com.,Teruel,Ville,7
+595,Cine Manufacturas LSW S.Coop.,Salamanca,Ville,7
+596,Cine Jordi Orozco Santamaria S.Coop.,Toledo,Ville,11
+597,Cine Banca Privada VDM S.A.T.,Castellón,Ville,12
+598,Cine Familia Almazán S.A.U,Vizcaya,Ville,12
+599,Cine Valcárcel y Sola S.L.,Burgos,Ville,8
+600,Cine Distribuciones AEJT S.A.,Albacete,Ville,11
+601,Cine Soluciones Batlle S.Coop.,Salamanca,Ville,11
+602,Cine Distribuciones del Norte S.A.,Valladolid,Ville,10
+603,Cine Construcción del Levante S.C.P,Cuenca,Ville,6
+604,Cine Grupo Acevedo S.A.,Albacete,Ville,7
+605,Cine Inversiones del Noroeste S.Coop.,Guipúzcoa,Ville,9
+606,Cine Hnos Barceló S.Com.,Palencia,Ville,9
+607,Cine Transportes Donaire S.Coop.,Alicante,Ville,8
+608,Cine Alsina y asociados S.L.,Badajoz,Ville,6
+609,Cine Arellano y Cabo S.Coop.,Zaragoza,Ville,9
+610,Cine Nadal y Prieto S.L.,Cádiz,Ville,6
+611,Cine Industrias Muro y asociados S.L.,Badajoz,Ville,10
+612,Cine Infraestructuras Internacionales S.L.U.,Lugo,Ville,7
+613,Cine Minería IKJ S.Coop.,Vizcaya,Ville,7
+614,Cine Salmerón y Iñiguez S.A.U,Melilla,Ville,10
+615,Cine Familia Cueto S.Coop.,Asturias,Ville,10
+616,Cine Transportes Iberia S.Coop.,Tarragona,Ville,9
+617,Cine Manola Amorós Escolano S.L.,Melilla,Ville,7
+618,Cine Cornelio Tejera Ledesma S.Com.,Huelva,Ville,7
+619,Cine María Fernanda Gabaldón Torrecilla S.Com.,Castellón,Ville,7
+620,Cine Maricruz Vera Plana S.A.T.,Zamora,Ville,10
+621,Cine Tecnologías Avanzadas S.L.,Segovia,Ville,9
+622,Cine Alimentación Enríquez S.A.,Lugo,Ville,12
+623,Cine Familia Mateo S.Coop.,La Coruña,Ville,11
+624,Cine Logística Bermejo S.A.,Zamora,Ville,7
+625,Cine Talleres Casal y asociados S.L.N.E,Murcia,Ville,7
+626,Cine Ovidio Moliner Cámara S.A.,Cádiz,Ville,9
+627,Cine Gras & Asociados S.A.,Jaén,Ville,6
+628,Cine Banca Privada del Mediterráneo S.L.,Baleares,Ville,12
+629,Cine Fábrica SFAJ S.Coop.,Burgos,Ville,9
+630,Cine Tecnologías Marín S.Coop.,Valladolid,Ville,9
+631,Cine Hnos Carranza S.Com.,Zamora,Ville,9
+632,Cine Gárate & Asociados S.A.,Guadalajara,Ville,11
+633,Cine Itziar Perales Viñas S.L.N.E,Pontevedra,Ville,8
+634,Cine Clarisa Garmendia Bastida S.A.,Soria,Ville,12
+635,Cine Primitivo Bonilla Lobo S.Coop.,Lleida,Ville,7
+636,Cine Ruperta Ramos Múñiz S.L.N.E,Palencia,Ville,12
+637,Cine Hnos Colomer S.L.N.E,Cuenca,Ville,8
+638,Cine Tecnologías Ródenas S.L.,Málaga,Ville,6
+639,Cine Farmaceútica Figueras S.A.,Cáceres,Ville,11
+640,Cine Hermanos Morera S.Com.,Huelva,Ville,10
+641,Cine Reyes Nevado Castañeda S.Coop.,Baleares,Ville,11
+642,Cine Juan Manuel Grau Doménech S.A.,Navarra,Ville,12
+643,Cine Hermanos Figuerola S.Com.,Alicante,Ville,11
+644,Cine Banco Guerrero y asociados S.Coop.,Guadalajara,Ville,12
+645,Cine Valeria Casares Sanabria S.A.T.,Jaén,Ville,9
+646,Cine Requena y Pelayo S.L.U.,Cádiz,Ville,7
+647,Cine Comercial LXI S.L.L.,Ciudad,Ville,6
+648,Cine Noemí Páez Somoza S.A.,Lleida,Ville,12
+649,Cine Banco VEA S.Com.,Huelva,Ville,9
+650,Cine Inmobiliaria Segura S.C.P,Granada,Ville,6
+651,Cine Tecnologías Meléndez S.L.,León,Ville,7
+652,Cine Criado y Prado S.A.,Palencia,Ville,10
+653,Cine Tecnologías Revilla S.A.,Pontevedra,Ville,8
+654,Cine Distribuciones WZUE S.Coop.,Palencia,Ville,7
+655,Cine Construcción Serna S.L.N.E,Huelva,Ville,12
+656,Cine Familia Prieto S.L.,Guadalajara,Ville,8
+657,Cine Consultoría Ramis S.A.,Castellón,Ville,6
+658,Cine Pacheco y Arribas S.Com.,Guadalajara,Ville,8
+659,Cine Evelia Gutierrez Morell S.L.,Lugo,Ville,12
+660,Cine Despacho XQG S.L.,Burgos,Ville,10
+661,Cine Nebot y Ribera S.A.U,Pontevedra,Ville,9
+662,Cine Agustín Oliva Saura S.L.,Zamora,Ville,8
+663,Cine Distribuciones Integrales S.L.,Girona,Ville,12
+664,Cine Infraestructuras León y asociados S.Coop.,Guipúzcoa,Ville,10
+665,Cine Supermercados IDST S.L.,Cáceres,Ville,12
+666,Cine Agullo & Asociados S.L.U.,Huesca,Ville,6
+667,Cine Adadia y asociados S.L.,Zaragoza,Ville,12
+668,Cine Familia Vaquero S.L.L.,Las Palmas,Ville,10
+669,Cine Correa y asociados S.A.,Asturias,Ville,9
+670,Cine Lupita Cerezo Capdevila S.L.,Murcia,Ville,6
+671,Cine Diego Viñas Caparrós S.A.,Valencia,Ville,6
+672,Cine Tecnologías Ferrera S.L.,Badajoz,Ville,12
+673,Cine Hermanos Belmonte S.A.,Santa Cruz de Tenerife,Ville,10
+674,Cine Promociones Iberia S.L.L.,Albacete,Ville,11
+675,Cine Esparza y Garcés S.L.,Segovia,Ville,12
+676,Cine Bárcena y asociados S.A.,La Rioja,Ville,6
+677,Cine Enríquez y Andrés S.Coop.,Guadalajara,Ville,12
+678,Cine Grupo Montalbán S.Coop.,Córdoba,Ville,6
+679,Cine Palacios y asociados S.Coop.,Guadalajara,Ville,6
+680,Cine Palomo y Barbero S.C.P,Navarra,Ville,6
+681,Cine Claudia Cervera Amor S.A.,La Rioja,Ville,11
+682,Cine Compañía Barranco S.L.N.E,La Coruña,Ville,8
+683,Cine Inmobiliaria del Norte S.L.,Alicante,Ville,10
+684,Cine Distribuciones UV S.L.,Teruel,Ville,8
+685,Cine Comercializadora Ibérica S.L.,Ciudad,Ville,7
+686,Cine Desarrollo Avanzadas S.A.,Huesca,Ville,8
+687,Cine Suministros Ojeda & Asociados S.Com.,Cáceres,Ville,11
+688,Cine Clímaco Alvarez Palacios S.A.,Huelva,Ville,9
+689,Cine Comercial Alcázar y asociados S.L.N.E,Barcelona,Ville,7
+690,Cine Supermercados Zabaleta y asociados S.A.,Palencia,Ville,6
+691,Cine Villalobos y Hierro S.Com.,La Coruña,Ville,6
+692,Cine Banca Privada Muñoz y asociados S.L.N.E,Ávila,Ville,10
+693,Cine Banca Privada Tapia S.Com.,Valladolid,Ville,9
+694,Cine Desarrollo Internacionales S.Com.,Lleida,Ville,7
+695,Cine Hermanos Rios S.A.,Cuenca,Ville,7
+696,Cine Hnos Viña S.L.,Valladolid,Ville,10
+697,Cine Logística VJHY S.L.L.,Huesca,Ville,9
+698,Cine Lourdes Cueto Guzman S.L.U.,Huesca,Ville,7
+699,Cine Hermanos Olivares S.A.,Ceuta,Ville,7
+700,Cine Promociones Iberia S.L.N.E,León,Ville,8
+701,Cine Transportes XVI S.C.P,Albacete,Ville,6
+702,Cine Infraestructuras del Norte S.C.P,Córdoba,Ville,12
+703,Cine Eufemia Quintana Morante S.Coop.,León,Ville,6
+704,Cine Tur y asociados S.A.,Soria,Ville,9
+705,Cine Peña & Asociados S.L.L.,Granada,Ville,8
+706,Cine Nevado y Almeida S.L.,Soria,Ville,9
+707,Cine Inversiones Domínguez y asociados S.Coop.,Cantabria,Ville,6
+708,Cine Servicios Inteligentes S.A.,Salamanca,Ville,11
+709,Cine Compañía KYZ S.Com.,Huesca,Ville,8
+710,Cine Manufacturas WZ S.L.N.E,Lugo,Ville,7
+711,Cine Supermercados del Mediterráneo S.A.,Teruel,Ville,11
+712,Cine Menendez y Conde S.Coop.,Vizcaya,Ville,6
+713,Cine Benito Bastida Saldaña S.L.N.E,Lugo,Ville,12
+714,Cine Minería HP S.C.P,Sevilla,Ville,10
+715,Cine Oliva y asociados S.Com.,La Rioja,Ville,11
+716,Cine Regina Alcalde Sarabia S.C.P,Cádiz,Ville,10
+717,Cine Coll y Vélez S.Coop.,Baleares,Ville,7
+718,Cine Coca & Asociados S.L.,Navarra,Ville,10
+719,Cine Canet y asociados S.L.L.,Valencia,Ville,6
+720,Cine Servicios Meléndez y asociados S.Com.,Guadalajara,Ville,6
+721,Cine Solana & Asociados S.L.N.E,Lleida,Ville,8
+722,Cine Comercializadora Mayol y asociados S.L.N.E,La Coruña,Ville,9
+723,Cine Hermanos Galán S.L.N.E,Zamora,Ville,7
+724,Cine Cristina Coronado Busquets S.Coop.,Huesca,Ville,6
+725,Cine Jordá y asociados S.L.L.,Navarra,Ville,12
+726,Cine Carmelo Jaume Villalonga S.Coop.,Lleida,Ville,10
+727,Cine Minería Internacionales S.A.,Soria,Ville,11
+728,Cine Transportes WM S.L.,Las Palmas,Ville,9
+729,Cine Montserrat & Asociados S.A.U,Girona,Ville,6
+730,Cine Hermanos Alcalá S.Com.,Lleida,Ville,7
+731,Cine Comercializadora Pereira y asociados S.Coop.,Tarragona,Ville,12
+732,Cine Consultoría Globales S.Coop.,Cuenca,Ville,9
+733,Cine Banca Privada Aroca S.A.,Palencia,Ville,11
+734,Cine Candelas Badía Madrid S.L.,Baleares,Ville,10
+735,Cine Banco KUV S.Com.,Barcelona,Ville,11
+736,Cine Eli Girón Girona S.A.T.,Valencia,Ville,12
+737,Cine Palma y Zamora S.A.,Lugo,Ville,11
+738,Cine Tecnologías Luz & Asociados S.C.P,Guipúzcoa,Ville,7
+739,Cine Segarra & Asociados S.L.,Sevilla,Ville,7
+740,Cine Sanabria y Arcos S.A.T.,Vizcaya,Ville,12
+741,Cine Hnos Garcia S.L.,Badajoz,Ville,9
+742,Cine Galan y Bello S.Com.,La Coruña,Ville,11
+743,Cine Hnos Córdoba S.L.,Teruel,Ville,9
+744,Cine Talleres Codina & Asociados S.L.L.,Vizcaya,Ville,7
+745,Cine Consultoría TSIO S.L.N.E,Vizcaya,Ville,6
+746,Cine Industrias Integrales S.L.,Almería,Ville,8
+747,Cine Barrios y Mayol S.L.,La Rioja,Ville,9
+748,Cine Soluciones NJ S.L.,Málaga,Ville,10
+749,Cine Inversiones Frías S.L.N.E,Palencia,Ville,11
+750,Cine Industrias Arias S.L.L.,Lleida,Ville,6
+751,Cine Sandoval y Escudero S.C.P,Huesca,Ville,9
+752,Cine Grupo Nogués S.L.N.E,Vizcaya,Ville,12
+753,Cine Sedano y Alba S.L.N.E,Albacete,Ville,9
+754,Cine Quintanilla y asociados S.A.,Málaga,Ville,11
+755,Cine Charo Bosch Jordá S.Coop.,Lugo,Ville,9
+756,Cine Transportes Suarez S.Com.,La Rioja,Ville,12
+757,Cine Familia Abellán S.L.,Navarra,Ville,8
+758,Cine Amores y asociados S.L.,Guadalajara,Ville,9
+759,Cine Hermanos Valdés S.L.N.E,Asturias,Ville,12
+760,Cine Carla Leal Otero S.Coop.,Murcia,Ville,10
+761,Cine Promociones Iberia S.Com.,Lugo,Ville,6
+762,Cine Nicolau y Plana S.A.,Las Palmas,Ville,8
+763,Cine Finanzas VLB S.A.T.,Teruel,Ville,6
+764,Cine Desarrollo LZP S.Com.,Córdoba,Ville,11
+765,Cine Transportes Ibérica S.Com.,Girona,Ville,9
+766,Cine Zabala y Acosta S.A.,Asturias,Ville,7
+767,Cine Fábrica Casares S.A.,Jaén,Ville,11
+768,Cine Fábrica JK S.L.N.E,Girona,Ville,10
+769,Cine Tejera y Roselló S.A.,Almería,Ville,12
+770,Cine Fábrica Española S.Coop.,Álava,Ville,7
+771,Cine Arias y Ramis S.L.N.E,Cádiz,Ville,6
+772,Cine Minería del Norte S.L.,La Rioja,Ville,6
+773,Cine Soria y asociados S.L.U.,Cádiz,Ville,10
+774,Cine Lucila Gutiérrez Valencia S.Coop.,Baleares,Ville,9
+775,Cine Octavio Cadenas Santos S.A.,Valencia,Ville,9
+776,Cine Porta & Asociados S.Com.,Ciudad,Ville,6
+777,Cine Hotel SPN S.Coop.,Albacete,Ville,9
+778,Cine Banca Privada Amor & Asociados S.C.P,Barcelona,Ville,8
+779,Cine Sierra & Asociados S.L.L.,Valladolid,Ville,9
+780,Cine Comercial Espejo & Asociados S.Coop.,Palencia,Ville,11
+781,Cine Hotel Sevilla & Asociados S.L.,Asturias,Ville,11
+782,Cine Hnos Reyes S.L.N.E,Lleida,Ville,7
+783,Cine Herrera y Cobos S.L.,Burgos,Ville,9
+784,Cine Inmobiliaria Roca y asociados S.A.D,Cantabria,Ville,6
+785,Cine Hermanos Tello S.A.T.,Guipúzcoa,Ville,10
+786,Cine Suministros Ferrández y asociados S.L.N.E,Teruel,Ville,8
+787,Cine Transportes XO S.L.N.E,Ávila,Ville,6
+788,Cine Pulido & Asociados S.A.U,Burgos,Ville,12
+789,Cine Construcción Calderon S.L.N.E,Zaragoza,Ville,7
+790,Cine Reguera y asociados S.Coop.,Huesca,Ville,9
+791,Cine Banca Privada del Noroeste S.L.,La Rioja,Ville,11
+792,Cine Inmobiliaria XDH S.L.L.,Baleares,Ville,11
+793,Cine Miró y asociados S.L.,Toledo,Ville,12
+794,Cine Hnos Morcillo S.Coop.,Soria,Ville,11
+795,Cine Logística YY S.A.,Las Palmas,Ville,9
+796,Cine Familia Pareja S.L.,Barcelona,Ville,9
+797,Cine Hotel Cañas S.L.N.E,Albacete,Ville,6
+798,Cine Talleres SFD S.L.,Castellón,Ville,7
+799,Cine Pelayo y Figueroa S.A.,Jaén,Ville,8
+800,Cine Comercial Elorza & Asociados S.L.,Ourense,Ville,9
+801,Cine Hermanos Gargallo S.L.,Almería,Ville,9
+802,Cine Talleres Millán & Asociados S.A.,Huelva,Ville,9
+803,Cine Banco OX S.C.P,Zaragoza,Ville,10
+804,Cine Hotel Ibéricos S.L.N.E,Huesca,Ville,11
+805,Cine Martínez y asociados S.L.L.,Vizcaya,Ville,8
+806,Cine Farmaceútica Pujadas S.Com.,Madrid,Ville,11
+807,Cine Hermanos Carranza S.L.N.E,Vizcaya,Ville,6
+808,Cine Familia Maza S.A.,Zaragoza,Ville,10
+809,Cine Soluciones Internacionales S.A.U,Sevilla,Ville,8
+810,Cine Finanzas Ibéricos S.A.,Tarragona,Ville,11
+811,Cine Tecnologías Valdés S.L.N.E,Huelva,Ville,6
+812,Cine Compañía Solsona y asociados S.L.L.,Valladolid,Ville,12
+813,Cine Fuente y Nevado S.L.U.,Salamanca,Ville,11
+814,Cine Molina & Asociados S.Coop.,Baleares,Ville,10
+815,Cine Inversiones Gutierrez S.L.,Lugo,Ville,8
+816,Cine Hnos Aranda S.A.,Madrid,Ville,11
+817,Cine Moisés Merino Izaguirre S.A.,La Rioja,Ville,12
+818,Cine Alcalde y asociados S.L.N.E,Soria,Ville,8
+819,Cine Crespo y Prat S.L.L.,Girona,Ville,8
+820,Cine Vall y Reguera S.L.,Soria,Ville,10
+821,Cine Distribuciones Navarrete S.A.,Badajoz,Ville,9
+822,Cine Manufacturas Santana S.L.,Lleida,Ville,8
+823,Cine Familia Moles S.A.D,Vizcaya,Ville,12
+824,Cine Fábrica Ibérica S.L.,Segovia,Ville,12
+825,Cine Hnos Herranz S.L.L.,Ávila,Ville,9
+826,Cine Farmaceútica Espada y asociados S.A.,Alicante,Ville,10
+827,Cine Grupo Quintanilla S.A.,Barcelona,Ville,8
+828,Cine Hermanos Bayo S.L.,Ávila,Ville,12
+829,Cine Finanzas Tirado y asociados S.A.,Vizcaya,Ville,11
+830,Cine Manufacturas TUMY S.L.L.,Santa Cruz de Tenerife,Ville,12
+831,Cine Compañía Ballesteros S.Coop.,Badajoz,Ville,11
+832,Cine Talleres Lumbreras S.L.N.E,Santa Cruz de Tenerife,Ville,12
+833,Cine Comercial Iberia S.L.L.,Pontevedra,Ville,7
+834,Cine Promociones PNYR S.Coop.,Navarra,Ville,10
+835,Cine Construcción Ibérica S.Coop.,Murcia,Ville,10
+836,Cine Mauricio Uribe Hernando S.L.,Valladolid,Ville,10
+837,Cine Banca Privada Jordá S.A.,Salamanca,Ville,6
+838,Cine Talleres IS S.L.,Teruel,Ville,11
+839,Cine Banca Privada del Sur S.Com.,Almería,Ville,10
+840,Cine Inversiones Ribes S.Com.,Álava,Ville,11
+841,Cine Soluciones QK S.A.D,Murcia,Ville,9
+842,Cine Tecnologías GJ S.Com.,Cuenca,Ville,7
+843,Cine Desarrollo CKH S.A.,Málaga,Ville,8
+844,Cine Hermanos Lumbreras S.L.U.,Zaragoza,Ville,8
+845,Cine Inmobiliaria Gibert S.Coop.,Ceuta,Ville,6
+846,Cine Suministros Santamaría S.L.N.E,Jaén,Ville,10
+847,Cine Talleres Inteligentes S.Coop.,Zaragoza,Ville,11
+848,Cine Catalá y Serrano S.A.,Soria,Ville,10
+849,Cine Familia Jove S.Com.,Albacete,Ville,12
+850,Cine Infraestructuras Roura S.Com.,Salamanca,Ville,8
+851,Cine Marín y Pinto S.L.,Almería,Ville,11
+852,Cine Federico Camacho Castilla S.A.,Cuenca,Ville,12
+853,Cine Esteve y Pinilla S.L.,Almería,Ville,12
+854,Cine Banco AOPE S.C.P,Palencia,Ville,8
+855,Cine Perez y asociados S.Com.,Cáceres,Ville,11
+856,Cine Lloret y Priego S.A.,Las Palmas,Ville,7
+857,Cine Pulido y Cuesta S.L.,Pontevedra,Ville,8
+858,Cine Mancebo y Mendizábal S.L.,Granada,Ville,8
+859,Cine Goñi y Gutiérrez S.Coop.,Alicante,Ville,10
+860,Cine Lloret y Bejarano S.L.,Girona,Ville,8
+861,Cine Soluciones Española S.Coop.,Badajoz,Ville,9
+862,Cine Soluciones UZC S.Com.,Burgos,Ville,7
+863,Cine Exposito y Bilbao S.Coop.,Huesca,Ville,11
+864,Cine Peñalver y Molina S.Coop.,Alicante,Ville,9
+865,Cine Fábrica Pascual S.A.T.,Toledo,Ville,12
+866,Cine Heras y asociados S.Com.,Lugo,Ville,6
+867,Cine Promociones del Levante S.A.,Tarragona,Ville,6
+868,Cine Transportes Saez y asociados S.A.U,Salamanca,Ville,11
+869,Cine Banco Hidalgo S.Coop.,Segovia,Ville,7
+870,Cine Banco YMZ S.L.L.,Málaga,Ville,12
+871,Cine Banca Privada Batalla & Asociados S.L.N.E,Baleares,Ville,7
+872,Cine Fábrica Rivas S.Coop.,La Coruña,Ville,11
+873,Cine Crespi y asociados S.L.N.E,Palencia,Ville,10
+874,Cine Finanzas Suárez y asociados S.L.,Castellón,Ville,6
+875,Cine Restauración RT S.Com.,Málaga,Ville,11
+876,Cine Banca Privada Española S.L.N.E,Castellón,Ville,6
+877,Cine Amor y Benavent S.Coop.,Lugo,Ville,6
+878,Cine Bernabé Esparza Pozo S.L.,Burgos,Ville,10
+879,Cine Minería Plana S.Coop.,Teruel,Ville,8
+880,Cine Compañía Toledo & Asociados S.Com.,Ávila,Ville,9
+881,Cine Hermanos Esteve S.A.,Navarra,Ville,7
+882,Cine Desarrollo Canales S.L.,Huelva,Ville,12
+883,Cine Hnos Maestre S.Com.,Asturias,Ville,7
+884,Cine Desarrollo LUZ S.A.,Cantabria,Ville,9
+885,Cine Nando Peña Boix S.L.L.,Badajoz,Ville,10
+886,Cine Damián Álvaro Busquets S.Com.,Cuenca,Ville,11
+887,Cine Anglada & Asociados S.L.N.E,Burgos,Ville,9
+888,Cine Inmobiliaria Ibérica S.L.,Ávila,Ville,6
+889,Cine Casado y asociados S.L.,Zaragoza,Ville,8
+890,Cine Talleres Mesa & Asociados S.Coop.,Salamanca,Ville,11
+891,Cine Seve Perales Godoy S.Coop.,Guipúzcoa,Ville,10
+892,Cine Comercial DF S.Coop.,Cáceres,Ville,6
+893,Cine Consultoría Paz S.L.N.E,Toledo,Ville,7
+894,Cine Instalaciones Ponce y asociados S.A.T.,Castellón,Ville,8
+895,Cine Felipe Marcos Ballesteros S.A.,Vizcaya,Ville,11
+896,Cine Familia Herrera S.L.,Melilla,Ville,11
+897,Cine Instalaciones Tapia S.L.L.,Zaragoza,Ville,10
+898,Cine Ferrer y Zapata S.L.N.E,Valencia,Ville,11
+899,Cine Olivia Cal Vara S.A.,Salamanca,Ville,10
+900,Cine Rey & Asociados S.L.N.E,Girona,Ville,12
+901,Cine Hnos Marí S.Com.,Jaén,Ville,8
+902,Cine Instalaciones Acosta S.L.U.,Almería,Ville,8
+903,Cine Losa & Asociados S.C.P,Albacete,Ville,8
+904,Cine Comercial Tejera S.L.N.E,Ciudad,Ville,6
+905,Cine Logística Valera S.Coop.,Zaragoza,Ville,9
+906,Cine Lucía Armas Laguna S.A.,Granada,Ville,9
+907,Cine Minería Integrales S.Com.,Albacete,Ville,12
+908,Cine Talleres del Mediterráneo S.L.N.E,Castellón,Ville,12
+909,Cine Molins y asociados S.L.,Pontevedra,Ville,6
+910,Cine Farmaceútica Ibérica S.L.,Lleida,Ville,8
+911,Cine Suministros Bello S.Com.,Barcelona,Ville,10
+912,Cine Transportes del Sur S.C.P,Salamanca,Ville,8
+913,Cine Tecnologías Serna S.Com.,Salamanca,Ville,7
+914,Cine Grupo Flor S.L.N.E,Girona,Ville,6
+915,Cine Mar Escamilla Mendoza S.A.,Valencia,Ville,8
+916,Cine Escudero & Asociados S.Coop.,Santa Cruz de Tenerife,Ville,8
+917,Cine Olivia Torralba Casas S.L.N.E,Sevilla,Ville,12
+918,Cine Hermanos Báez S.A.,Valencia,Ville,10
+919,Cine Jenaro Salvà Fuster S.Coop.,Murcia,Ville,7
+920,Cine Minería UPPG S.A.,Tarragona,Ville,12
+921,Cine Grupo Rey S.Com.,Murcia,Ville,10
+922,Cine Hermanos Calderón S.A.,Ourense,Ville,11
+923,Cine Aarón Barriga Escudero S.A.D,Huelva,Ville,7
+924,Cine Gallo & Asociados S.Coop.,Huelva,Ville,6
+925,Cine Soluciones Vives S.L.L.,Castellón,Ville,7
+926,Cine Infraestructuras Castellana S.Com.,Lugo,Ville,9
+927,Cine Manufacturas Ángel & Asociados S.Com.,Zamora,Ville,11
+928,Cine Hermanos Sacristán S.L.,Pontevedra,Ville,9
+929,Cine Instalaciones SLV S.A.,Lleida,Ville,8
+930,Cine Infraestructuras XM S.L.,Toledo,Ville,8
+931,Cine Villalobos y Calvo S.L.N.E,Almería,Ville,9
+932,Cine Industrias EE S.A.,Navarra,Ville,12
+933,Cine Soluciones UQUL S.A.,La Coruña,Ville,11
+934,Cine Feliciana Gual Sanmartín S.Com.,Cádiz,Ville,7
+935,Cine Comercializadora Luís y asociados S.L.N.E,Girona,Ville,9
+936,Cine Consultoría Avanzadas S.L.N.E,Valencia,Ville,12
+937,Cine Barbero y asociados S.C.P,Guadalajara,Ville,10
+938,Cine Minería Losada S.L.N.E,Teruel,Ville,12
+939,Cine Farmaceútica Bayo S.L.N.E,Toledo,Ville,8
+940,Cine Servicios Iborra S.A.,Almería,Ville,9
+941,Cine Acevedo & Asociados S.L.,Guipúzcoa,Ville,8
+942,Cine Restauración Integrales S.A.,Tarragona,Ville,9
+943,Cine Familia Lozano S.L.,Lleida,Ville,10
+944,Cine Finanzas Globales S.L.N.E,Sevilla,Ville,7
+945,Cine Roma y asociados S.L.,Pontevedra,Ville,8
+946,Cine Palomino & Asociados S.L.L.,Pontevedra,Ville,7
+947,Cine Ruperto Calleja Pareja S.L.N.E,Madrid,Ville,12
+948,Cine Alimentación del Noroeste S.A.,Lugo,Ville,11
+949,Cine Hermanos Barceló S.Com.,Tarragona,Ville,6
+950,Cine Garcia & Asociados S.L.,Asturias,Ville,12
+951,Cine Bonifacio Sans Martin S.A.T.,Girona,Ville,12
+952,Cine Supermercados Córdoba y asociados S.A.,La Rioja,Ville,9
+953,Cine Jacobo Porta Lucena S.Com.,Cuenca,Ville,10
+954,Cine Grupo Yáñez S.L.,Navarra,Ville,6
+955,Cine Calzada y Bosch S.A.,Huelva,Ville,10
+956,Cine Fábrica del Mediterráneo S.L.L.,Ciudad,Ville,9
+957,Cine Familia Muro S.A.,Asturias,Ville,9
+958,Cine Hermanos Haro S.A.,Málaga,Ville,8
+959,Cine Hermanos Infante S.L.,La Coruña,Ville,6
+960,Cine Construcción WS S.Com.,Lugo,Ville,10
+961,Cine Finanzas Leiva & Asociados S.A.U,Jaén,Ville,10
+962,Cine Talleres Iberia S.Com.,Ciudad,Ville,7
+963,Cine Hermanos Alfaro S.Coop.,Palencia,Ville,8
+964,Cine Hnos Amigó S.Com.,Cantabria,Ville,6
+965,Cine Álvaro & Asociados S.Coop.,Girona,Ville,9
+966,Cine Alvarado & Asociados S.C.P,Málaga,Ville,12
+967,Cine Castells & Asociados S.Coop.,Madrid,Ville,9
+968,Cine Hotel XWZ S.L.N.E,Lleida,Ville,7
+969,Cine Acosta y Prat S.L.L.,Pontevedra,Ville,11
+970,Cine Construcción del Noroeste S.Com.,Murcia,Ville,11
+971,Cine Inversiones Granados & Asociados S.A.U,Alicante,Ville,7
+972,Cine Alimentación Viana S.Com.,Badajoz,Ville,9
+973,Cine Farmaceútica Campillo S.L.N.E,Lugo,Ville,7
+974,Cine Hermanos Tudela S.A.,Alicante,Ville,10
+975,Cine Vilanova y Pozo S.A.,Granada,Ville,9
+976,Cine Farmaceútica Larrañaga y asociados S.Com.,Huelva,Ville,7
+977,Cine Feijoo y Simó S.L.,Palencia,Ville,9
+978,Cine Báez y asociados S.A.,Salamanca,Ville,9
+979,Cine Hermanos Beltrán S.A.,Toledo,Ville,9
+980,Cine Pombo y Milla S.L.,Pontevedra,Ville,10
+981,Cine Guzman & Asociados S.L.N.E,Cádiz,Ville,8
+982,Cine Alimentación Baños & Asociados S.L.N.E,Burgos,Ville,8
+983,Cine Desarrollo JZDW S.L.,Toledo,Ville,10
+984,Cine Supermercados TP S.L.L.,Zaragoza,Ville,8
+985,Cine Familia Ayllón S.L.N.E,Asturias,Ville,10
+986,Cine Construcción Ibéricos S.L.,Sevilla,Ville,10
+987,Cine Comercializadora ZUR S.L.,Alicante,Ville,12
+988,Cine Soluciones Ibérica S.A.,Almería,Ville,6
+989,Cine Alcántara & Asociados S.Coop.,Albacete,Ville,9
+990,Cine Promociones HAII S.A.,Tarragona,Ville,10
+991,Cine Tecnologías Daza y asociados S.L.,Lugo,Ville,8
+992,Cine Riera & Asociados S.A.D,Zaragoza,Ville,11
+993,Cine Distribuciones EQ S.Coop.,Soria,Ville,8
+994,Cine Finanzas Perales y asociados S.L.L.,Zaragoza,Ville,10
+995,Cine Alimentación DQ S.L.N.E,Badajoz,Ville,12
+996,Cine Hermanos Hernandez S.A.,Badajoz,Ville,6
+997,Cine Supermercados Iberia S.Com.,Baleares,Ville,9
+998,Cine Hermanos Casanova S.Coop.,Lugo,Ville,8
+999,Cine Transportes Borja & Asociados S.Com.,Zaragoza,Ville,8
+1000,Cine Navarrete y Cal S.L.L.,Palencia,Ville,8
+1001,Cine Servicios Viñas y asociados S.L.L.,Albacete,Ville,6
+1002,Cine Instalaciones del Norte S.L.,Burgos,Ville,12
+1003,Cine Fábrica del Mediterráneo S.A.,Cantabria,Ville,7
+1004,Cine Grupo Manzanares S.L.L.,Castellón,Ville,9
+1005,Cine Soluciones WE S.Coop.,Albacete,Ville,11
+1006,Cine Banca Privada Fuentes & Asociados S.A.,Murcia,Ville,7
+1007,Cine Grupo Fabra S.Com.,Huelva,Ville,11
+1008,Cine Restauración Núñez y asociados S.L.,Ceuta,Ville,12
+1009,Cine Farmaceútica Iberia S.L.,Madrid,Ville,6
+1010,Cine Familia Marin S.A.,Santa Cruz de Tenerife,Ville,10
+1011,Cine Restauración HVH S.Coop.,Las Palmas,Ville,11
+1012,Cine Macias & Asociados S.A.,Alicante,Ville,10
+1013,Cine Compañía Lillo S.Coop.,Barcelona,Ville,10
+1014,Cine Hermanos Abascal S.L.,Cáceres,Ville,11
+1015,Cine Cobo y Amaya S.C.P,Málaga,Ville,12
+1016,Cine Banca Privada Iberia S.L.,La Rioja,Ville,9
+1017,Cine Hnos Pozuelo S.C.P,Córdoba,Ville,10
+1018,Cine Compañía Españolas S.A.,Jaén,Ville,11
+1019,Cine Jordán y asociados S.L.U.,Lugo,Ville,7
+1020,Cine Hnos Donaire S.L.U.,La Coruña,Ville,8
+1021,Cine Vendrell y asociados S.A.,Soria,Ville,7
+1022,Cine Construcción Oliver S.C.P,Navarra,Ville,8
+1023,Cine Manufacturas Iberia S.L.,Melilla,Ville,10
+1024,Cine Finanzas Ferrándiz S.Com.,Jaén,Ville,11
+1025,Cine Desarrollo Pedrero S.A.,Toledo,Ville,8
+1026,Cine Servicios Farré S.A.D,Asturias,Ville,7
+1027,Cine Construcción CK S.Coop.,Asturias,Ville,9
+1028,Cine Hnos Carbó S.Com.,Huesca,Ville,10
+1029,Cine Servicios Clavero S.Com.,Guipúzcoa,Ville,10
+1030,Cine Melero y Jódar S.Com.,Huesca,Ville,11
+1031,Cine Grupo Mata S.A.,Lleida,Ville,11
+1032,Cine Industrias Paniagua y asociados S.L.N.E,Málaga,Ville,10
+1033,Cine Apolonia Bosch Cordero S.A.,Sevilla,Ville,10
+1034,Cine Conde y Baena S.Com.,Teruel,Ville,11
+1035,Cine Hnos Chico S.L.,Córdoba,Ville,7
+1036,Cine Chico y Sola S.Com.,Albacete,Ville,8
+1037,Cine Bernad & Asociados S.Coop.,Toledo,Ville,12
+1038,Cine Ignacia Mulet Juárez S.C.P,Cádiz,Ville,9
+1039,Cine Buendía y asociados S.A.U,Córdoba,Ville,10
+1040,Cine Promociones Borja S.L.,Cantabria,Ville,12
+1041,Cine Tecnologías Huguet y asociados S.A.,Guadalajara,Ville,9
+1042,Cine Transportes Castellana S.L.U.,Zaragoza,Ville,8
+1043,Cine Calixta Marqués Mora S.Com.,Cantabria,Ville,11
+1044,Cine Construcción Fernandez S.Com.,León,Ville,6
+1045,Cine Saez y asociados S.Coop.,Cuenca,Ville,7
+1046,Cine Ferrández & Asociados S.Coop.,Ciudad,Ville,7
+1047,Cine Hermanos Planas S.Com.,Granada,Ville,9
+1048,Cine Transportes Globales S.Coop.,Ourense,Ville,7
+1049,Cine Hermanos Ripoll S.L.L.,Zamora,Ville,7
+1050,Cine Cerro y Cano S.C.P,Cantabria,Ville,9
+1051,Cine Villalobos y Chamorro S.L.L.,Guadalajara,Ville,9
+1052,Cine Loida Aparicio Cañizares S.A.U,La Rioja,Ville,12
+1053,Cine Elpidio Carnero Hernandez S.Com.,La Coruña,Ville,11
+1054,Cine Valerio Cepeda Lillo S.L.,Barcelona,Ville,12
+1055,Cine María Fernanda Vara Serra S.C.P,Guipúzcoa,Ville,6
+1056,Cine Servicios Avanzadas S.L.L.,Melilla,Ville,12
+1057,Cine Instalaciones Guillen S.Com.,Baleares,Ville,12
+1058,Cine Talleres NAMJ S.L.L.,Soria,Ville,6
+1059,Cine Esteban y asociados S.L.N.E,Alicante,Ville,6
+1060,Cine Construcción Tudela S.Com.,Palencia,Ville,7
+1061,Cine Jerónimo Vives Calvet S.L.L.,Girona,Ville,11
+1062,Cine Tecnologías Pont & Asociados S.A.,Murcia,Ville,7
+1063,Cine Manufacturas Portillo S.Coop.,Huelva,Ville,6
+1064,Cine Hotel del Levante S.A.,Baleares,Ville,7
+1065,Cine Despacho Integrales S.Coop.,Jaén,Ville,9
+1066,Cine Finanzas del Sur S.Com.,La Rioja,Ville,12
+1067,Cine Silvestre Huertas Simó S.Coop.,León,Ville,7
+1068,Cine Farmaceútica Globales S.A.,Barcelona,Ville,6
+1069,Cine Gibert & Asociados S.L.,Huelva,Ville,6
+1070,Cine Manufacturas Gibert S.Coop.,Toledo,Ville,12
+1071,Cine Fábrica DNHN S.L.L.,Cantabria,Ville,8
+1072,Cine Farmaceútica Carpio S.L.N.E,Salamanca,Ville,7
+1073,Cine Supermercados Carnero S.L.U.,Lleida,Ville,12
+1074,Cine Neira y asociados S.A.,León,Ville,6
+1075,Cine Tecnologías Sáenz S.Com.,Álava,Ville,6
+1076,Cine Desarrollo Avanzadas S.C.P,Toledo,Ville,8
+1077,Cine Restauración Montero S.Coop.,Almería,Ville,6
+1078,Cine Diez y asociados S.Com.,Barcelona,Ville,10
+1079,Cine Familia Adán S.Coop.,Jaén,Ville,9
+1080,Cine Neira & Asociados S.A.,Segovia,Ville,10
+1081,Cine Alimentación Ibérica S.L.,Melilla,Ville,12
+1082,Cine Tecnologías Pont y asociados S.Coop.,La Coruña,Ville,7
+1083,Cine Meléndez y asociados S.A.,Huesca,Ville,7
+1084,Cine Ureña y asociados S.Coop.,Santa Cruz de Tenerife,Ville,11
+1085,Cine Tirado y asociados S.Coop.,Ourense,Ville,9
+1086,Cine Manufacturas Peláez & Asociados S.A.,Soria,Ville,11
+1087,Cine Coll y Cantero S.A.T.,Santa Cruz de Tenerife,Ville,9
+1088,Cine Minería Aguiló y asociados S.L.,Cantabria,Ville,9
+1089,Cine Martí y asociados S.C.P,Cuenca,Ville,10
+1090,Cine Revilla & Asociados S.A.,Vizcaya,Ville,7
+1091,Cine Hermanos Roselló S.Coop.,Murcia,Ville,9
+1092,Cine Supermercados Avanzadas S.L.,Albacete,Ville,12
+1093,Cine Cerezo y asociados S.L.,Madrid,Ville,6
+1094,Cine Inversiones TLVO S.L.,Tarragona,Ville,11
+1095,Cine Distribuciones UX S.A.,Pontevedra,Ville,9
+1096,Cine Comercial Román S.A.,Granada,Ville,6
+1097,Cine Suministros Castellana S.A.U,Salamanca,Ville,7
+1098,Cine Feijoo y Río S.A.,Girona,Ville,7
+1099,Cine Cazorla & Asociados S.A.,Palencia,Ville,8
+1100,Cine Comercializadora EP S.Coop.,Ávila,Ville,12
+1101,Cine Familia Dueñas S.A.,Jaén,Ville,6
+1102,Cine Familia Escalona S.A.,Cáceres,Ville,8
+1103,Cine Restauración Casanova y asociados S.L.,La Rioja,Ville,12
+1104,Cine Varela y asociados S.A.,Ourense,Ville,12
+1105,Cine Luján y Peñalver S.L.N.E,La Coruña,Ville,8
+1106,Cine Hnos Ortuño S.C.P,Las Palmas,Ville,9
+1107,Cine Hnos Cáceres S.A.,Baleares,Ville,6
+1108,Cine Promociones RELS S.Coop.,Albacete,Ville,8
+1109,Cine Rosalva Ojeda Rey S.L.N.E,Sevilla,Ville,7
+1110,Cine Ochoa & Asociados S.A.,Badajoz,Ville,7
+1111,Cine Vilalta y Cervantes S.A.,La Coruña,Ville,12
+1112,Cine Alimentación Avanzadas S.Coop.,Barcelona,Ville,12
+1113,Cine Castellanos y Porta S.Com.,La Coruña,Ville,8
+1114,Cine Grupo Blanca S.L.,Alicante,Ville,6
+1115,Cine Jessica Portillo Solana S.Coop.,Ávila,Ville,12
+1116,Cine Comercializadora Maza & Asociados S.Com.,Vizcaya,Ville,7
+1117,Cine María Cristina Oliver Clavero S.A.,Ciudad,Ville,6
+1118,Cine Inmobiliaria Bautista & Asociados S.L.N.E,La Rioja,Ville,10
+1119,Cine Hermanos Salom S.Coop.,Ourense,Ville,7
+1120,Cine Instalaciones Franco y asociados S.L.,Huelva,Ville,10
+1121,Cine Coronado y asociados S.L.N.E,Soria,Ville,7
+1122,Cine Hotel Tejedor & Asociados S.Coop.,Soria,Ville,9
+1123,Cine Logística Barragán & Asociados S.Com.,Santa Cruz de Tenerife,Ville,10
+1124,Cine Tecnologías Olivares y asociados S.L.N.E,Palencia,Ville,12
+1125,Cine Talleres DB S.Coop.,Córdoba,Ville,10
+1126,Cine Soluciones HWDR S.Com.,Zamora,Ville,7
+1127,Cine Folch & Asociados S.Com.,Huelva,Ville,7
+1128,Cine Cuadrado & Asociados S.C.P,Álava,Ville,10
+1129,Cine Comercial López S.A.U,Asturias,Ville,8
+1130,Cine Finanzas SF S.L.,Girona,Ville,9
+1131,Cine Grupo Pascual S.C.P,Toledo,Ville,11
+1132,Cine Tecnologías Globales S.L.N.E,Ceuta,Ville,9
+1133,Cine Grupo Mateo S.Com.,Badajoz,Ville,12
+1134,Cine Madrigal y Martínez S.A.D,Lugo,Ville,11
+1135,Cine Eligio Lloret Romero S.Com.,Ceuta,Ville,9
+1136,Cine Comercializadora OWFP S.A.,Tarragona,Ville,10
+1137,Cine Grupo Molins S.A.,Ceuta,Ville,6
+1138,Cine Talleres Aliaga S.L.,Huelva,Ville,8
+1139,Cine Banco Aragonés S.L.N.E,Cuenca,Ville,10
+1140,Cine Paredes y asociados S.L.L.,Baleares,Ville,6
+1141,Cine Cayetano Montesinos Marti S.Coop.,Alicante,Ville,12
+1142,Cine Madrid & Asociados S.C.P,Valladolid,Ville,10
+1143,Cine Construcción Calderón y asociados S.L.,Álava,Ville,8
+1144,Cine Gala Prat Izaguirre S.L.,La Coruña,Ville,9
+1145,Cine Hermanos Fajardo S.L.,Soria,Ville,12
+1146,Cine Fábrica del Levante S.L.,Ceuta,Ville,8
+1147,Cine Promociones Alemany S.A.,Palencia,Ville,9
+1148,Cine Banco PU S.L.N.E,Castellón,Ville,10
+1149,Cine Yuste & Asociados S.Coop.,Segovia,Ville,11
+1150,Cine Madrid y Ibáñez S.L.,Huesca,Ville,11
+1151,Cine Infraestructuras Abad y asociados S.L.N.E,Navarra,Ville,11
+1152,Cine Sosa y Martorell S.L.L.,Zamora,Ville,9
+1153,Cine Logística Caparrós S.Coop.,Navarra,Ville,9
+1154,Cine Sarmiento y Torrijos S.A.,Lugo,Ville,8
+1155,Cine Hermanos Pallarès S.L.,Cantabria,Ville,9
+1156,Cine Manrique y Marcos S.Coop.,Huelva,Ville,11
+1157,Cine Román y Blázquez S.Coop.,Córdoba,Ville,8
+1158,Cine Desarrollo Ibérica S.Com.,Badajoz,Ville,12
+1159,Cine Comercializadora Jara S.A.U,Granada,Ville,12
+1160,Cine Andrés y Alcalá S.L.,Barcelona,Ville,12
+1161,Cine Banca Privada Palomar & Asociados S.Com.,Las Palmas,Ville,6
+1162,Cine Desarrollo Fuente S.A.,Valladolid,Ville,9
+1163,Cine Hnos Ferrera S.A.,Murcia,Ville,11
+1164,Cine Perelló y Grau S.A.,Burgos,Ville,10
+1165,Cine Tapia y Quero S.L.N.E,Teruel,Ville,8
+1166,Cine Mamen Expósito Narváez S.L.,Jaén,Ville,10
+1167,Cine Distribuciones Juárez S.A.,Soria,Ville,11
+1168,Cine Busquets y asociados S.L.,Segovia,Ville,12
+1169,Cine Comercializadora Inteligentes S.C.P,Cáceres,Ville,9
+1170,Cine Logística Viñas y asociados S.L.,Álava,Ville,6
+1171,Cine Construcción Céspedes y asociados S.L.,Santa Cruz de Tenerife,Ville,9
+1172,Cine Inmobiliaria Bárcena S.L.,Baleares,Ville,9
+1173,Cine Zamorano y Tena S.L.,Asturias,Ville,9
+1174,Cine Despacho Sanabria y asociados S.L.,Burgos,Ville,7
+1175,Cine Inmobiliaria Globales S.Coop.,Zamora,Ville,9
+1176,Cine Servicios BUA S.A.,Málaga,Ville,9
+1177,Cine Minería Orozco & Asociados S.Coop.,Asturias,Ville,8
+1178,Cine Azahara Echeverría Bru S.L.,Badajoz,Ville,6
+1179,Cine Jaén y asociados S.Coop.,Segovia,Ville,6
+1180,Cine Compañía Flores S.L.L.,Palencia,Ville,7
+1181,Cine Orozco & Asociados S.Com.,Guipúzcoa,Ville,8
+1182,Cine Gaya & Asociados S.A.,Guadalajara,Ville,10
+1183,Cine Asenjo y Gargallo S.A.,Cantabria,Ville,12
+1184,Cine Samanta Páez Salvador S.Com.,Cáceres,Ville,10
+1185,Cine Blazquez y Escamilla S.L.N.E,Navarra,Ville,7
+1186,Cine Pulido y Arenas S.A.,Salamanca,Ville,8
+1187,Cine Supermercados Ibéricos S.L.L.,Zamora,Ville,11
+1188,Cine Roda & Asociados S.A.,Jaén,Ville,12
+1189,Cine Concha Peña Losa S.Com.,Almería,Ville,6
+1190,Cine Barco y Luís S.A.,Jaén,Ville,12
+1191,Cine Saez & Asociados S.L.,Granada,Ville,12
+1192,Cine Construcción Espada & Asociados S.A.,Melilla,Ville,9
+1193,Cine Minería Globales S.A.,Pontevedra,Ville,7
+1194,Cine Yáñez y Viña S.L.,Guadalajara,Ville,9
+1195,Cine Distribuciones Cuesta & Asociados S.Coop.,Álava,Ville,7
+1196,Cine Gisbert y Vizcaíno S.A.,Navarra,Ville,11
+1197,Cine Construcción KSRV S.L.L.,Almería,Ville,9
+1198,Cine Hnos Peiró S.Com.,Lugo,Ville,10
+1199,Cine Jove y Moreno S.L.,Baleares,Ville,8
+1200,Cine Rivero y Ávila S.L.,Madrid,Ville,11
+1201,Cine Vizcaíno y Vives S.L.N.E,Cantabria,Ville,11
+1202,Cine Industrias Palomares S.Com.,Navarra,Ville,11
+1203,Cine Cayetano Vendrell Comas S.Coop.,Tarragona,Ville,11
+1204,Cine Construcción del Levante S.A.T.,Burgos,Ville,8
+1205,Cine Tecnologías CEMF S.A.,Guipúzcoa,Ville,7
+1206,Cine Tecnologías del Sur S.Coop.,Lleida,Ville,6
+1207,Cine Finanzas Villalonga & Asociados S.L.N.E,Huelva,Ville,11
+1208,Cine Servicios Herranz y asociados S.Com.,Salamanca,Ville,12
+1209,Cine Febe Adán Porras S.Coop.,Cantabria,Ville,10
+1210,Cine Industrias NLR S.L.,Zaragoza,Ville,12
+1211,Cine Hoyos & Asociados S.Coop.,Cáceres,Ville,10
+1212,Cine Ramis y asociados S.Coop.,Pontevedra,Ville,7
+1213,Cine Compañía IQ S.L.,Albacete,Ville,10
+1214,Cine Desarrollo del Norte S.Coop.,Ávila,Ville,7
+1215,Cine Compañía Ibéricos S.Coop.,Teruel,Ville,9
+1216,Cine Promociones Olmedo S.A.,Ceuta,Ville,9
+1217,Cine Bautista y Gimenez S.L.,Guipúzcoa,Ville,12
+1218,Cine Marino Páez Manzanares S.Com.,Guadalajara,Ville,7
+1219,Cine Promociones Internacionales S.A.,Vizcaya,Ville,9
+1220,Cine Amat y asociados S.A.D,Cádiz,Ville,7
+1221,Cine Inmobiliaria Ibérica S.Coop.,León,Ville,9
+1222,Cine Promociones Internacionales S.Coop.,Murcia,Ville,7
+1223,Cine Infraestructuras Española S.A.,Burgos,Ville,6
+1224,Cine Banco Roda & Asociados S.L.L.,Pontevedra,Ville,11
+1225,Cine Promociones Cornejo y asociados S.Coop.,Zamora,Ville,9
+1226,Cine Roig y Mariño S.L.,Zaragoza,Ville,8
+1227,Cine Inmobiliaria Iberia S.L.,Zaragoza,Ville,12
+1228,Cine Llamas & Asociados S.Com.,La Rioja,Ville,7
+1229,Cine Supermercados Dalmau S.L.,Las Palmas,Ville,12
+1230,Cine Cayetano Pavón Lorenzo S.A.,Navarra,Ville,12
+1231,Cine Comercializadora Castellana S.Com.,Melilla,Ville,11
+1232,Cine Despacho del Levante S.Com.,Ávila,Ville,10
+1233,Cine Farmaceútica Manso & Asociados S.Coop.,Melilla,Ville,12
+1234,Cine Renato Ríos Figueras S.Com.,Castellón,Ville,6
+1235,Cine Cazorla y asociados S.L.,Toledo,Ville,6
+1236,Cine Hnos Alegre S.A.D,Granada,Ville,6
+1237,Cine Inversiones WOV S.Com.,Tarragona,Ville,11
+1238,Cine Valderrama y Poza S.L.,Guipúzcoa,Ville,8
+1239,Cine Soluciones Morata y asociados S.Coop.,Barcelona,Ville,12
+1240,Cine Tecnologías Olivera S.L.L.,Córdoba,Ville,10
+1241,Cine Salvador & Asociados S.Com.,Teruel,Ville,11
+1242,Cine Talleres LGS S.A.,Ávila,Ville,11
+1243,Cine Soler y asociados S.A.,Segovia,Ville,6
+1244,Cine Vázquez & Asociados S.A.,Las Palmas,Ville,8
+1245,Cine Familia Llopis S.Com.,Zamora,Ville,8
+1246,Cine Bonifacio Elorza Galvez S.A.D,Asturias,Ville,9
+1247,Cine Finanzas Cid & Asociados S.L.L.,Zaragoza,Ville,7
+1248,Cine Finanzas Toledo S.A.,La Rioja,Ville,8
+1249,Cine Servicios Saldaña y asociados S.L.N.E,Huelva,Ville,9
+1250,Cine Alimentación ERRR S.L.N.E,Huelva,Ville,8
+1251,Cine Restauración Integrales S.C.P,Cantabria,Ville,6
+1252,Cine Barranco y Cañas S.L.N.E,Lleida,Ville,8
+1253,Cine Castañeda y asociados S.L.,Córdoba,Ville,8
+1254,Cine Alimentación SNV S.Coop.,Badajoz,Ville,12
+1255,Cine Soluciones UUWD S.Com.,Toledo,Ville,7
+1256,Cine Soluciones Garrido & Asociados S.Coop.,Castellón,Ville,6
+1257,Cine Talleres Españolas S.Com.,Toledo,Ville,8
+1258,Cine Infraestructuras Sanmiguel S.Coop.,Granada,Ville,7
+1259,Cine Familia Valentín S.L.,Pontevedra,Ville,9
+1260,Cine Banca Privada Lluch S.A.U,Zaragoza,Ville,7
+1261,Cine Comercial Villalonga S.L.L.,Ávila,Ville,8
+1262,Cine Luna y Bello S.L.N.E,Ávila,Ville,6
+1263,Cine Hnos Pujadas S.L.N.E,Salamanca,Ville,10
+1264,Cine Desarrollo Perera & Asociados S.L.L.,Lugo,Ville,12
+1265,Cine Rius y asociados S.Com.,Málaga,Ville,6
+1266,Cine Alimentación Zurita y asociados S.Coop.,Badajoz,Ville,10
+1267,Cine Lladó y asociados S.Coop.,Ávila,Ville,12
+1268,Cine Construcción Integrales S.Com.,Ourense,Ville,12
+1269,Cine Josefa Catalá Galan S.A.,Lleida,Ville,10
+1270,Cine Hnos Diez S.L.N.E,Girona,Ville,11
+1271,Cine Familia Borrego S.Coop.,Lugo,Ville,12
+1272,Cine Plaza & Asociados S.Coop.,Pontevedra,Ville,7
+1273,Cine Lucía Baños Puerta S.A.,Girona,Ville,8
+1274,Cine Galán y Ayala S.A.,Badajoz,Ville,6
+1275,Cine Familia Casanova S.Coop.,La Rioja,Ville,7
+1276,Cine Construcción Tejada S.L.,Vizcaya,Ville,12
+1277,Cine Gil y Carballo S.C.P,Madrid,Ville,9
+1278,Cine Banco Escudero & Asociados S.L.N.E,Ceuta,Ville,10
+1279,Cine Noriega & Asociados S.L.N.E,Pontevedra,Ville,9
+1280,Cine Alicia Castañeda Román S.Coop.,Alicante,Ville,12
+1281,Cine Lluch & Asociados S.Coop.,Melilla,Ville,11
+1282,Cine Servicios LTEM S.L.N.E,Ciudad,Ville,8
+1283,Cine Tecnologías Castellana S.A.,Lugo,Ville,9
+1284,Cine Restauración Pol S.A.,Cuenca,Ville,6
+1285,Cine Comercializadora BZ S.A.,León,Ville,7
+1286,Cine Comercializadora Castellana S.A.,Granada,Ville,11
+1287,Cine Servicios Ramón y asociados S.L.U.,Sevilla,Ville,8
+1288,Cine Suministros Castellana S.L.L.,Álava,Ville,8
+1289,Cine Sanchez y asociados S.Com.,Lleida,Ville,11
+1290,Cine Restauración Internacionales S.L.,Castellón,Ville,11
+1291,Cine Comercializadora Española S.Coop.,Cantabria,Ville,11
+1292,Cine Tecnologías ZAK S.A.,La Coruña,Ville,7
+1293,Cine Comercial AJ S.A.,Sevilla,Ville,10
+1294,Cine Fábrica Ricart & Asociados S.A.D,Guadalajara,Ville,9
+1295,Cine Canals y Canales S.Coop.,Guadalajara,Ville,6
+1296,Cine Soluciones Armengol S.Coop.,Santa Cruz de Tenerife,Ville,8
+1297,Cine Osvaldo Alcántara Molins S.A.,Barcelona,Ville,10
+1298,Cine Supermercados Olmedo y asociados S.Com.,Burgos,Ville,6
+1299,Cine Soluciones DQS S.L.,Castellón,Ville,9
+1300,Cine Esther Vilalta Pardo S.Coop.,Tarragona,Ville,8
+1301,Cine Familia Pozo S.L.,Girona,Ville,8
+1302,Cine Inversiones OORH S.A.,Santa Cruz de Tenerife,Ville,6
+1303,Cine Finanzas Pera & Asociados S.A.,Álava,Ville,6
+1304,Cine Comercializadora COGF S.L.L.,Baleares,Ville,10
+1305,Cine Familia Garmendia S.Coop.,Castellón,Ville,12
+1306,Cine Desarrollo SRWG S.A.,Palencia,Ville,11
+1307,Cine Compañía LVWF S.L.L.,León,Ville,12
+1308,Cine Cebrián Marín Revilla S.A.U,Zamora,Ville,6
+1309,Cine Pulido y Sureda S.Com.,Álava,Ville,8
+1310,Cine Jordana Fernandez Ortega S.A.D,Teruel,Ville,7
+1311,Cine Industrias XUU S.Com.,Guadalajara,Ville,12
+1312,Cine Compañía Segovia & Asociados S.Com.,Madrid,Ville,10
+1313,Cine Desarrollo RAHW S.Coop.,Las Palmas,Ville,8
+1314,Cine Gutierrez y asociados S.L.,Lleida,Ville,7
+1315,Cine Industrias Globales S.A.,Valladolid,Ville,9
+1316,Cine Ortuño y Valera S.Com.,Las Palmas,Ville,10
+1317,Cine Construcción Castellana S.A.,Murcia,Ville,6
+1318,Cine Familia Rojas S.Com.,Ourense,Ville,9
+1319,Cine Minería Losada y asociados S.Com.,Teruel,Ville,11
+1320,Cine Llamas y Yáñez S.A.,Navarra,Ville,6
+1321,Cine Uribe & Asociados S.L.N.E,Soria,Ville,10
+1322,Cine Portillo y Carranza S.L.U.,La Rioja,Ville,10
+1323,Cine Despacho JA S.L.,Navarra,Ville,9
+1324,Cine Supermercados del Sur S.L.,Pontevedra,Ville,7
+1325,Cine Transportes del Mediterráneo S.A.,Baleares,Ville,12
+1326,Cine Grupo Redondo S.L.,Córdoba,Ville,10
+1327,Cine Instalaciones Quirós S.A.,Lugo,Ville,7
+1328,Cine Hnos Castellanos S.A.,Segovia,Ville,7
+1329,Cine Alcaraz y asociados S.L.,Sevilla,Ville,10
+1330,Cine Finanzas Bernad S.L.,Huelva,Ville,8
+1331,Cine Rodrigo Roman Marín S.A.,León,Ville,9
+1332,Cine Logística Izquierdo y asociados S.Coop.,La Coruña,Ville,8
+1333,Cine Distribuciones NQ S.A.,Córdoba,Ville,12
+1334,Cine Construcción Enríquez S.L.L.,Castellón,Ville,12
+1335,Cine Méndez & Asociados S.Com.,Segovia,Ville,10
+1336,Cine Hnos Araujo S.C.P,Toledo,Ville,7
+1337,Cine Albero y Revilla S.L.,Lugo,Ville,10
+1338,Cine Hotel Integrales S.Com.,Tarragona,Ville,12
+1339,Cine Casals & Asociados S.A.,Madrid,Ville,10
+1340,Cine Peñas & Asociados S.Com.,Guipúzcoa,Ville,10
+1341,Cine Restauración Romeu y asociados S.L.L.,Tarragona,Ville,12
+1342,Cine Tecnologías Agudo S.L.N.E,Melilla,Ville,9
+1343,Cine Consultoría Cid & Asociados S.A.,Ceuta,Ville,10
+1344,Cine Jafet Saez Almazán S.Coop.,Lugo,Ville,8
+1345,Cine Manufacturas Montesinos S.L.,Melilla,Ville,11
+1346,Cine Nicanor Meléndez Samper S.L.N.E,Castellón,Ville,12
+1347,Cine Fábrica Cardona S.A.,Girona,Ville,6
+1348,Cine Logística Pintor y asociados S.L.N.E,Salamanca,Ville,11
+1349,Cine Hermanos Santamaria S.Com.,Navarra,Ville,11
+1350,Cine Hermanos Lerma S.Com.,La Rioja,Ville,6
+1351,Cine Hnos Mata S.Com.,Valencia,Ville,7
+1352,Cine Familia Pinto S.Coop.,Soria,Ville,10
+1353,Cine Infraestructuras OKAY S.Com.,Palencia,Ville,6
+1354,Cine Familia Villalba S.A.,Melilla,Ville,7
+1355,Cine Espada y Riera S.L.N.E,Zaragoza,Ville,12
+1356,Cine Infraestructuras Pinto & Asociados S.A.T.,Huesca,Ville,8
+1357,Cine Goñi y Garcés S.L.,Álava,Ville,8
+1358,Cine Nicolasa Castejón Ojeda S.A.,Huelva,Ville,11
+1359,Cine Lucas y asociados S.Coop.,Salamanca,Ville,11
+1360,Cine Agullo y Bernat S.Coop.,Huesca,Ville,8
+1361,Cine Suministros Conesa y asociados S.Com.,Zamora,Ville,8
+1362,Cine Arroyo y Oliva S.Com.,Santa Cruz de Tenerife,Ville,7
+1363,Cine Construcción Avanzadas S.A.,Zamora,Ville,8
+1364,Cine Lina Revilla Valverde S.Com.,Asturias,Ville,9
+1365,Cine Minería Reina S.C.P,León,Ville,7
+1366,Cine Suministros TJZM S.Coop.,Badajoz,Ville,11
+1367,Cine Hnos Millán S.Coop.,Vizcaya,Ville,8
+1368,Cine Tecnologías del Mediterráneo S.L.L.,Cuenca,Ville,11
+1369,Cine Inocencio Sandoval Plana S.A.D,Cuenca,Ville,10
+1370,Cine Despacho Castellana S.C.P,Albacete,Ville,7
+1371,Cine Natanael Vilaplana Feijoo S.L.L.,Valladolid,Ville,11
+1372,Cine Ignacio Aller Rico S.L.L.,Soria,Ville,6
+1373,Cine Minería Font S.L.,Zamora,Ville,6
+1374,Cine Grupo Carbajo S.L.N.E,Barcelona,Ville,11
+1375,Cine Porta & Asociados S.Coop.,Badajoz,Ville,6
+1376,Cine Hnos Casal S.C.P,Guipúzcoa,Ville,10
+1377,Cine Blanes y Vergara S.Coop.,Asturias,Ville,10
+1378,Cine Compañía RJIJ S.Com.,Toledo,Ville,11
+1379,Cine Supermercados Santiago S.L.,Palencia,Ville,10
+1380,Cine Grupo Calvo S.Coop.,Pontevedra,Ville,12
+1381,Cine Ascensión Suárez Torrijos S.A.,La Rioja,Ville,8
+1382,Cine Abellán y asociados S.Com.,Asturias,Ville,7
+1383,Cine Cózar y Molina S.Coop.,Pontevedra,Ville,12
+1384,Cine Desarrollo TYBY S.A.,Córdoba,Ville,8
+1385,Cine Logística Acero & Asociados S.Com.,Tarragona,Ville,6
+1386,Cine Benito & Asociados S.Coop.,Huesca,Ville,8
+1387,Cine Manufacturas Olivera S.L.L.,Huelva,Ville,6
+1388,Cine Chacón y Español S.C.P,Almería,Ville,12
+1389,Cine Farmaceútica AMZ S.A.,Albacete,Ville,12
+1390,Cine Carmelo Azorin Pablo S.Com.,Baleares,Ville,9
+1391,Cine Familia Delgado S.C.P,Segovia,Ville,9
+1392,Cine Compañía Carrera & Asociados S.Coop.,La Rioja,Ville,6
+1393,Cine Logística Sedano S.Coop.,Huelva,Ville,8
+1394,Cine Servicios Alemán & Asociados S.Com.,Badajoz,Ville,7
+1395,Cine Comercializadora Gonzalo y asociados S.A.U,Cantabria,Ville,8
+1396,Cine Amílcar Soto Mas S.L.N.E,La Coruña,Ville,12
+1397,Cine Juanita Arenas Macías S.A.,Teruel,Ville,8
+1398,Cine Familia Arco S.A.T.,Jaén,Ville,6
+1399,Cine Comercializadora Font S.L.,Castellón,Ville,7
+1400,Cine Tejero y Sanchez S.L.,Zamora,Ville,6
+1401,Cine Graciela Orozco Villegas S.Com.,Lugo,Ville,8
+1402,Cine Banco Iberia S.L.N.E,Álava,Ville,7
+1403,Cine Banca Privada Iberia S.Coop.,Soria,Ville,8
+1404,Cine Botella & Asociados S.Coop.,Segovia,Ville,8
+1405,Cine Noa Maldonado Vélez S.Com.,Zaragoza,Ville,11
+1406,Cine Inversiones del Noroeste S.Coop.,Segovia,Ville,11
+1407,Cine Soluciones Españolas S.A.,Salamanca,Ville,7
+1408,Cine Manufacturas Barragán S.Com.,Santa Cruz de Tenerife,Ville,7
+1409,Cine Finanzas DU S.L.,Córdoba,Ville,10
+1410,Cine Instalaciones Pont S.L.L.,Burgos,Ville,7
+1411,Cine Promociones Agudo S.Com.,Cuenca,Ville,12
+1412,Cine Tecnologías Montaña S.A.U,Segovia,Ville,6
+1413,Cine Fuertes y Expósito S.A.T.,Valladolid,Ville,10
+1414,Cine Compañía Ibéricos S.Com.,Lleida,Ville,12
+1415,Cine Hnos Vara S.Coop.,Las Palmas,Ville,10
+1416,Cine Industrias Santamaría S.L.L.,Las Palmas,Ville,7
+1417,Cine Logística del Levante S.C.P,Cantabria,Ville,8
+1418,Cine Supermercados Garcés S.L.,Zaragoza,Ville,10
+1419,Cine Cámara y Alemany S.L.,Ourense,Ville,10
+1420,Cine Transportes Larrea y asociados S.Coop.,Cuenca,Ville,10
+1421,Cine Instalaciones Montero S.A.,Sevilla,Ville,10
+1422,Cine Instalaciones Ibérica S.L.N.E,Jaén,Ville,8
+1423,Cine Viñas y asociados S.A.U,Alicante,Ville,7
+1424,Cine René Galan Múñiz S.L.,Ceuta,Ville,7
+1425,Cine Comercializadora YXOH S.L.,Tarragona,Ville,9
+1426,Cine Fábrica CL S.A.,Jaén,Ville,11
+1427,Cine Inmaculada Santamaria Valero S.L.N.E,Álava,Ville,11
+1428,Cine Hotel LZ S.Coop.,Badajoz,Ville,11
+1429,Cine Perales & Asociados S.L.,Baleares,Ville,8
+1430,Cine Promociones Salcedo S.Com.,Teruel,Ville,8
+1431,Cine Instalaciones Arias & Asociados S.Coop.,Guadalajara,Ville,12
+1432,Cine Pedraza y Alvarez S.Coop.,Almería,Ville,6
+1433,Cine Palomo & Asociados S.A.,Ávila,Ville,8
+1434,Cine Minería Soriano S.Coop.,Almería,Ville,9
+1435,Cine Farmaceútica Barreda y asociados S.L.N.E,Salamanca,Ville,7
+1436,Cine Farmaceútica Moya y asociados S.A.T.,La Rioja,Ville,9
+1437,Cine Gomis y Ángel S.L.,Badajoz,Ville,6
+1438,Cine Farmaceútica ZEQ S.L.N.E,Navarra,Ville,12
+1439,Cine Comercializadora Losada y asociados S.L.,Huelva,Ville,6
+1440,Cine Olivares & Asociados S.L.L.,Salamanca,Ville,8
+1441,Cine Grupo Bas S.Coop.,Ourense,Ville,12
+1442,Cine Carina Infante Villalba S.L.L.,Salamanca,Ville,12
+1443,Cine Comercial Inteligentes S.A.,Cáceres,Ville,7
+1444,Cine Tecnologías ACO S.L.N.E,Granada,Ville,8
+1445,Cine Grupo Ríos S.Coop.,Barcelona,Ville,8
+1446,Cine Alfaro y Figuerola S.A.,Melilla,Ville,10
+1447,Cine Familia Checa S.L.,Álava,Ville,8
+1448,Cine Falcó y Pombo S.A.T.,Lleida,Ville,6
+1449,Cine Infraestructuras Internacionales S.A.,Cantabria,Ville,11
+1450,Cine Farmaceútica Agustí S.L.,Ourense,Ville,12
+1451,Cine Reinaldo Díaz Vaquero S.Com.,Cáceres,Ville,11
+1452,Cine Roselló y Duarte S.Coop.,Sevilla,Ville,6
+1453,Cine Finanzas Cid S.L.N.E,Jaén,Ville,10
+1454,Cine Infraestructuras Integrales S.A.,Melilla,Ville,9
+1455,Cine Vaquero y asociados S.A.,Ceuta,Ville,11
+1456,Cine Suministros del Levante S.Com.,Girona,Ville,7
+1457,Cine Suministros OD S.A.,La Coruña,Ville,12
+1458,Cine Infraestructuras BDLZ S.L.L.,Ceuta,Ville,6
+1459,Cine Marquez y Romero S.A.,Ceuta,Ville,8
+1460,Cine Servicios Font y asociados S.Coop.,Ciudad,Ville,8
+1461,Cine Pareja y asociados S.Com.,Cuenca,Ville,6
+1462,Cine Fábregas & Asociados S.L.,Asturias,Ville,11
+1463,Cine Despacho del Noroeste S.Coop.,Sevilla,Ville,9
+1464,Cine Familia Calleja S.L.N.E,Segovia,Ville,11
+1465,Cine Hnos Baños S.Com.,Cádiz,Ville,11
+1466,Cine Salazar y asociados S.L.,Cádiz,Ville,8
+1467,Cine Sergio Cabanillas Villena S.A.,Huesca,Ville,10
+1468,Cine Carla Miguel Cuadrado S.A.,Cáceres,Ville,6
+1469,Cine Marcos Villena Girón S.Com.,Vizcaya,Ville,10
+1470,Cine Talleres Pérez & Asociados S.C.P,La Coruña,Ville,12
+1471,Cine Banco del Sur S.Com.,Burgos,Ville,12
+1472,Cine Valdés & Asociados S.A.,Granada,Ville,7
+1473,Cine Paniagua y Arcos S.Com.,Cádiz,Ville,9
+1474,Cine Hnos Tejada S.Com.,Burgos,Ville,7
+1475,Cine Grupo Santos S.Coop.,Guipúzcoa,Ville,6
+1476,Cine Banca Privada Ibérica S.A.,Teruel,Ville,7
+1477,Cine Patricia Arnaiz Murillo S.Com.,Jaén,Ville,9
+1478,Cine Construcción PZD S.Com.,Cantabria,Ville,6
+1479,Cine Hotel Machado y asociados S.L.,Ourense,Ville,6
+1480,Cine Calderón y Figueras S.Com.,Tarragona,Ville,7
+1481,Cine Transportes XKSX S.Coop.,Cádiz,Ville,9
+1482,Cine Comercializadora Ibéricos S.L.,Barcelona,Ville,10
+1483,Cine Iglesias y asociados S.Com.,Badajoz,Ville,12
+1484,Cine Frutos & Asociados S.A.,Tarragona,Ville,8
+1485,Cine Manufacturas Castellana S.A.,Salamanca,Ville,8
+1486,Cine Inversiones OATN S.L.,Cantabria,Ville,10
+1487,Cine Familia Varela S.C.P,Huesca,Ville,8
+1488,Cine Instalaciones Gimeno y asociados S.L.,Alicante,Ville,7
+1489,Cine Murillo & Asociados S.Com.,Teruel,Ville,6
+1490,Cine Rivera y Royo S.A.,Salamanca,Ville,8
+1491,Cine Instalaciones Ibañez y asociados S.L.L.,Málaga,Ville,12
+1492,Cine Olga Pizarro Sales S.Com.,La Rioja,Ville,8
+1493,Cine Tecnologías SNVZ S.Coop.,Cuenca,Ville,10
+1494,Cine Alimentación del Sur S.Coop.,Málaga,Ville,12
+1495,Cine Charo Mascaró Barba S.C.P,Segovia,Ville,6
+1496,Cine Manufacturas del Mediterráneo S.L.,León,Ville,11
+1497,Cine Instalaciones Castellana S.Coop.,Baleares,Ville,12
+1498,Cine Hermanos Delgado S.L.,Guadalajara,Ville,7
+1499,Cine Logística Lledó S.Coop.,Huesca,Ville,6
+1500,Cine Hnos Morera S.L.N.E,La Rioja,Ville,6
+1501,Cine Banco Caballero y asociados S.Coop.,Almería,Ville,9
+1502,Cine Cuadrado y Rivera S.Com.,Valencia,Ville,6
+1503,Cine Hermanos Escolano S.Com.,Cantabria,Ville,10
+1504,Cine Familia Paredes S.Com.,León,Ville,6
+1505,Cine Hotel Carbajo & Asociados S.L.U.,Almería,Ville,10
+1506,Cine Farmaceútica Azorin y asociados S.Com.,La Coruña,Ville,8
+1507,Cine Banco Mendizábal S.A.U,La Rioja,Ville,6
+1508,Cine Compañía MJO S.Com.,Burgos,Ville,6
+1509,Cine Prada y Alcalde S.Coop.,Segovia,Ville,6
+1510,Cine Logística YH S.L.N.E,Segovia,Ville,7
+1511,Cine Comercial del Sur S.Coop.,Las Palmas,Ville,6
+1512,Cine Familia Méndez S.L.N.E,Zaragoza,Ville,12
+1513,Cine Botella y Fonseca S.L.L.,Huesca,Ville,10
+1514,Cine Tecnologías Uriarte y asociados S.A.D,Palencia,Ville,8
+1515,Cine Rey y asociados S.A.U,Ávila,Ville,6
+1516,Cine Zaragoza y asociados S.L.,Cantabria,Ville,6
+1517,Cine Estevez y asociados S.A.U,Ourense,Ville,6
+1518,Cine Farmaceútica Lago S.Coop.,Soria,Ville,11
+1519,Cine Consultoría Bárcena y asociados S.L.N.E,Córdoba,Ville,7
+1520,Cine Restauración Internacionales S.L.,León,Ville,12
+1521,Cine Aguiló & Asociados S.L.N.E,Granada,Ville,8
+1522,Cine Salazar y Cañizares S.L.,Cantabria,Ville,9
+1523,Cine Transportes Ferrando S.A.T.,Castellón,Ville,7
+1524,Cine Desarrollo Aller y asociados S.L.L.,Ourense,Ville,6
+1525,Cine Restauración PF S.L.,Tarragona,Ville,8
+1526,Cine Hnos Maestre S.L.N.E,Pontevedra,Ville,8
+1527,Cine Hnos Vara S.L.U.,Soria,Ville,9
+1528,Cine Fábrica UV S.L.N.E,Ourense,Ville,10
+1529,Cine Gargallo y asociados S.Coop.,Melilla,Ville,8
+1530,Cine Familia Osuna S.L.,Sevilla,Ville,12
+1531,Cine Farmaceútica Crespi S.C.P,Toledo,Ville,6
+1532,Cine Minería Sabater & Asociados S.Coop.,Álava,Ville,8
+1533,Cine Lisandro Bravo Acero S.A.D,La Rioja,Ville,11
+1534,Cine Construcción del Mediterráneo S.Coop.,Las Palmas,Ville,8
+1535,Cine Finanzas Robledo S.L.L.,Guipúzcoa,Ville,6
+1536,Cine Laguna y Conesa S.Coop.,Santa Cruz de Tenerife,Ville,10
+1537,Cine Instalaciones Tormo & Asociados S.Com.,Guadalajara,Ville,12
+1538,Cine Tecnologías Iberia S.L.L.,Cantabria,Ville,11
+1539,Cine Grupo Ros S.L.,Alicante,Ville,12
+1540,Cine Clavero & Asociados S.L.,Córdoba,Ville,7
+1541,Cine Banco Reguera & Asociados S.Com.,Ourense,Ville,10
+1542,Cine Desarrollo TWAC S.A.,Ourense,Ville,10
+1543,Cine Amado Nicolás Cases S.L.N.E,Teruel,Ville,12
+1544,Cine Construcción IN S.Com.,Soria,Ville,12
+1545,Cine Transportes del Noroeste S.Coop.,Navarra,Ville,9
+1546,Cine Finanzas Palomares y asociados S.A.,Guipúzcoa,Ville,12
+1547,Cine Finanzas Internacionales S.L.,Cuenca,Ville,10
+1548,Cine Hermanos Barrios S.L.N.E,Almería,Ville,7
+1549,Cine Restauración Murillo S.L.,Huesca,Ville,6
+1550,Cine Minería IB S.Com.,Cádiz,Ville,9
+1551,Cine Hermanos Merino S.A.,Baleares,Ville,10
+1552,Cine Banca Privada Rivas S.A.,Málaga,Ville,8
+1553,Cine Grupo Adán S.L.,Almería,Ville,9
+1554,Cine Aarón Suárez Chacón S.A.D,Castellón,Ville,11
+1555,Cine Hnos Barroso S.L.,Valencia,Ville,10
+1556,Cine Talleres Blasco y asociados S.A.T.,Palencia,Ville,12
+1557,Cine Monreal y Rosselló S.A.,Murcia,Ville,11
+1558,Cine Infraestructuras YNAG S.Coop.,Castellón,Ville,10
+1559,Cine Inmobiliaria Inteligentes S.Coop.,Zaragoza,Ville,10
+1560,Cine Grupo Barberá S.Coop.,Murcia,Ville,9
+1561,Cine Llabrés y Baró S.A.,Baleares,Ville,12
+1562,Cine Grupo Nevado S.C.P,Granada,Ville,12
+1563,Cine Maristela Arnal Torrijos S.L.,Cuenca,Ville,8
+1564,Cine Iniesta & Asociados S.L.N.E,Alicante,Ville,10
+1565,Cine Servicios Marcos & Asociados S.Com.,Cuenca,Ville,8
+1566,Cine Desarrollo IVT S.Coop.,Castellón,Ville,12
+1567,Cine Inversiones Doménech S.A.,Segovia,Ville,6
+1568,Cine Hermanos Ribera S.Coop.,Vizcaya,Ville,6
+1569,Cine Martín y Corominas S.Com.,Huelva,Ville,12
+1570,Cine Infraestructuras Quintanilla & Asociados S.Com.,Murcia,Ville,10
+1571,Cine Distribuciones del Levante S.A.,Lleida,Ville,8
+1572,Cine Narcisa Miró Ros S.Coop.,Ávila,Ville,7
+1573,Cine Bernad & Asociados S.A.D,Burgos,Ville,9
+1574,Cine Piñol y asociados S.L.N.E,Lugo,Ville,11
+1575,Cine Transportes Miranda & Asociados S.A.,Ceuta,Ville,9
+1576,Cine Hermanos Contreras S.L.,Zaragoza,Ville,10
+1577,Cine Grupo Cases S.Coop.,Ávila,Ville,6
+1578,Cine Instalaciones Borrego S.Com.,Sevilla,Ville,11
+1579,Cine Inmobiliaria Solera y asociados S.A.,Albacete,Ville,6
+1580,Cine Finanzas SBW S.Com.,Las Palmas,Ville,9
+1581,Cine Hotel Canals & Asociados S.L.,Burgos,Ville,8
+1582,Cine Distribuciones Cuadrado S.Coop.,Zaragoza,Ville,8
+1583,Cine Padilla y asociados S.L.,Sevilla,Ville,8
+1584,Cine Logística ZIP S.L.,Soria,Ville,11
+1585,Cine Llorens y asociados S.Com.,Cáceres,Ville,9
+1586,Cine Industrias UYCO S.Coop.,Madrid,Ville,9
+1587,Cine Emilio Armas Fuentes S.Coop.,Zaragoza,Ville,7
+1588,Cine Reyes Soriano Amigó S.A.,Asturias,Ville,8
+1589,Cine Fábrica Martí y asociados S.L.U.,Almería,Ville,9
+1590,Cine Supermercados OJ S.Coop.,Lleida,Ville,9
+1591,Cine Comercial Guerra y asociados S.Com.,Vizcaya,Ville,10
+1592,Cine Industrias Reig & Asociados S.Coop.,Jaén,Ville,8
+1593,Cine Anunciación Montserrat Coello S.L.,Granada,Ville,6
+1594,Cine José Manuel Menendez Ríos S.L.U.,Castellón,Ville,11
+1595,Cine Manufacturas Torre y asociados S.Com.,Melilla,Ville,11
+1596,Cine Marqués y Bermudez S.A.,Madrid,Ville,11
+1597,Cine Adelia Lorenzo Porras S.Coop.,Huesca,Ville,12
+1598,Cine Construcción Ibéricos S.L.N.E,Valladolid,Ville,9
+1599,Cine Adadia y asociados S.A.,Girona,Ville,7
+1600,Cine Minería Ferrández S.L.,Ciudad,Ville,11
+1601,Cine Inversiones Rubio S.L.L.,Melilla,Ville,6
+1602,Cine Consultoría Fernández y asociados S.L.L.,Santa Cruz de Tenerife,Ville,7
+1603,Cine Sandoval y Landa S.L.,Almería,Ville,7
+1604,Cine Morante y asociados S.L.,Ciudad,Ville,8
+1605,Cine Distribuciones Globales S.A.,Toledo,Ville,12
+1606,Cine Aurora Valle Vazquez S.L.N.E,Jaén,Ville,6
+1607,Cine Inversiones Arévalo & Asociados S.Coop.,Melilla,Ville,6
+1608,Cine Grupo Arnaiz S.C.P,La Rioja,Ville,9
+1609,Cine Compañía Sosa S.L.,Cuenca,Ville,11
+1610,Cine Hnos Carreras S.Com.,Granada,Ville,8
+1611,Cine Finanzas OD S.L.N.E,Teruel,Ville,7
+1612,Cine Hermanos Roca S.A.,Guadalajara,Ville,8
+1613,Cine Compañía Miranda y asociados S.L.,Ávila,Ville,6
+1614,Cine Blázquez y Roma S.A.,Zaragoza,Ville,8
+1615,Cine Tecnologías Casal S.C.P,Zamora,Ville,7
+1616,Cine Inmobiliaria OW S.L.L.,Valladolid,Ville,7
+1617,Cine Hermanos Saura S.L.,Tarragona,Ville,9
+1618,Cine Banco Rodriguez S.L.L.,Valencia,Ville,7
+1619,Cine Marta Iniesta Mancebo S.Coop.,Granada,Ville,6
+1620,Cine Fuente & Asociados S.Com.,Valencia,Ville,9
+1621,Cine Familia Jaume S.L.N.E,Málaga,Ville,9
+1622,Cine Soledad Rivero Bejarano S.Coop.,Asturias,Ville,8
+1623,Cine Ruano y Matas S.C.P,Pontevedra,Ville,7
+1624,Cine Inmobiliaria Anaya S.Coop.,Castellón,Ville,7
+1625,Cine Inmobiliaria Gras & Asociados S.L.N.E,Alicante,Ville,12
+1626,Cine Hnos Trujillo S.L.N.E,Madrid,Ville,12
+1627,Cine Amigó y Muro S.Coop.,Tarragona,Ville,10
+1628,Cine Calzada y Giralt S.L.,Zaragoza,Ville,9
+1629,Cine Supermercados Boix & Asociados S.A.,Alicante,Ville,9
+1630,Cine Distribuciones GHWB S.L.L.,Tarragona,Ville,10
+1631,Cine Infraestructuras ESA S.A.U,Alicante,Ville,10
+1632,Cine Desarrollo Avanzadas S.Coop.,Cuenca,Ville,9
+1633,Cine Fábrica Avanzadas S.Coop.,Zaragoza,Ville,6
+1634,Cine Tecnologías Puente S.L.N.E,Segovia,Ville,7
+1635,Cine Alimentación UG S.A.,Burgos,Ville,10
+1636,Cine Régulo Rivero Lladó S.Com.,La Coruña,Ville,6
+1637,Cine Hermanos Camps S.A.,Segovia,Ville,9
+1638,Cine Sala y Barrio S.L.U.,La Rioja,Ville,6
+1639,Cine Promociones VDS S.A.T.,La Rioja,Ville,10
+1640,Cine Promociones Fuster S.Coop.,Valladolid,Ville,8
+1641,Cine Comercializadora Madrid y asociados S.A.,Burgos,Ville,9
+1642,Cine Planas y asociados S.L.U.,Ávila,Ville,6
+1643,Cine Hermanos Carreño S.A.T.,Jaén,Ville,8
+1644,Cine Comercializadora del Norte S.Com.,Ourense,Ville,8
+1645,Cine Saldaña y asociados S.Coop.,Vizcaya,Ville,11
+1646,Cine Sastre y Amor S.L.L.,Almería,Ville,9
+1647,Cine Carrillo y Figueras S.A.,Zaragoza,Ville,12
+1648,Cine Transportes CUA S.L.,Jaén,Ville,11
+1649,Cine Hermanos Bautista S.L.,León,Ville,10
+1650,Cine Hotel Globales S.L.N.E,Tarragona,Ville,10
+1651,Cine Industrias Real & Asociados S.Com.,Navarra,Ville,9
+1652,Cine Hermanos Godoy S.Coop.,Teruel,Ville,12
+1653,Cine Sosimo Ortiz Bejarano S.A.,Segovia,Ville,6
+1654,Cine Severino Bilbao Lozano S.A.,Asturias,Ville,9
+1655,Cine Soluciones Ibéricos S.Com.,Ceuta,Ville,7
+1656,Cine Bellido y Iborra S.L.N.E,Girona,Ville,9
+1657,Cine Familia Chaparro S.Com.,Alicante,Ville,11
+1658,Cine Hermanos Blázquez S.A.,La Coruña,Ville,12
+1659,Cine Construcción Pinilla S.L.,Lleida,Ville,9
+1660,Cine Suministros RB S.L.N.E,Las Palmas,Ville,11
+1661,Cine Talleres del Norte S.Com.,Valladolid,Ville,10
+1662,Cine Talleres Españolas S.Coop.,Zamora,Ville,9
+1663,Cine Burgos & Asociados S.L.L.,Badajoz,Ville,7
+1664,Cine Posada y Pol S.Com.,Girona,Ville,9
+1665,Cine Manufacturas del Sur S.Coop.,Valencia,Ville,7
+1666,Cine Bárcena y Tudela S.A.,Vizcaya,Ville,12
+1667,Cine Comercializadora del Sur S.L.,Salamanca,Ville,11
+1668,Cine Hermanos Herranz S.A.,Málaga,Ville,8
+1669,Cine Talleres KV S.Com.,Ourense,Ville,7
+1670,Cine Benjamín Lasa Molins S.Coop.,Jaén,Ville,7
+1671,Cine Banco Ibéricos S.A.U,Cádiz,Ville,11
+1672,Cine Hnos Garrido S.Com.,Soria,Ville,7
+1673,Cine Canales & Asociados S.Com.,Almería,Ville,6
+1674,Cine Consultoría Escobar & Asociados S.A.,Tarragona,Ville,8
+1675,Cine Custodia Oller Silva S.L.,Baleares,Ville,11
+1676,Cine Comercial Castellana S.L.N.E,Cádiz,Ville,8
+1677,Cine Cano y Garmendia S.L.,Castellón,Ville,11
+1678,Cine Despacho Solana S.A.T.,Asturias,Ville,12
+1679,Cine Industrias Gual y asociados S.Com.,Ceuta,Ville,9
+1680,Cine Familia Solé S.A.,Lugo,Ville,8
+1681,Cine Familia Gallardo S.Coop.,Girona,Ville,7
+1682,Cine Manufacturas CJ S.Coop.,Álava,Ville,11
+1683,Cine Manufacturas XM S.L.,Asturias,Ville,12
+1684,Cine Quevedo y Rosselló S.L.,Jaén,Ville,7
+1685,Cine Minería Sanchez S.Com.,Córdoba,Ville,7
+1686,Cine Infraestructuras Española S.L.,Asturias,Ville,12
+1687,Cine Despacho Puig & Asociados S.Com.,Soria,Ville,12
+1688,Cine Instalaciones Pavón S.Coop.,La Rioja,Ville,12
+1689,Cine Fábrica BOJ S.A.,Castellón,Ville,6
+1690,Cine Talleres Viana S.Com.,Córdoba,Ville,7
+1691,Cine Talleres del Mediterráneo S.Coop.,Cáceres,Ville,10
+1692,Cine Familia Bernal S.Com.,Zamora,Ville,11
+1693,Cine Hermanos Luna S.Com.,Valladolid,Ville,9
+1694,Cine Distribuciones PTVI S.C.P,Granada,Ville,8
+1695,Cine Minería FXX S.L.,Huesca,Ville,12
+1696,Cine Alimentación Manzanares S.L.U.,Cádiz,Ville,10
+1697,Cine Restauración Estévez S.L.,Granada,Ville,7
+1698,Cine Logística Duque S.L.,Badajoz,Ville,12
+1699,Cine López y Blasco S.L.,Valencia,Ville,9
+1700,Cine Consultoría Carbajo S.A.,Valencia,Ville,8
+1701,Cine Desarrollo JX S.A.,Salamanca,Ville,12
+1702,Cine Grupo Salcedo S.L.L.,Alicante,Ville,12
+1703,Cine Industrias Andres & Asociados S.A.,Palencia,Ville,11
+1704,Cine Infraestructuras Lobo S.L.,Vizcaya,Ville,8
+1705,Cine Despacho Avanzadas S.L.U.,Segovia,Ville,6
+1706,Cine Felipa Casas Palau S.Com.,Madrid,Ville,6
+1707,Cine Inmobiliaria del Mediterráneo S.Coop.,Huesca,Ville,9
+1708,Cine Inversiones Maza & Asociados S.A.,Valencia,Ville,8
+1709,Cine Manufacturas del Mediterráneo S.A.,Álava,Ville,12
+1710,Cine Ignacia Figueroa Uría S.C.P,Vizcaya,Ville,6
+1711,Cine Viana & Asociados S.L.,Zamora,Ville,7
+1712,Cine Leopoldo Bartolomé Donoso S.Com.,Zamora,Ville,8
+1713,Cine Hotel Parra S.Com.,La Coruña,Ville,6
+1714,Cine Marino Cerdá Naranjo S.Coop.,Segovia,Ville,12
+1715,Cine Losada y Muro S.L.,Santa Cruz de Tenerife,Ville,11
+1716,Cine Finanzas RVWZ S.A.,Valladolid,Ville,11
+1717,Cine Lloret y Díez S.Com.,Toledo,Ville,9
+1718,Cine Roman & Asociados S.A.,Huelva,Ville,8
+1719,Cine Farmaceútica Castellana S.A.,Jaén,Ville,11
+1720,Cine Alimentación Criado S.C.P,Palencia,Ville,11
+1721,Cine Oriana Franch Martin S.L.L.,Cádiz,Ville,8
+1722,Cine Familia Aguiló S.L.,Málaga,Ville,10
+1723,Cine Marín y asociados S.L.N.E,Valladolid,Ville,9
+1724,Cine Teruel y asociados S.L.,Jaén,Ville,8
+1725,Cine Consultoría Uriarte & Asociados S.C.P,Granada,Ville,10
+1726,Cine Banca Privada NMNZ S.L.,Guipúzcoa,Ville,7
+1727,Cine Promociones Españolas S.L.N.E,Alicante,Ville,7
+1728,Cine Minería SJRP S.L.N.E,Huesca,Ville,6
+1729,Cine Fábrica Milla S.Coop.,Castellón,Ville,10
+1730,Cine Transportes Pera & Asociados S.L.N.E,Navarra,Ville,12
+1731,Cine Promociones TNGS S.L.L.,Tarragona,Ville,10
+1732,Cine Talleres Internacionales S.Coop.,Palencia,Ville,7
+1733,Cine Infraestructuras Cánovas S.A.,Zaragoza,Ville,9
+1734,Cine Infraestructuras Orozco S.A.,Ciudad,Ville,12
+1735,Cine Instalaciones DUD S.C.P,Navarra,Ville,10
+1736,Cine Compañía Novoa S.L.N.E,Santa Cruz de Tenerife,Ville,10
+1737,Cine Logística SZS S.Coop.,La Coruña,Ville,10
+1738,Cine Gema Pujol Arellano S.C.P,Cuenca,Ville,6
+1739,Cine Pilar Arteaga Vigil S.L.,Córdoba,Ville,7
+1740,Cine Tecnologías del Mediterráneo S.L.U.,Ávila,Ville,12
+1741,Cine Luján y asociados S.Com.,Murcia,Ville,10
+1742,Cine Hnos Losada S.L.,Toledo,Ville,7
+1743,Cine Lorena Sánchez Casal S.Coop.,Sevilla,Ville,8
+1744,Cine Familia Villalonga S.Coop.,Ávila,Ville,9
+1745,Cine Construcción del Sur S.L.,Cantabria,Ville,7
+1746,Cine Manzano y Cadenas S.L.,Teruel,Ville,10
+1747,Cine Manzano y asociados S.Com.,Ourense,Ville,7
+1748,Cine Industrias NAM S.L.N.E,Tarragona,Ville,8
+1749,Cine Finanzas Piñol S.A.D,Valladolid,Ville,6
+1750,Cine Talleres Millán S.L.,Sevilla,Ville,7
+1751,Cine Soluciones Collado S.L.N.E,Salamanca,Ville,6
+1752,Cine Consultoría VIR S.L.N.E,Teruel,Ville,11
+1753,Cine Banco FEMI S.Com.,Melilla,Ville,6
+1754,Cine Familia Morillo S.L.,Álava,Ville,9
+1755,Cine Grupo Oller S.A.,Alicante,Ville,6
+1756,Cine Iker Morcillo Pera S.Com.,Ourense,Ville,10
+1757,Cine Promociones OIR S.A.,Almería,Ville,11
+1758,Cine Hermanos Castañeda S.L.L.,Las Palmas,Ville,7
+1759,Cine Inversiones KC S.A.,Málaga,Ville,9
+1760,Cine Querol & Asociados S.A.,Albacete,Ville,12
+1761,Cine Amor y Landa S.A.,La Coruña,Ville,7
+1762,Cine Marcial Maza Amorós S.A.,Ceuta,Ville,8
+1763,Cine Barranco y Cid S.A.,Madrid,Ville,12
+1764,Cine Carbó y Gimeno S.Com.,Alicante,Ville,7
+1765,Cine Servicios Integrales S.L.,Ceuta,Ville,12
+1766,Cine Minería FQ S.Coop.,León,Ville,9
+1767,Cine Distribuciones Ibéricos S.A.,La Coruña,Ville,6
+1768,Cine Parra y Ballester S.A.,Teruel,Ville,11
+1769,Cine Ágata Alfonso Ferrero S.A.,Badajoz,Ville,9
+1770,Cine Ramirez & Asociados S.A.,Palencia,Ville,7
+1771,Cine Jove y Frutos S.A.,Teruel,Ville,9
+1772,Cine Finanzas del Sur S.L.N.E,Soria,Ville,12
+1773,Cine Olmedo y asociados S.Coop.,La Coruña,Ville,6
+1774,Cine Suministros Rosales S.L.L.,Pontevedra,Ville,6
+1775,Cine Hnos Pintor S.C.P,Ceuta,Ville,8
+1776,Cine Supermercados UD S.Coop.,Cantabria,Ville,8
+1777,Cine Gimenez y asociados S.Com.,Tarragona,Ville,6
+1778,Cine Moraleda & Asociados S.L.N.E,Burgos,Ville,12
+1779,Cine Infraestructuras Doménech S.Com.,Alicante,Ville,10
+1780,Cine Inversiones Olmo S.Coop.,Álava,Ville,9
+1781,Cine Alimentación Palacios y asociados S.L.,Álava,Ville,6
+1782,Cine Servicios BWHI S.Coop.,Álava,Ville,6
+1783,Cine Comercial Manrique S.Com.,Lleida,Ville,12
+1784,Cine Banco del Noroeste S.Com.,La Rioja,Ville,11
+1785,Cine Natividad Guillen Miró S.L.N.E,Álava,Ville,9
+1786,Cine Logística UR S.A.U,La Rioja,Ville,10
+1787,Cine Transportes Española S.L.N.E,Granada,Ville,9
+1788,Cine Sofía Cortes Gil S.A.,Melilla,Ville,11
+1789,Cine Piña & Asociados S.A.,Ávila,Ville,6
+1790,Cine Ámbar Abellán Acero S.A.,Málaga,Ville,7
+1791,Cine Rosario Arroyo Acevedo S.Com.,La Rioja,Ville,12
+1792,Cine Fábrica ZVQ S.L.,Baleares,Ville,6
+1793,Cine Tejedor y asociados S.Coop.,Toledo,Ville,10
+1794,Cine Tecnologías Internacionales S.L.,Guipúzcoa,Ville,9
+1795,Cine Despacho del Levante S.Coop.,Soria,Ville,10
+1796,Cine Bayona y asociados S.A.,Vizcaya,Ville,11
+1797,Cine Kike Ferrández Machado S.L.L.,Huelva,Ville,8
+1798,Cine Soraya Ferrández Baena S.L.N.E,Melilla,Ville,12
+1799,Cine Desarrollo Duran S.A.,Valladolid,Ville,6
+1800,Cine Díez y Cortes S.A.,Tarragona,Ville,11
+1801,Cine Desarrollo Fernández y asociados S.A.,Lleida,Ville,7
+1802,Cine Alimentación Españolas S.Coop.,Guadalajara,Ville,10
+1803,Cine Alimentación Comas S.L.N.E,La Rioja,Ville,11
+1804,Cine Hermanos Medina S.L.L.,Álava,Ville,6
+1805,Cine Guzmán y Duran S.L.,Alicante,Ville,6
+1806,Cine Banco UZSY S.L.L.,Ceuta,Ville,11
+1807,Cine Tecnologías Marin & Asociados S.Com.,Soria,Ville,10
+1808,Cine Fábrica Vilalta & Asociados S.L.N.E,Castellón,Ville,7
+1809,Cine Noa Quevedo Cobo S.A.,Segovia,Ville,6
+1810,Cine Manufacturas Losa & Asociados S.L.,Jaén,Ville,6
+1811,Cine Samper y asociados S.Com.,Toledo,Ville,7
+1812,Cine Inversiones Tejero S.Com.,Jaén,Ville,10
+1813,Cine Banca Privada Luna S.L.,Melilla,Ville,7
+1814,Cine Talleres Gisbert & Asociados S.A.,León,Ville,9
+1815,Cine Barbero & Asociados S.L.,La Rioja,Ville,9
+1816,Cine Instalaciones Pinedo y asociados S.L.,Almería,Ville,8
+1817,Cine Soluciones NJHM S.L.N.E,Soria,Ville,6
+1818,Cine Compañía del Mediterráneo S.C.P,Baleares,Ville,9
+1819,Cine Colomer y Pont S.L.U.,Madrid,Ville,12
+1820,Cine Anselmo Tamarit Verdú S.Com.,Zamora,Ville,7
+1821,Cine Domingo Domínguez Toledo S.L.U.,Palencia,Ville,11
+1822,Cine Sara Alberdi Crespi S.A.,Lugo,Ville,8
+1823,Cine Comercializadora Goicoechea & Asociados S.Coop.,Las Palmas,Ville,9
+1824,Cine Banca Privada Integrales S.L.U.,Melilla,Ville,10
+1825,Cine Desarrollo Globales S.L.L.,Pontevedra,Ville,11
+1826,Cine Guzman & Asociados S.L.,León,Ville,11
+1827,Cine Solano y asociados S.Com.,Soria,Ville,10
+1828,Cine Delia Arjona Perelló S.L.,Álava,Ville,7
+1829,Cine Suministros Puig S.Coop.,Huelva,Ville,8
+1830,Cine Compañía Bello S.A.,Santa Cruz de Tenerife,Ville,12
+1831,Cine Servicios Haro S.L.,Cádiz,Ville,11
+1832,Cine Supermercados Portillo S.Coop.,Jaén,Ville,6
+1833,Cine Vera Hoyos Larrañaga S.A.,Salamanca,Ville,10
+1834,Cine Alimentación Avanzadas S.A.,Málaga,Ville,12
+1835,Cine Alimentación WU S.L.,Las Palmas,Ville,7
+1836,Cine Olivé y asociados S.A.,Tarragona,Ville,6
+1837,Cine Hnos Alcántara S.A.T.,Lleida,Ville,6
+1838,Cine Verónica Gelabert Corral S.L.N.E,Ceuta,Ville,6
+1839,Cine Construcción Peña S.Com.,Vizcaya,Ville,12
+1840,Cine Construcción Baró S.Coop.,Palencia,Ville,6
+1841,Cine Guillen & Asociados S.L.,Baleares,Ville,7
+1842,Cine Construcción Mendoza S.L.,Cuenca,Ville,9
+1843,Cine Arévalo y Soto S.L.N.E,Teruel,Ville,9
+1844,Cine Fábrica Caparrós y asociados S.L.U.,Alicante,Ville,10
+1845,Cine Promociones Internacionales S.Coop.,Cuenca,Ville,10
+1846,Cine Grupo Rosado S.Coop.,Zaragoza,Ville,8
+1847,Cine Familia Murcia S.A.U,Jaén,Ville,7
+1848,Cine Hotel del Mediterráneo S.L.,Girona,Ville,10
+1849,Cine Comercial Ferrán y asociados S.C.P,Palencia,Ville,8
+1850,Cine Banca Privada SPUP S.L.,Guadalajara,Ville,8
+1851,Cine Distribuciones Españolas S.Coop.,Ciudad,Ville,6
+1852,Cine Eli Castelló Arévalo S.A.,Ciudad,Ville,9
+1853,Cine Aguado y Benet S.L.,Zamora,Ville,9
+1854,Cine Alfredo Feijoo Aparicio S.Coop.,Segovia,Ville,7
+1855,Cine Hnos Becerra S.L.,Castellón,Ville,7
+1856,Cine Izquierdo y asociados S.L.,Alicante,Ville,7
+1857,Cine Florinda Arco Torre S.Coop.,Cantabria,Ville,10
+1858,Cine Hnos Sáenz S.L.N.E,Asturias,Ville,12
+1859,Cine Hermanos Bernal S.C.P,Valencia,Ville,10
+1860,Cine Familia Múgica S.L.L.,Córdoba,Ville,7
+1861,Cine Hurtado y asociados S.L.,Badajoz,Ville,12
+1862,Cine Desarrollo Tolosa y asociados S.L.,Teruel,Ville,8
+1863,Cine Arana y Carrión S.A.T.,Girona,Ville,8
+1864,Cine Hermanos Lumbreras S.A.,Teruel,Ville,9
+1865,Cine Olmedo y Cuervo S.Com.,Burgos,Ville,10
+1866,Cine Construcción Gracia y asociados S.A.,Sevilla,Ville,12
+1867,Cine Anita Sarmiento Royo S.L.L.,Castellón,Ville,12
+1868,Cine Construcción del Mediterráneo S.L.U.,Palencia,Ville,6
+1869,Cine Alemán y Nicolau S.L.,Cantabria,Ville,7
+1870,Cine Ricart & Asociados S.L.,Segovia,Ville,7
+1871,Cine Banca Privada Castellana S.Coop.,Huelva,Ville,10
+1872,Cine Melero y Coloma S.L.,Valencia,Ville,11
+1873,Cine Grupo Amigó S.A.,Álava,Ville,9
+1874,Cine Compañía EU S.A.,Girona,Ville,9
+1875,Cine Manufacturas Madrigal S.A.,Huelva,Ville,10
+1876,Cine José Manuel Hernando Roldán S.L.L.,Navarra,Ville,12
+1877,Cine Matas & Asociados S.Com.,Albacete,Ville,8
+1878,Cine Grupo Lillo S.Com.,Guipúzcoa,Ville,8
+1879,Cine Comercializadora ERD S.L.,Santa Cruz de Tenerife,Ville,6
+1880,Cine Huertas y Peña S.Com.,Murcia,Ville,12
+1881,Cine Minería Tomé y asociados S.L.,Ourense,Ville,7
+1882,Cine Grupo Cabeza S.A.,Teruel,Ville,6
+1883,Cine Valle & Asociados S.L.,Asturias,Ville,11
+1884,Cine Familia Angulo S.L.N.E,Madrid,Ville,6
+1885,Cine Francisco Jose Crespi Cerdá S.L.N.E,Navarra,Ville,7
+1886,Cine Consultoría Ibéricos S.Coop.,Santa Cruz de Tenerife,Ville,10
+1887,Cine Logística Torralba S.A.,Navarra,Ville,9
+1888,Cine Tecnologías Campillo y asociados S.Com.,Zaragoza,Ville,8
+1889,Cine Pou y Álvarez S.L.N.E,Toledo,Ville,11
+1890,Cine Giralt y asociados S.Coop.,Las Palmas,Ville,8
+1891,Cine Gutiérrez y Vall S.L.L.,Madrid,Ville,12
+1892,Cine Hotel del Levante S.A.,Pontevedra,Ville,11
+1893,Cine Comercializadora Vilaplana & Asociados S.L.,Melilla,Ville,6
+1894,Cine Belén Arnau Arrieta S.L.L.,Cuenca,Ville,9
+1895,Cine Comercializadora Lucena S.L.N.E,Barcelona,Ville,8
+1896,Cine Goyo Guzman Ortiz S.Coop.,Barcelona,Ville,7
+1897,Cine Nicolás Goñi Rodrigo S.L.L.,Ceuta,Ville,10
+1898,Cine Fábrica Vidal S.Com.,Burgos,Ville,8
+1899,Cine Instalaciones Jerez & Asociados S.Coop.,Ceuta,Ville,11
+1900,Cine Gimenez y Peña S.Com.,Navarra,Ville,11
+1901,Cine Ruiz y Méndez S.L.,Ceuta,Ville,10
+1902,Cine Hermanos Palomares S.Com.,Lleida,Ville,11
+1903,Cine Cleto Pazos Mur S.A.,Pontevedra,Ville,8
+1904,Cine Banco CHB S.L.,Toledo,Ville,7
+1905,Cine Inmobiliaria PLP S.A.,Burgos,Ville,8
+1906,Cine Farmaceútica Prieto S.Com.,Soria,Ville,10
+1907,Cine Bayona y Riba S.Com.,Alicante,Ville,12
+1908,Cine Despacho Viña S.L.N.E,Huelva,Ville,11
+1909,Cine Hermanos Mateu S.L.N.E,Soria,Ville,12
+1910,Cine Banca Privada RHQG S.L.,Cádiz,Ville,8
+1911,Cine Inversiones Españolas S.L.N.E,Álava,Ville,11
+1912,Cine Inmobiliaria Granados & Asociados S.A.,Huelva,Ville,6
+1913,Cine Talleres IY S.C.P,Santa Cruz de Tenerife,Ville,7
+1914,Cine Elorza y Carrillo S.Coop.,Zamora,Ville,10
+1915,Cine Minería Lerma S.L.N.E,Melilla,Ville,8
+1916,Cine Infraestructuras CFR S.L.,Málaga,Ville,6
+1917,Cine Desarrollo Ferrer S.Coop.,Soria,Ville,10
+1918,Cine Consultoría Morera y asociados S.Coop.,Guadalajara,Ville,10
+1919,Cine Soluciones Integrales S.L.L.,Granada,Ville,8
+1920,Cine Farmaceútica Española S.L.,Huesca,Ville,12
+1921,Cine Adalberto Alonso Valero S.L.U.,Málaga,Ville,7
+1922,Cine Desarrollo Medina S.Coop.,Guipúzcoa,Ville,10
+1923,Cine Ferrera y Company S.Com.,Las Palmas,Ville,6
+1924,Cine Hnos Artigas S.L.U.,Girona,Ville,12
+1925,Cine Minería Guillen y asociados S.L.,Alicante,Ville,9
+1926,Cine Comercializadora Arias & Asociados S.L.N.E,Toledo,Ville,8
+1927,Cine Vigil y Pi S.L.L.,Zamora,Ville,9
+1928,Cine Alex Soria Ibañez S.A.,Zaragoza,Ville,11
+1929,Cine Palacio y Mendez S.Com.,Álava,Ville,7
+1930,Cine Hnos Sainz S.A.,Alicante,Ville,8
+1931,Cine Pía Falcó Nebot S.L.,Jaén,Ville,11
+1932,Cine Infraestructuras Jaén S.L.,Alicante,Ville,11
+1933,Cine Duarte & Asociados S.Coop.,La Rioja,Ville,12
+1934,Cine Banco del Levante S.Coop.,Murcia,Ville,8
+1935,Cine Promociones UBEQ S.L.,Murcia,Ville,10
+1936,Cine Grupo Vigil S.A.D,Cuenca,Ville,11
+1937,Cine Chaves & Asociados S.L.,Málaga,Ville,9
+1938,Cine Familia Torrecilla S.L.,Asturias,Ville,8
+1939,Cine Banca Privada Avanzadas S.A.,Castellón,Ville,6
+1940,Cine Desarrollo Mayoral S.L.N.E,Jaén,Ville,6
+1941,Cine Hotel Ferrera & Asociados S.A.,Madrid,Ville,9
+1942,Cine Supermercados Huguet & Asociados S.L.,Valladolid,Ville,11
+1943,Cine Promociones Solano & Asociados S.Coop.,Álava,Ville,11
+1944,Cine Familia Talavera S.Coop.,Albacete,Ville,7
+1945,Cine Pulido y Batalla S.Com.,Soria,Ville,8
+1946,Cine Rodríguez y asociados S.A.,Castellón,Ville,10
+1947,Cine Familia Mur S.L.,Cáceres,Ville,10
+1948,Cine Transportes Colom S.Coop.,Castellón,Ville,7
+1949,Cine Castellanos y Rosales S.L.,Lleida,Ville,11
+1950,Cine Calisto Arrieta Soto S.L.L.,Guipúzcoa,Ville,9
+1951,Cine Caro y Llanos S.L.N.E,Zamora,Ville,8
+1952,Cine Camila Infante Garzón S.Com.,Cáceres,Ville,11
+1953,Cine Finanzas WH S.A.,Málaga,Ville,11
+1954,Cine Farmaceútica Canals S.Com.,Castellón,Ville,6
+1955,Cine Compañía RC S.L.U.,Ceuta,Ville,12
+1956,Cine Laguna & Asociados S.L.L.,Salamanca,Ville,12
+1957,Cine Crespi & Asociados S.L.,Madrid,Ville,7
+1958,Cine Inversiones JDL S.Com.,Cantabria,Ville,7
+1959,Cine Supermercados Ibéricos S.L.,Valencia,Ville,8
+1960,Cine Grupo Toro S.L.N.E,Jaén,Ville,11
+1961,Cine Maribel Aragón Alegria S.Com.,Girona,Ville,7
+1962,Cine Talleres Avanzadas S.Coop.,Albacete,Ville,6
+1963,Cine Llanos & Asociados S.L.,Lleida,Ville,6
+1964,Cine Finanzas Castellana S.L.,Huesca,Ville,8
+1965,Cine Buendía y asociados S.L.N.E,Salamanca,Ville,11
+1966,Cine Fabián Gonzalez Montes S.L.N.E,Valencia,Ville,11
+1967,Cine Buenaventura Casas Castejón S.Com.,Baleares,Ville,10
+1968,Cine Belda y Vila S.L.,Córdoba,Ville,7
+1969,Cine Construcción MRQ S.Com.,Jaén,Ville,6
+1970,Cine Familia Gomis S.L.U.,Navarra,Ville,12
+1971,Cine Promociones Rocamora y asociados S.A.U,Jaén,Ville,6
+1972,Cine Noemí Pujol Soriano S.Com.,Tarragona,Ville,8
+1973,Cine Nélida Cruz Serrano S.A.U,La Rioja,Ville,9
+1974,Cine Familia Feliu S.L.,Segovia,Ville,6
+1975,Cine Desarrollo Llamas & Asociados S.Com.,Valencia,Ville,7
+1976,Cine Comercializadora CTXX S.L.N.E,Salamanca,Ville,11
+1977,Cine Banca Privada Globales S.Coop.,Pontevedra,Ville,10
+1978,Cine Desarrollo Española S.Com.,Zaragoza,Ville,6
+1979,Cine Grupo Zurita S.L.U.,Murcia,Ville,12
+1980,Cine Logística AQXJ S.A.U,Huesca,Ville,11
+1981,Cine Talleres OZO S.L.U.,Asturias,Ville,6
+1982,Cine Hermanos Paz S.A.,Ourense,Ville,6
+1983,Cine Construcción Española S.Coop.,Guipúzcoa,Ville,9
+1984,Cine Saez & Asociados S.A.T.,Teruel,Ville,7
+1985,Cine Barranco y asociados S.Coop.,Huesca,Ville,7
+1986,Cine Familia Suárez S.L.,Toledo,Ville,7
+1987,Cine Salamanca y Manjón S.A.,Cádiz,Ville,9
+1988,Cine Comercial Globales S.L.U.,Huelva,Ville,8
+1989,Cine Restauración del Levante S.L.,Vizcaya,Ville,9
+1990,Cine Instalaciones Luna & Asociados S.A.U,Salamanca,Ville,8
+1991,Cine Barrena & Asociados S.Coop.,Palencia,Ville,8
+1992,Cine Despacho LJ S.L.U.,Cáceres,Ville,7
+1993,Cine Hnos Jara S.L.N.E,Álava,Ville,6
+1994,Cine Familia Calleja S.L.,Cádiz,Ville,6
+1995,Cine Comercializadora BREN S.A.,Melilla,Ville,10
+1996,Cine Alimentación Solana S.A.,Álava,Ville,6
+1997,Cine Farmaceútica Ibéricos S.L.N.E,Palencia,Ville,6
+1998,Cine Luna y Perera S.L.L.,Toledo,Ville,6
+1999,Cine Galvez y Oliver S.Com.,Vizcaya,Ville,7
+2000,Cine Bruno Madrigal Santamaria S.L.N.E,Barcelona,Ville,6
+2001,Cine Esther Palomar Arnal S.A.,Murcia,Ville,8
+2002,Cine Girona & Asociados S.Coop.,Santa Cruz de Tenerife,Ville,11
+2003,Cine Nadia Barreda Jódar S.Com.,Navarra,Ville,7
+2004,Cine Grupo Lago S.Com.,Palencia,Ville,11
+2005,Cine Farmaceútica Mayo S.Com.,Tarragona,Ville,8
+2006,Cine Manufacturas Román & Asociados S.Com.,Castellón,Ville,10
+2007,Cine Consultoría Internacionales S.L.N.E,Las Palmas,Ville,10
+2008,Cine Consultoría Varela S.A.,Salamanca,Ville,12
+2009,Cine Jerez y asociados S.C.P,Girona,Ville,12
+2010,Cine Despacho Lluch S.A.,Soria,Ville,10
+2011,Cine Ballesteros y Caro S.Coop.,Teruel,Ville,6
+2012,Cine Robledo y asociados S.C.P,Zamora,Ville,10
+2013,Cine Suministros NPU S.A.D,Guadalajara,Ville,7
+2014,Cine Farmaceútica AL S.L.,Navarra,Ville,12
+2015,Cine Transportes Españolas S.L.,Alicante,Ville,12
+2016,Cine Hermanos Gomila S.A.,Palencia,Ville,8
+2017,Cine Industrias Sarabia S.L.N.E,Álava,Ville,10
+2018,Cine Anastasia Juan Casals S.L.,Alicante,Ville,8
+2019,Cine Alimentación del Sur S.Com.,Melilla,Ville,11
+2020,Cine Tejedor y Escolano S.Coop.,Las Palmas,Ville,12
+2021,Cine Peiró & Asociados S.Coop.,Guadalajara,Ville,12
+2022,Cine Doménech & Asociados S.Coop.,Las Palmas,Ville,9
+2023,Cine Familia Belmonte S.Com.,Barcelona,Ville,12
+2024,Cine Jesús Llano Sales S.L.L.,Barcelona,Ville,10
+2025,Cine Tecnologías del Sur S.Com.,Navarra,Ville,7
+2026,Cine Hnos Alcázar S.A.,Guadalajara,Ville,8
+2027,Cine Hermanos Manso S.Coop.,Cádiz,Ville,7
+2028,Cine Burgos & Asociados S.A.,Zaragoza,Ville,12
+2029,Cine Manufacturas Iberia S.A.,Alicante,Ville,6
+2030,Cine Santiago Leiva Romero S.Com.,Teruel,Ville,8
+2031,Cine Transportes Landa & Asociados S.A.,Huesca,Ville,11
+2032,Cine Montaña & Asociados S.Coop.,Zaragoza,Ville,6
+2033,Cine Echevarría y Alcázar S.L.U.,Jaén,Ville,6
+2034,Cine Felicidad Palacios Jara S.C.P,Toledo,Ville,6
+2035,Cine Salmerón y asociados S.L.,Sevilla,Ville,8
+2036,Cine Banca Privada Españolas S.C.P,La Rioja,Ville,9
+2037,Cine Consultoría Borrás S.L.N.E,Zamora,Ville,12
+2038,Cine Compañía Integrales S.A.,Álava,Ville,10
+2039,Cine Promociones APKL S.Com.,Burgos,Ville,12
+2040,Cine Desarrollo JH S.A.,Palencia,Ville,11
+2041,Cine Familia Guzman S.L.N.E,Baleares,Ville,9
+2042,Cine Inversiones Moraleda y asociados S.Com.,Castellón,Ville,7
+2043,Cine Consultoría Diéguez & Asociados S.L.,Badajoz,Ville,6
+2044,Cine Talleres Luna S.Com.,Santa Cruz de Tenerife,Ville,12
+2045,Cine Suministros Ayllón & Asociados S.L.N.E,La Coruña,Ville,10
+2046,Cine Suministros KO S.L.,La Rioja,Ville,9
+2047,Cine Finanzas MP S.Coop.,Tarragona,Ville,6
+2048,Cine Consultoría Morán S.Coop.,Cáceres,Ville,11
+2049,Cine Despacho Sarabia y asociados S.Coop.,Málaga,Ville,10
+2050,Cine Talleres DNQ S.Com.,Cádiz,Ville,9
+2051,Cine Supermercados Barberá S.Com.,Zaragoza,Ville,6
+2052,Cine Camacho y Solé S.L.N.E,Huelva,Ville,7
+2053,Cine Supermercados KZH S.A.,Baleares,Ville,7
+2054,Cine Restauración Arellano S.L.L.,Santa Cruz de Tenerife,Ville,7
+2055,Cine Construcción Iberia S.L.L.,Navarra,Ville,11
+2056,Cine Galindo y Haro S.A.D,Huesca,Ville,11
+2057,Cine Chico y Manzanares S.Coop.,Cáceres,Ville,12
+2058,Cine Talleres Pavón S.Com.,Zaragoza,Ville,9
+2059,Cine Despacho Iberia S.L.N.E,Cantabria,Ville,12
+2060,Cine Hnos Fajardo S.Coop.,Lleida,Ville,11
+2061,Cine Hermanos Arco S.Coop.,Las Palmas,Ville,12
+2062,Cine Arribas y Vazquez S.A.,Castellón,Ville,11
+2063,Cine Farmaceútica Mariño & Asociados S.L.N.E,Segovia,Ville,9
+2064,Cine Inversiones Montenegro y asociados S.A.,Segovia,Ville,6
+2065,Cine Familia Martin S.L.L.,Guipúzcoa,Ville,10
+2066,Cine Almagro y Méndez S.A.T.,Zaragoza,Ville,12
+2067,Cine Ruano y Mas S.A.,Huelva,Ville,6
+2068,Cine Finanzas Globales S.L.,Lugo,Ville,7
+2069,Cine Tecnologías Castellana S.Coop.,Alicante,Ville,8
+2070,Cine Valenzuela y Soto S.Coop.,Ávila,Ville,11
+2071,Cine Sebastián y Martín S.A.,Huesca,Ville,10
+2072,Cine Compañía Antúnez S.Com.,Burgos,Ville,10
+2073,Cine Hermanos Tejero S.L.N.E,León,Ville,10
+2074,Cine Finanzas Clavero & Asociados S.Coop.,La Rioja,Ville,9
+2075,Cine Supermercados Prieto & Asociados S.L.N.E,Asturias,Ville,7
+2076,Cine Talleres Martinez y asociados S.Com.,Murcia,Ville,8
+2077,Cine Grupo Amores S.A.,Melilla,Ville,11
+2078,Cine Minería EZW S.Coop.,Ávila,Ville,6
+2079,Cine Agustí & Asociados S.Coop.,Huesca,Ville,7
+2080,Cine Comercial TR S.A.T.,Melilla,Ville,7
+2081,Cine Manufacturas Avanzadas S.L.,Teruel,Ville,12
+2082,Cine Hnos Ariza S.L.N.E,Zaragoza,Ville,9
+2083,Cine Consultoría GK S.Com.,Girona,Ville,10
+2084,Cine Transportes Alfonso & Asociados S.L.N.E,Vizcaya,Ville,10
+2085,Cine Torrecilla y Gallego S.Coop.,Alicante,Ville,6
+2086,Cine Losada & Asociados S.Com.,Barcelona,Ville,11
+2087,Cine Inmobiliaria Duarte S.A.,Ceuta,Ville,10
+2088,Cine Soluciones del Levante S.L.,Murcia,Ville,6
+2089,Cine Octavio Amor Tejada S.C.P,Girona,Ville,6
+2090,Cine Pepito Tudela Rodriguez S.A.,Melilla,Ville,6
+2091,Cine Logística Españolas S.Coop.,Barcelona,Ville,6
+2092,Cine Ureña & Asociados S.Com.,Almería,Ville,7
+2093,Cine Hnos Maestre S.A.,Ávila,Ville,6
+2094,Cine Comercial Luz S.Coop.,Huesca,Ville,8
+2095,Cine Transportes FFHA S.L.N.E,Madrid,Ville,6
+2096,Cine Hermanos Moll S.L.N.E,Burgos,Ville,8
+2097,Cine Manrique y Gascón S.L.L.,Huesca,Ville,7
+2098,Cine Supermercados Casal y asociados S.L.N.E,Huelva,Ville,12
+2099,Cine Suministros del Sur S.L.L.,Guadalajara,Ville,8
+2100,Cine Vara & Asociados S.Com.,Las Palmas,Ville,8
+2101,Cine Construcción Valbuena & Asociados S.Coop.,Málaga,Ville,12
+2102,Cine Restauración Cuesta & Asociados S.L.,León,Ville,12
+2103,Cine Transportes Orozco y asociados S.A.,Murcia,Ville,10
+2104,Cine Hotel LXDP S.A.U,Palencia,Ville,7
+2105,Cine Familia Briones S.L.,Valladolid,Ville,6
+2106,Cine Horacio Ferreras Barrera S.A.,Lugo,Ville,9
+2107,Cine Encarnacion Gibert Gomis S.Coop.,Albacete,Ville,12
+2108,Cine Comercial Larrea & Asociados S.A.,Toledo,Ville,8
+2109,Cine Tecnologías Artigas S.L.N.E,Lugo,Ville,10
+2110,Cine Benet y asociados S.A.,Lugo,Ville,7
+2111,Cine Construcción del Mediterráneo S.A.T.,Salamanca,Ville,8
+2112,Cine Industrias Bosch S.Com.,La Rioja,Ville,8
+2113,Cine Benitez y asociados S.Coop.,Girona,Ville,10
+2114,Cine Consultoría Internacionales S.C.P,Sevilla,Ville,8
+2115,Cine Cruz y Baena S.L.N.E,Lleida,Ville,9
+2116,Cine Amador y Ramis S.A.,Navarra,Ville,7
+2117,Cine Guerra & Asociados S.Coop.,Valladolid,Ville,9
+2118,Cine Compañía Santamaria y asociados S.Com.,Melilla,Ville,10
+2119,Cine Infraestructuras Arias y asociados S.L.N.E,Salamanca,Ville,10
+2120,Cine Colom y asociados S.L.,Barcelona,Ville,10
+2121,Cine Supermercados Seco S.L.,Barcelona,Ville,12
+2122,Cine Finanzas Española S.A.,Vizcaya,Ville,7
+2123,Cine Suministros Nevado S.A.,Huelva,Ville,12
+2124,Cine Logística Arellano y asociados S.L.,Guadalajara,Ville,11
+2125,Cine Hnos Narváez S.A.,Almería,Ville,12
+2126,Cine Manufacturas Múgica & Asociados S.L.,Álava,Ville,12
+2127,Cine Ribes y Moya S.Coop.,Lleida,Ville,12
+2128,Cine Banco Soriano S.L.L.,Burgos,Ville,12
+2129,Cine Grupo Blasco S.Coop.,La Coruña,Ville,7
+2130,Cine Adora Quintero Guijarro S.Coop.,Guipúzcoa,Ville,11
+2131,Cine Jonatan Calleja Milla S.Coop.,Guadalajara,Ville,10
+2132,Cine Quesada & Asociados S.A.,Sevilla,Ville,7
+2133,Cine Hermanos Cuéllar S.L.N.E,Cuenca,Ville,6
+2134,Cine Varela y Alemany S.Coop.,Toledo,Ville,9
+2135,Cine Encarnacion Juliá Hurtado S.L.U.,Albacete,Ville,11
+2136,Cine Banco Integrales S.L.N.E,Cuenca,Ville,12
+2137,Cine Talleres Pérez S.A.,Valladolid,Ville,9
+2138,Cine Familia Anguita S.L.,Ciudad,Ville,8
+2139,Cine Fábrica OGEW S.C.P,Segovia,Ville,9
+2140,Cine Logística del Sur S.Com.,Zamora,Ville,12
+2141,Cine Cuevas y Gomez S.Coop.,Alicante,Ville,7
+2142,Cine Grupo Núñez S.Com.,Huesca,Ville,11
+2143,Cine Carrera y Carnero S.Coop.,La Coruña,Ville,10
+2144,Cine Grupo Garmendia S.Coop.,Lleida,Ville,6
+2145,Cine Bernardita Zabala Escribano S.L.N.E,Cantabria,Ville,6
+2146,Cine Comercializadora del Mediterráneo S.Com.,Granada,Ville,7
+2147,Cine Español y Salgado S.L.,Tarragona,Ville,12
+2148,Cine Porras y Cárdenas S.A.,Alicante,Ville,7
+2149,Cine Niño y Castillo S.A.,Huelva,Ville,6
+2150,Cine Mur y Rivas S.L.,Cantabria,Ville,12
+2151,Cine Nicolás y Adán S.L.N.E,Huelva,Ville,7
+2152,Cine Manuelita Cisneros Arce S.A.,Ávila,Ville,8
+2153,Cine Farmaceútica BPE S.A.,Burgos,Ville,12
+2154,Cine Inversiones Amador S.C.P,Guadalajara,Ville,7
+2155,Cine Soluciones Globales S.Com.,Alicante,Ville,10
+2156,Cine Gascón y Moll S.L.,Cádiz,Ville,6
+2157,Cine Hnos Duran S.L.,Badajoz,Ville,10
+2158,Cine Garriga & Asociados S.A.,Barcelona,Ville,11
+2159,Cine Tecnologías Armas y asociados S.L.,Cáceres,Ville,8
+2160,Cine Hermanos Sanchez S.A.D,Vizcaya,Ville,8
+2161,Cine Soler & Asociados S.L.N.E,Albacete,Ville,6
+2162,Cine Manufacturas CQMZ S.L.N.E,Asturias,Ville,8
+2163,Cine Soluciones Perales S.A.,Soria,Ville,6
+2164,Cine Despacho Ibérica S.Com.,Madrid,Ville,10
+2165,Cine Manufacturas Marquez & Asociados S.A.,Cáceres,Ville,11
+2166,Cine Diez y asociados S.Com.,Murcia,Ville,8
+2167,Cine Fábrica Villena y asociados S.Com.,Teruel,Ville,9
+2168,Cine Giménez y Almagro S.A.,Segovia,Ville,12
+2169,Cine Ana Belén Marco Mayol S.A.,La Coruña,Ville,11
+2170,Cine Fábrica del Noroeste S.L.L.,Cuenca,Ville,7
+2171,Cine Restauración Rico S.A.,Cáceres,Ville,11
+2172,Cine Compañía GLF S.L.L.,Ourense,Ville,11
+2173,Cine Hugo Mascaró Cases S.L.L.,Ceuta,Ville,10
+2174,Cine Sainz & Asociados S.A.,Huesca,Ville,11
+2175,Cine Tecnologías MJ S.A.,Badajoz,Ville,7
+2176,Cine Guillén y asociados S.Com.,Asturias,Ville,9
+2177,Cine Minería DLKC S.L.L.,Palencia,Ville,9
+2178,Cine Tecnologías BUUY S.L.,Córdoba,Ville,9
+2179,Cine Hnos Llabrés S.Coop.,Salamanca,Ville,11
+2180,Cine Industrias Internacionales S.L.,Melilla,Ville,11
+2181,Cine Mena & Asociados S.L.,Pontevedra,Ville,12
+2182,Cine Baudelio Hervia Moliner S.L.N.E,Santa Cruz de Tenerife,Ville,9
+2183,Cine Banco del Sur S.L.,Cáceres,Ville,8
+2184,Cine Alimentación Rios y asociados S.L.L.,Zamora,Ville,8
+2185,Cine Consultoría Anguita & Asociados S.L.N.E,Lugo,Ville,12
+2186,Cine Infraestructuras Amaya y asociados S.Coop.,Alicante,Ville,10
+2187,Cine Macaria Pelayo Carbonell S.Coop.,Cáceres,Ville,6
+2188,Cine Despacho Gallart S.Com.,Cádiz,Ville,7
+2189,Cine Supermercados Tamarit S.Coop.,Navarra,Ville,7
+2190,Cine Ribera & Asociados S.L.,Cádiz,Ville,8
+2191,Cine Transportes Bravo S.L.N.E,Valladolid,Ville,11
+2192,Cine Herminia Quesada Planas S.Coop.,Segovia,Ville,7
+2193,Cine Instalaciones WJE S.Coop.,Ciudad,Ville,12
+2194,Cine Hotel Coello & Asociados S.A.D,Cádiz,Ville,11
+2195,Cine Tecnologías ZUY S.A.,Soria,Ville,6
+2196,Cine Cases & Asociados S.L.,Alicante,Ville,6
+2197,Cine Minería Ibéricos S.C.P,Zaragoza,Ville,6
+2198,Cine Canales & Asociados S.Coop.,Lleida,Ville,9
+2199,Cine Coloma y Gomis S.L.L.,Cuenca,Ville,9
+2200,Cine Eligio Mayo Lozano S.A.,Lugo,Ville,6
+2201,Cine Comercial Rivero & Asociados S.Coop.,Las Palmas,Ville,9
+2202,Cine Farmaceútica RTYB S.L.,Castellón,Ville,10
+2203,Cine Tecnologías Sabater & Asociados S.A.,Guipúzcoa,Ville,8
+2204,Cine Mendizábal y Diez S.L.,Segovia,Ville,11
+2205,Cine Santiago y asociados S.L.L.,Madrid,Ville,11
+2206,Cine Jose Manuel Díez Miranda S.Com.,Ávila,Ville,10
+2207,Cine Hermanos Elías S.A.T.,Las Palmas,Ville,8
+2208,Cine Tecnologías Estrada S.Coop.,Cáceres,Ville,9
+2209,Cine Logística Montes S.C.P,Ávila,Ville,11
+2210,Cine Desarrollo VUNI S.Coop.,Huelva,Ville,11
+2211,Cine Inmobiliaria VST S.Coop.,Huesca,Ville,10
+2212,Cine Finanzas IC S.Coop.,Teruel,Ville,9
+2213,Cine Rovira y Alberdi S.L.,La Rioja,Ville,7
+2214,Cine Ciro Rivas Hernandez S.Coop.,Málaga,Ville,10
+2215,Cine Vendrell y Niño S.C.P,Cantabria,Ville,6
+2216,Cine Rivera & Asociados S.A.,Asturias,Ville,7
+2217,Cine Talleres del Levante S.L.,Ceuta,Ville,11
+2218,Cine Hoyos y Girona S.Com.,Tarragona,Ville,6
+2219,Cine Cifuentes y Agustín S.C.P,Almería,Ville,6
+2220,Cine Restauración Ibéricos S.L.N.E,Valladolid,Ville,12
+2221,Cine Raúl Cerro Carro S.L.N.E,Badajoz,Ville,9
+2222,Cine Comercializadora KE S.L.N.E,Valencia,Ville,10
+2223,Cine Grande y Noriega S.L.N.E,Cantabria,Ville,12
+2224,Cine Comercializadora Pereira S.Com.,Zaragoza,Ville,11
+2225,Cine Baró y asociados S.A.,Salamanca,Ville,8
+2226,Cine Álvaro y Castañeda S.Coop.,Teruel,Ville,7
+2227,Cine Talleres Noriega S.Coop.,Lleida,Ville,10
+2228,Cine Consultoría HZ S.A.,Salamanca,Ville,12
+2229,Cine Hnos Gomila S.L.,La Rioja,Ville,8
+2230,Cine Florentina Perales Serrano S.L.,Alicante,Ville,11
+2231,Cine Distribuciones Coronado & Asociados S.Com.,Ceuta,Ville,12
+2232,Cine Desarrollo CV S.Coop.,Lleida,Ville,12
+2233,Cine Hermanos Sola S.Coop.,Ceuta,Ville,12
+2234,Cine Soluciones BV S.A.,Navarra,Ville,11
