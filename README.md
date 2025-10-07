@@ -1,5 +1,4 @@
-#  Configuración de NFS Server para Docker (EC2 Ubuntu)
-
+#  Configuración de NFS Server para Docker (EC2 Ubuntu (t3.small))
 Este procedimiento permite exponer la carpeta `/srv/theaters` del servidor (host) vía NFS, de modo que el contenedor `` pueda acceder a ella como volumen compartido.
 
 ---
