@@ -1,4 +1,6 @@
+-- ==========================================
 -- Crear rol de aplicación
+-- ==========================================
 DO $$
 BEGIN
   IF NOT EXISTS (SELECT 1 FROM pg_roles WHERE rolname = 'moviesuser') THEN
@@ -6,44 +8,49 @@ BEGIN
   END IF;
 END$$;
 
+-- ==========================================
 -- Tablas
+-- ==========================================
 CREATE TABLE IF NOT EXISTS movies (
-  id                SERIAL PRIMARY KEY,
-  nombre            TEXT NOT NULL,
-  genero            TEXT,
-  descripcion       TEXT,
-  tiempo            INT,
-  restriccion_edad  TEXT,
-  is_premiere       BOOLEAN
+  id               BIGSERIAL PRIMARY KEY,
+  name             TEXT NOT NULL,
+  genre            TEXT NOT NULL,
+  description      TEXT NOT NULL,
+  time             INT NOT NULL,
+  age_restriction  TEXT,
+  premiere         BOOLEAN NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS showtimes (
-  id             SERIAL PRIMARY KEY,
-  movie_id       INT NOT NULL REFERENCES movies(id) ON DELETE CASCADE,
+  id             BIGSERIAL PRIMARY KEY,
+  movie_id       BIGINT NOT NULL REFERENCES movies(id) ON DELETE CASCADE,
   start_time     TIMESTAMP NOT NULL,
-  precio         NUMERIC(10,2) NOT NULL,
+  precio         FLOAT(53) NOT NULL,
   cinema_id_ext  TEXT NOT NULL,
   sala_id_ext    TEXT NOT NULL,
-  sala_number    INT
+  sala_number    INT 
 );
 
-CREATE INDEX IF NOT EXISTS idx_showtimes_movie        ON showtimes(movie_id);
-CREATE INDEX IF NOT EXISTS idx_showtimes_start_time   ON showtimes(start_time);
-CREATE INDEX IF NOT EXISTS idx_showtimes_cinema_sala  ON showtimes(cinema_id_ext, sala_id_ext);
+CREATE INDEX IF NOT EXISTS idx_showtimes_movie       ON showtimes(movie_id);
+CREATE INDEX IF NOT EXISTS idx_showtimes_start_time  ON showtimes(start_time);
 
+-- ==========================================
 -- Importa MOVIES (preserva id)
-COPY movies(id, nombre, genero, descripcion, tiempo, restriccion_edad, is_premiere)
+-- ==========================================
+COPY movies(id, name, genre, description, time, age_restriction, premiere)
 FROM '/data/movies/movies.csv'
 WITH (FORMAT csv, HEADER true);
 
 SELECT setval(pg_get_serial_sequence('movies','id'), COALESCE(MAX(id),0)) FROM movies;
 
+-- ==========================================
 -- Staging para showtimes
+-- ==========================================
 DROP TABLE IF EXISTS showtimes_stage;
 CREATE TABLE showtimes_stage (
-  movie_id       INT,
+  movie_id       BIGINT,
   start_time     TIMESTAMP,
-  precio         NUMERIC(10,2),
+  precio         FLOAT(53),
   cinema_id_ext  TEXT,
   sala_id_ext    TEXT,
   sala_number    INT
@@ -84,7 +91,9 @@ FROM showtimes_stage;
 DROP TABLE IF EXISTS showtimes_stage;
 SELECT setval(pg_get_serial_sequence('showtimes','id'), COALESCE(MAX(id),0)) FROM showtimes;
 
+-- ==========================================
 -- Privilegios para la app
+-- ==========================================
 ALTER DATABASE moviesdb OWNER TO moviesuser;
 ALTER SCHEMA public OWNER TO moviesuser;
 GRANT ALL ON SCHEMA public TO moviesuser;
