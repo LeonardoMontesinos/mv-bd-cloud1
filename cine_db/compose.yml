@@ -71,7 +71,7 @@ services:
       retries: 20
 
   # ---------- Importador de bookings ----------
-  bookings_import:
+    bookings_import:
     image: mongo:7
     container_name: bookings_import
     depends_on:
@@ -98,7 +98,22 @@ services:
         if [ "$$CNT" -eq 0 ]; then
           echo ">> No hay *.ndjson en /data/bookings. Nada que importar."
         fi
+        echo ">> Materializando bookings_mat..."
+        mongosh --host mongo_bookings --quiet --eval '
+          const db = new Mongo().getDB("bookingsdb");
+          db.bookings.aggregate([
+            { $addFields: {
+                created_at_dt: { $cond: [ { $eq: [ { $type: "$created_at" }, "date" ] }, "$created_at", { $dateFromString: { dateString: "$created_at" } } ] },
+                created_at_pe: { $cond: [ { $eq: [ { $type: "$created_at" }, "date" ] }, "$created_at", { $dateFromString: { dateString: "$created_at", timezone: "America/Lima" } } ] },
+                seat_count: { $size: { $ifNull: ["$seats", []] } },
+                email_norm: { $toLower: "$user.email" }
+            }},
+            { $merge: { into: "bookings_mat", on: "_id", whenMatched: "replace", whenNotMatched: "insert" } }
+          ]);
+          print(">> bookings_mat actualizada.");
+        '
     restart: "no"
+
 
   # ---------- SQLite THEATERS ----------
   sqlite_theaters:
