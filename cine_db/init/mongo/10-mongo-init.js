@@ -47,7 +47,7 @@
               },
               payment_method: { bsonType: ["string","null"], enum: ["card","cash","yape","plin","stripe",null] },
               source: { bsonType: ["string","null"], enum: ["web","mobile","kiosk","partner",null] },
-              status: { bsonType: "string", enum: ["CONFIRMED","CANCELLED","REFUNDED"] },
+              status: { bsonType: "string", enum: ["CONFIRMED","CANCELLED","PENDING","REFUNDED"] },
               price_total: { bsonType: ["double","int","long","decimal"] },
               currency: { bsonType: "string" },
               created_at: { bsonType: ["date","string"] }
